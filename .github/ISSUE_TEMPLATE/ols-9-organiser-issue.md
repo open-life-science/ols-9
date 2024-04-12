@@ -1,22 +1,30 @@
+---
+name: OLS Organisation MEGA Checklist
+about: The meta issue for the OLS organisation
+title: "[OLS-9 Cohort Organisation Checklist]"
+labels: ''
+assignees: ''
+---
+
 # _This is a cohort checklist that covers tasks before, during and after the cohorts_.
 
-Note: each cohort week (the entire cohort has a total of 16 weeks) has a number of related tasks. Each week has a GitHub related issue: 
-Week 1: #1
-Week 2: #2 
-Week 3: #3 
-Week 4: #4 
-Week 5: #5 
-Week 6: #6 
-Week 7: #7 
-Week 8: #8 
-Week 9: #9 
-Week 10: #10 
-Week 11: #11 
-Week 12: #12 
-Week 13: #13 
-Week 14: #14 
-Week 15: #15 
-Week 16: #16 
+Note: each cohort week (the entire cohort has a total of 16 weeks) has several related tasks. Each week has a GitHub-related issue: 
+- Week 1: #2
+- Week 2: #3
+- Week 3: #4
+- Week 4: #5
+- Week 5: #6
+- Week 6: #7
+- Week 7: #8
+- Week 8: #9
+- Week 9: #10
+- Week 10: #11
+- Week 11: #12
+- Week 12: #13
+- Week 13: #14
+- Week 14: #15
+- Week 15: #16
+- Week 16: #17 
 
 # On-boarding and training sessions for cohort participants (mentors, facilitators)
 - Mentors on-boarding (done by OLS team members) - see [calendar/schedule](https://openlifesci.org/ols-9/schedule/)
@@ -28,7 +36,7 @@ Week 16: #16
 - OpenReview for applications (Learn how to recruit reviewers in open review (video)
 - Share written tutorial for cohort call facilitators (in-call facilitators and transcription checkers)
 - Use Restream for graduations (to stream both to otter.ai and to YouTube from Zoom). 
-- Create bitly links for each cohort call (linked to planning sheet)
+- Create Bitly links for each cohort call (linked to the planning sheet)
 - How to create the certificates of completion using Inkscape (at the end of the cohort)
 
 # Set Up Relevant documents/forms
@@ -37,7 +45,7 @@ Week 16: #16
 - Cohort planning sheet
 - Cohort GitHub repo (this) with updated issue templates
 - Cohort mentor, facilitator and speaker recruitment forms (three could be linked)
-- Cohort facilitators sign up sheet, [example](https://docs.google.com/spreadsheets/d/1MFtAVvkqTejluTWsVMEv_BUQ2M3B3PJmlrknDyHvj6U/edit#gid=522767112) 
+- Cohort facilitators sign-up sheet, [example](https://docs.google.com/spreadsheets/d/1MFtAVvkqTejluTWsVMEv_BUQ2M3B3PJmlrknDyHvj6U/edit#gid=522767112) 
 - Cohort honoraria form (used by facilitators, mentors, and speakers)
 - Cohort CiviCRM sign-up form (all cohort participants must sign up to fully register in the cohort)
 - Create issues 1 to 16 linking to each week of the cohort
