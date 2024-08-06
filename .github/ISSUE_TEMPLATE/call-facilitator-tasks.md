@@ -1,7 +1,7 @@
 ---
 name: Call Facilitator tasks
 about: Lists of tasks for call facilitators
-title: "[Call Facilitators tasks // OLS-8 Cohort call week XX // DATE & TIME]"
+title: "[Call Facilitators tasks // OLS-9 Cohort call week XX // DATE & TIME]"
 labels: ''
 assignees: ''
 
@@ -31,7 +31,7 @@ _Time commitment: 90 minutes per call, please arrive 10 minutes early so we can 
 - [ ] Create the breakout rooms if needed, considering people’s choice for spoken or written rooms.
 - [ ] Chair the parts that you have agreed to (you would have coordinated this in advance with the call leads or coordinator)
 
-#### After the call, fill in the following information in our [OLS-8 planning sheet](https://docs.google.com/spreadsheets/d/1Tnk-kkHUmPOEfUOEAl627l6JS9SoY5D4gSAPCYoBRSY/edit#gid=2109933309) (the tab is “OLS-8”)
+#### After the call, fill in the following information in our [OLS-9 planning sheet](https://docs.google.com/spreadsheets/d/1Tnk-kkHUmPOEfUOEAl627l6JS9SoY5D4gSAPCYoBRSY/edit#gid=2109933309) (the tab is “OLS-9”)
 
 - [ ] Add the name of the confirmed speakers (column L)
 - [ ] Add the title of the talk (column F)
