@@ -1,7 +1,7 @@
 ---
 name: Weekly Checklist
 about: Lists of tasks for call facilitators
-title: "[OLS-9 Cohort call week XX] Checklist for the Call Leads
+title: "[OLS-9 Cohort call week XX] Checklist for the Call Leads"
 labels: ''
 assignees: ''
 ---
