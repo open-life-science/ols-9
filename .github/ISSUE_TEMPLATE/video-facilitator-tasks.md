@@ -1,7 +1,7 @@
 ---
 name: Video Facilitator tasks
 about: List of tasks for video facilitators
-title: "[Video Facilitators tasks // OLS-8 Cohort call week XX // DATE & TIME]"
+title: "[OLS-8 Cohort call week XX] Video Facilitators tasks"
 labels: ''
 assignees: ''
 
