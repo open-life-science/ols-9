@@ -1,29 +1,29 @@
 
 
 
-# Week 02 - Welcome to Open Seeds OLS-8!
+# Week 02 - Welcome to Open Seeds OLS-9 Catalyst Track!
 
-**Date** : 26 September 2023
+**Date** : 25 September 2024
 
-**Time: **9am UTC 
+**Time**: 4pm UTC 
 
 **Duration**: 90 minutes
 
-**Call lead: **Bérénice Batut
+**Call lead**: Tajuddeen Gwadabe
 
-**Facilitator**: Umar Farouk
+**Facilitator**: Tajuddeen Gwadabe
 
 
 
 ## Join OLS-8 Cohort Room
 
+**Join the Zoom call**: https://us02web.zoom.us/j/81462081794?pwd=UhU6mMHtdcNvuFpitlYF2AyESz5wUa.1
+Meeting ID: 814 6208 1794
+Passcode: 752836
 
 
-**Join the Zoom call:  **[https://us02web.zoom.us/j/83263621055?pwd=Z2RZZWN6WjFaU1hySktxeVdRQ1ZCQT09](https://us02web.zoom.us/j/83263621055?pwd=Z2RZZWN6WjFaU1hySktxeVdRQ1ZCQT09)
 
-
-
-**Are you an OLS-8 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-8 playlist): **[https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
+**Are you an OLS-9 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-8 playlist): **[https://www.youtube.com/c/OpenLifeSci/playlists](**[https://www.youtube.com/c/OpenLifeSci/playlists](https://youtube.com/playlist?list=PL1CvC6Ez54KA2r5YEzkCcbBro4BqdL8mB&feature=shared)**)
 
 
 
@@ -70,7 +70,7 @@ Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
 ### Icebreaker question:
 
-*Share a song that expresses your personality*
+*Share a recent song you like*
 
    * 
 
@@ -86,11 +86,11 @@ Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
 ## 🗣️ Welcome!
 
-[Bérénice] (5 min) [⏰ 30]
+[Tajuddeen] (5 min) [⏰ 30]
 
 
 
-Welcome! The Open Seeds OLS-8 program helps researchers and potential academic leaders to become Open Science ambassadors.
+Welcome! The Open Seeds OLS-9 program helps researchers and potential academic leaders to become Open Science ambassadors.
 
 
 
@@ -106,8 +106,8 @@ We’re in **Week 2** - this is the first group cohort call. Week 1 was your men
 
 **Code of conduct and community participation guidelines** [https://openlifesci.org/code-of-conduct](https://openlifesci.org/code-of-conduct)
 
-   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo, Paz and Emmy. (team@openlifesci.org).
-   * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, emmy@we-are-ols.org, paz@we-are-ols.org).
+   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
+   * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, tajuddeen@we-are-ols.org).
     
 
 **Breakout room**: Speaking and Writing:
@@ -130,14 +130,13 @@ We’re in **Week 2** - this is the first group cohort call. Week 1 was your men
 
 ## 🖥 Welcome to Open Seeds!
 
-Host: HOST (10 min) [⏰ 30]
+Host: Tajuddeen (10 min) [⏰ 30]
 
 
 
-**Presenter**: PRESENTER
+**Presenter**: Yo
 
-   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vSppfTwD16P5ilQYB6jnthyumfvM4mNuumHgy6NFuJHWIarRF-locPwZoJVO7H5DbzWdU30KhMh0gm4/pub](https://docs.google.com/presentation/d/e/2PACX-1vSppfTwD16P5ilQYB6jnthyumfvM4mNuumHgy6NFuJHWIarRF-locPwZoJVO7H5DbzWdU30KhMh0gm4/pub)
-
+   * Slides: [https://docs.google.com/presentation/d/1idSrWd4PUb1y-iS1d7f7uyj2uS88kuYe/pub?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/1idSrWd4PUb1y-iS1d7f7uyj2uS88kuYe/pub?start=false&loop=false&delayms=3000) 
 
 **Notes:**
 
@@ -153,7 +152,7 @@ Host: HOST (10 min) [⏰ 30]
 
 ## 👥 Open Leadership and Open Science 👥
 
-[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 45]
+Tajuddeen makes breakouts (15 min) [⏰ 45]
 
 Break-out room (10 min, ~3 ppl per room)
 
@@ -204,14 +203,12 @@ Breakout Room 2 - Written/Spoken
    *  
 ## 🖥 Tooling for Project Design
 
-Host: HOST (5 min) [⏰ 50]
+Host: Tajuddeen (5 min) [⏰ 50]
 
 
+**Presenter**: Malvika
 
-**Presenter**: PRESENTER
-
-   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vT-icafDLq0mDuOlniwWaCj5pv-RM5duDAs-cgiWSxoYmh\_sz9VqCq\_ijIAa\_uHqMYqqgPnHPBmY7LO/pub#slide=id.g21d0ef90081\_0\_0](https://docs.google.com/presentation/d/e/2PACX-1vT-icafDLq0mDuOlniwWaCj5pv-RM5duDAs-cgiWSxoYmh\_sz9VqCq\_ijIAa\_uHqMYqqgPnHPBmY7LO/pub#slide=id.g21d0ef90081\_0\_0)
-
+   * Slides: [https://docs.google.com/presentation/d/1s1sgBYSoRfG_XujjxG2_B2w1aE3f9jzd/pub?start=false&loop=false&delayms=3000]( https://docs.google.com/presentation/d/1s1sgBYSoRfG_XujjxG2_B2w1aE3f9jzd/pub?start=false&loop=false&delayms=3000) 
 
 **Notes**:
 
@@ -227,11 +224,11 @@ Host: HOST (5 min) [⏰ 50]
 
 ## 🖥 Introducing Open Canvas
 
-Host: HOST (10 min + 5 min for questions) [⏰ 65]
+Host: Tajuddeen (10 min + 5 min for questions) [⏰ 65]
 
 
 
-**Presenter**:
+**Presenter**: Malvika
 
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQ2cXlk-3EGLFQph6qD8PN24\_nfCaCwij69CAd2GZ5PzgAZ1AEuNQE\_m1w9DyAbrONwXrsOYZmKOA5T/pub](https://docs.google.com/presentation/d/e/2PACX-1vQ2cXlk-3EGLFQph6qD8PN24\_nfCaCwij69CAd2GZ5PzgAZ1AEuNQE\_m1w9DyAbrONwXrsOYZmKOA5T/pub)
 
@@ -252,7 +249,7 @@ Host: HOST (10 min + 5 min for questions) [⏰ 65]
 
 ## 👥 Share your project mission/vision 👥
 
-[HOST] introduces, [HOST] makes breakouts (5 min) [⏰ 85]
+Tajuddeen makes breakouts (5 min) [⏰ 85]
 
 5 min, 2ppl/room
 
@@ -272,11 +269,11 @@ Host: HOST (10 min + 5 min for questions) [⏰ 65]
 
 ## 🖥 Introducing Project Roadmapping
 
-Host: HOST (10 min + 5 min for questions) [⏰ 80]
+Host: Tajuddeen (10 min + 5 min for questions) [⏰ 80]
 
 
 
-**Presenter**: PRESENTER
+**Presenter**: Yo
 
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vRME4NPdc7Tx528-p3Veo8wN5galMpVK0PhY7v4IpHXbBQQFmBpyjmSMOoXwAqr5Fyo27mbzC2IaTQL/pub](https://docs.google.com/presentation/d/e/2PACX-1vRME4NPdc7Tx528-p3Veo8wN5galMpVK0PhY7v4IpHXbBQQFmBpyjmSMOoXwAqr5Fyo27mbzC2IaTQL/pub)
 
@@ -303,21 +300,20 @@ Host:  (5 min) [⏰ 90]
 
 ### Reminders:
 
-   * Make sure you are added in the OLS-8 Civi mailing list, Google calendar and Slack channel (#ols-8-cohort)
-   * Micro-grants: [https://github.com/open-life-science/policies-procedures-and-docs/blob/main/cohort-procedures-and-templates/microgrants.md](https://github.com/open-life-science/policies-procedures-and-docs/blob/main/cohort-procedures-and-templates/microgrants.md)
-
+   * Make sure you are added in the OLS-9 Civi mailing list, Google calendar and Slack channel (#ols-9-cohort)
+   * Micro-grants: [https://we-are-ols.org/openseeds/cohort-procedures-and-templates/microgrants.html](https://we-are-ols.org/openseeds/cohort-procedures-and-templates/microgrants.html)
 
 ### Assignments before you meet your mentor (week-3)
 
-   1. 📑** Open an issue on OLS-8 repo** where you will be able to track you progress in this cohort: [https://github.com/open-life-science/ols-8](https://github.com/open-life-science/ols-8)
+   1. 📑** Open an issue on OLS-9 repo** where you will be able to track you progress in this cohort: [https://github.com/open-life-science/ols-8](https://github.com/open-life-science/ols-9)
        1. **Create a GitHub account **if you don't have one
-       1. **Click this to create an issue**: [https://github.com/open-life-science/ols-8/issues/new?assignees=\&labels=\&template=project.md](https://github.com/open-life-science/ols-8/issues/new?assignees=\&labels=\&template=project.md)
+       1. **Click this to create an issue**: [https://github.com/open-life-science/ols-9/issues/new?assignees=\&labels=\&template=project.md](https://github.com/open-life-science/ols-9/issues/new?assignees=\&labels=\&template=project.md)
        1. **Add title** - edit the main text with information that it asks about your project and team)
        1. **We can do quick demo**: please stay on the call, or contact us on Slack or email and we will help you create an issue
        1. **We will show how to open an issue after the call **for those who are new to GitHub
-   1. 🤔 **Reflecting on our role as a mentee**: Reflection exercise [https://docs.google.com/document/d/13icLglfw4IN4uoCQLSzhWD6lQW00Vn2vhIIssXP-sTs/edit?usp=sharing](https://docs.google.com/document/d/13icLglfw4IN4uoCQLSzhWD6lQW00Vn2vhIIssXP-sTs/edit?usp=sharing)
+   1. 🤔 **Reflecting on our role as a mentee**: Reflection exercise [https://docs.google.com/document/d/16ISQefxsD76oGtj_gT5T4eYD6oz8adh2Dm5nDKD_8VY/edit#heading=h.gjdgxs](https://docs.google.com/document/d/16ISQefxsD76oGtj_gT5T4eYD6oz8adh2Dm5nDKD_8VY/edit#heading=h.gjdgxs)
    1. ⚖ **Complete this compare and contrast assignment **about current and desired community interactions and value exchanges [https://docs.google.com/document/d/1vV42TezsLX2cxiJjb9nTEVVcqWJ\_nymyDiRy0CgTR-4/edit?usp=sharing](https://docs.google.com/document/d/1vV42TezsLX2cxiJjb9nTEVVcqWJ\_nymyDiRy0CgTR-4/edit?usp=sharing)
-   1. 📝 **Start working on your Open Canvas: **Template, instruction and example [https://docs.google.com/presentation/d/1nUD0jdZsr16PVfDfejXjKuMdZGeX18i6-tDdpzzeGwY/edit?usp=drive\_link](https://docs.google.com/presentation/d/1nUD0jdZsr16PVfDfejXjKuMdZGeX18i6-tDdpzzeGwY/edit?usp=drive\_link)
+   1. 📝 **Start working on your Open Canvas: **Template, instruction and example [https://docs.google.com/presentation/d/1l0XShyo_FjXIah3hr95QpOHCDlJKpXDp/edit?usp=sharing&ouid=101989895789810384353&rtpof=true&sd=true](https://docs.google.com/presentation/d/1l0XShyo_FjXIah3hr95QpOHCDlJKpXDp/edit?usp=sharing&ouid=101989895789810384353&rtpof=true&sd=true)
        1. **Share the image/link on your GitHub** issue and look up at least two other projects in the issues and comment on their issues with feedback on their vision statement.
    1. 🛣 **Start your Roadmap** and comment on your issue with your draft Roadmap: [https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/Q\&A](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/Q\&A) for after the call
 
@@ -362,4 +358,4 @@ What surprised you?
 
 **Reference** : Mozilla Open leadership Framework, Open Life Science
 
-**Licence** : CC BY 4.0, Open Life Science (OLS-8), 2023
+**Licence** : CC BY 4.0, Open Life Science (OLS-8), 2024
