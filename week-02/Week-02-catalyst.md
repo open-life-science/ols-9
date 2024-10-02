@@ -66,22 +66,22 @@ Name / Organisation / Project / social handles (twitter, GitHub, etc.) / \_emoji
 
    * Yo / OLS / OLS is also my project, what can I say :) / Emoji mood: 💖🚀🌱
    * Tajuddeen / OLS / 
-   * Rebeca Campos Sánchez / Universidad de Costa Rica / CABANAnet / rebcamsan / 😁
-   * Seun Olufemi/ OLS/ Bioinformatics Outreach Nigeria/ @seunolufemi9/ 
-   * Maria Fernanda Ribeiro Dias/ Universidade Federal do Rio de Janeiro - Brasil/CABANAnet/Futuros Sustentáveis -EDI em Inteligência Artificial
-   * Alfredo Quevedo / UNITEFA-National University of Córdoba, Argentina - Project: TidyScreen
-   * Brevin Ochieng Olunga/Bioinformatics hub of Kenya/Deciphering the role of Phosphatidylethanolamine Transferase (PEMT) in Glioblastoma Multiforme Cell Invasion, Proliferation and Aggression/@BrevinOchieng
+   * Rebeca / Universidad de Costa Rica / CABANAnet / rebcamsan / 😁
+   * Seun / OLS/ Bioinformatics Outreach Nigeria/ @seunolufemi9/ 
+   * Maria / Universidade Federal do Rio de Janeiro - Brasil/CABANAnet/Futuros Sustentáveis -EDI em Inteligência Artificial
+   * Alfredo / UNITEFA-National University of Córdoba, Argentina - Project: TidyScreen
+   * Brevin /Bioinformatics hub of Kenya/Deciphering the role of Phosphatidylethanolamine Transferase (PEMT) in Glioblastoma Multiforme Cell Invasion, Proliferation and Aggression/@BrevinOchieng
    * Malvika / OLS / Same as Yo! :D / ☕😍
 
 
-   * Monsurat Onabajo/MolerHealth/MolerHealth/Onabajo 3😴😴
-   * Manifest Chakalov  MolerHealth  (Write)
-   * Fatma Omar / Bioinformatics Hub of Kenya initiative / Enhancing Openness in the Prediction of Bacterial Pathogens in Yellowing Disease of Coastal Kenyan Coconuts through Machine Learning / Fatma366
-   * Fadeyi Bilikis / MolerHealth / MolerHealth / Abbyfade
-   * Nihad Alsayed/ Kush  Centre for Genomics and Biomedical Informatics /
-   * Andrés Olivera / Institut Pasteur de Montevideo/ Latin America Bioimaging
-   * Adolf Oyesigye Mukama Bioinformatics fellow Pwani University Bioinformatics hub of Kenya Initiative/Enhancing Openness in the Prediction of Bacterial Pathogens in Yellowing Disease of Coastal Kenyan Coconuts through Machine Learning/ 
-   * Nilson Antonio da Rocha Coimbra - Universidade de Sao Paulo - Brasil/CABANAnet/Futuros Sustentáveis -EDI em Inteligência Artificial
+   * Monsurat /MolerHealth/MolerHealth/Onabajo 3😴😴
+   * Manifest  MolerHealth  (Write)
+   * Fatma / Bioinformatics Hub of Kenya initiative / Enhancing Openness in the Prediction of Bacterial Pathogens in Yellowing Disease of Coastal Kenyan Coconuts through Machine Learning / Fatma366
+   * Fadeyi / MolerHealth / MolerHealth / Abbyfade
+   * Nihad / Kush  Centre for Genomics and Biomedical Informatics /
+   * Andrés / Institut Pasteur de Montevideo/ Latin America Bioimaging
+   * Adolf  Bioinformatics fellow Pwani University Bioinformatics hub of Kenya Initiative/Enhancing Openness in the Prediction of Bacterial Pathogens in Yellowing Disease of Coastal Kenyan Coconuts through Machine Learning/ 
+   * Nilson - Universidade de Sao Paulo - Brasil/CABANAnet/Futuros Sustentáveis -EDI em Inteligência Artificial
 Susan Njuki /BHKI/Huji/Pemt and GBM
 
 
@@ -95,9 +95,9 @@ Susan Njuki /BHKI/Huji/Pemt and GBM
    * Yo / Right now I'm obsessed with Heartbeat by The Midnight, an incredible synthwave 80s-style band. I saw the live earlier this year and OMG!!!!  [https://www.youtube.com/watch?v=mcnqKWkZ9x4](https://www.youtube.com/watch?v=mcnqKWkZ9x4) 
    * Malvika / I have been listening to Lola Young. Don't read too much into the lyrics - I just like her music: [https://www.youtube.com/watch?v=Cvo80gbCYwE](https://www.youtube.com/watch?v=Cvo80gbCYwE) :D But now I need to go read the lyrics to see why you said that.... 
    * Seun/I love this the music by Joel Ogbege, Hallowed be thy name not sure who sang it 
-   * Maria Fernanda Ribeiro Dias/ Linger/ The Cramberries/ [https://www.youtube.com/watch?v=G6Kspj3OO0s](https://www.youtube.com/watch?v=G6Kspj3OO0s)
+   * Maria / Linger/ The Cramberries/ [https://www.youtube.com/watch?v=G6Kspj3OO0s](https://www.youtube.com/watch?v=G6Kspj3OO0s)
        * Yo: OMG LOVE IT
-   * Rebeca Campos: Gonna be good - Taya
+   * Rebeca : Gonna be good - Taya
    * Karol G: [https://www.youtube.com/watch?v=MgsdDfdGdHc](https://www.youtube.com/watch?v=MgsdDfdGdHc) - Si Antes Te Hubiera Conocido - "If I would have met you before"
    * Nihad: Vivo Per lei - Andrea Bocelli, [https://youtu.be/CNHL66K8S2I?feature=shared](https://youtu.be/CNHL66K8S2I?feature=shared) 
    * 
@@ -185,17 +185,17 @@ Notes:
 Intro from folks who introduced themselves in chat
 
    * I'm Ahmed from Somalia, colleague with Susan, George and Brevin. Background: molecular biology and biotechnology. Hobby reading and soccer.
-   * I am Ruke Ejegreh /MolerHealth/ Research and Product oriented interest, Hobbies Cooking, Meeting New People and Traveling
+   * I am Ruke /MolerHealth/ Research and Product oriented interest, Hobbies Cooking, Meeting New People and Traveling
    * I am Nihad, from Sudan (Currently based at UAE),  I am in the reading quiet phase these days as a hobby plus singing ofc to myself :
-   * I am Manifest Kelvin Chakalov,  the lead software engineer at MolerHealth. I am from Nigeria 🇳🇬  and also based in Nigeria 🇳🇬.  Hobbies is coding
-   * Maria Fernanda. Universidade Federal do Rio de Janeiro. I'm from CABANAnet Project. My hobby is  danc
-   * I’m Fatma Omar, an MSc student in Biotechnology under the Bioinformatics Hub of Kenya Initiative in Kenya. Sharing a project with Adolf on creating a database for coconut yellowing diseases. I enjoy reading and talking about science.
-   * My Name is Fadeyi Bilikis, I am from Nigeria. My project is MolerHealth and my hobby is football.
+   * I am Manifest,  the lead software engineer at MolerHealth. I am from Nigeria 🇳🇬  and also based in Nigeria 🇳🇬.  Hobbies is coding
+   * Maria. Universidade Federal do Rio de Janeiro. I'm from CABANAnet Project. My hobby is  danc
+   * I’m Fatma, an MSc student in Biotechnology under the Bioinformatics Hub of Kenya Initiative in Kenya. Sharing a project with Adolf on creating a database for coconut yellowing diseases. I enjoy reading and talking about science.
+   * My Name is Fadeyi, I am from Nigeria. My project is MolerHealth and my hobby is football.
    * Maria. Universidade Federal do Rio de Janeiro. I'm from CABANAnet Project. My hobby is  dance
    * Rebeca, currently in San José Costa Rica. I am from CABANAnet project. My hobby puzzles 🙂
-   * My name is Monsurat Onabajo, I am from Nigeria,  my project name is MolerHealth and my most recent hobby is singing even though I am terrible at it 🤣
+   * My name is Monsurat, I am from Nigeria,  my project name is MolerHealth and my most recent hobby is singing even though I am terrible at it 🤣
    * Hi, I am Nihad, from Sudan (Currently based at UAE),  I am in the reading quiet phase these days as a hobby plus singing ofc to myself :)
-   * I am Nilson Coimbra, from Sao Paulo Brazil. Im part of CABANAnet and my hobby is swimming. 
+   * I am Nilson, from Sao Paulo Brazil. Im part of CABANAnet and my hobby is swimming. 
 
 
 Questions
@@ -234,13 +234,13 @@ This is our first group break-out room, so we will spend 1-2 minutes introducing
 
 Breakout Room 5 - Written
 
-   * Rebeca Campos: 
+   * Rebeca: 
        * What was your path to this program?: I am the coordinator of the CABANAnet (teaching bioinformatics) project in Latin America. So we got invited to the CATALYST project to expand the impact of this project knowing that there are regions in the continent lacking computing facilities. 
        * How did you get into working open?: I work in a public university and we must share almost everything, however we are not well trained in open science. So, I try to do my best based on what I learned from other collaborators.
        * How has working open affected your leadership?: we get in contact with more people everytime. Which is good but also complicated because of time constraints.
  
 
-   * Ruke Ejegreh: I am the product manager for Molerhealth. We are participating to enable create impact through the development of our EMR MVP (Electronic Medical Records Minimum Viable Product ). We hope to unify medical record electronically and at an affordable rate for both patients and medics in Nigeria and beyond. I got involved in Open through MolerHealth work. For the 3rd question, we are learning to navigate our team collaboration processes better
+   * Ruke : I am the product manager for Molerhealth. We are participating to enable create impact through the development of our EMR MVP (Electronic Medical Records Minimum Viable Product ). We hope to unify medical record electronically and at an affordable rate for both patients and medics in Nigeria and beyond. I got involved in Open through MolerHealth work. For the 3rd question, we are learning to navigate our team collaboration processes better
    * Nihad: I do work for Kush Centre and as a part of it we're trying to build an open science community in Sudan as we're lagged a bit in this matter
        * 2. Working in H3ABiNet and ELwazi projects were the first step for to get involved in the open science community as one of their projects are concerned with OS plus in 2018 Mozilla OS Tour were held at our centre in Sudan so this is how it all started form my side
        * 3. It's going well collaboration wise for us at the centre
