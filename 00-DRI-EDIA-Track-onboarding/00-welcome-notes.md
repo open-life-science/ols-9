@@ -2,7 +2,7 @@
 
 Date: 10 & 11 October, 2024
 
-* *content for these two calls are the same! join one that fits your schedule*
+* *content for these two calls is the same! join one that fits your schedule*
 Time: 16:00 UTC, in your timezone: [https://arewemeetingyet.com/UTC/2024-10-11/16:00](https://arewemeetingyet.com/UTC/2024-10-11/16:00)
 
 * Duration: 60 min
@@ -12,7 +12,7 @@ Time: 16:00 UTC, in your timezone: [https://arewemeetingyet.com/UTC/2024-10-11/1
 ### Housekeeping 
 
 The call will be recorded and transcribed!
-* The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci)](https://www.youtube.com/c/OpenLifeSci)) in the next days
+* The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci)](https://www.youtube.com/c/OpenLifeSci)) in the next few days
 * Turn on your webcam if you don't mind sharing your face (or off if you do!)
 
 **Breakout room: Speaking and Writing preference** - This will help us assign you to the breakout room with the format of your choice
