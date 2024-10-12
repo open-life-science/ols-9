@@ -2,9 +2,8 @@
 
 Date: 
 
-* *content for these two calls is the same! join one that fits your schedule*
-Time: 16:00 UTC, in your timezone: [https://arewemeetingyet.com/UTC/2024-10-11/16:00](https://arewemeetingyet.com/UTC/2024-10-11/16:00)
-
+*content for these two calls is the same! join one that fits your schedule*
+* Time: 16:00 UTC, in your timezone: [https://arewemeetingyet.com/UTC/2024-10-11/16:00](https://arewemeetingyet.com/UTC/2024-10-11/16:00)
 * Duration: 60 min
 * Call lead: Malvika Sharan
 * Co-facilitators: 
