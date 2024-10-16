@@ -7,7 +7,7 @@ All the projects going through OLS-8 will use one issue to keep track of their p
 
 ## How to Work With Us
 
-Each issue will provide details for a project currently going through OLS-7. 
+Each issue will provide details for a project currently going through OLS-9. 
 Find out more about each project and how you can get involved in the individual issues.
 
 ## Participation Guidelines
