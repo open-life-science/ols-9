@@ -3,7 +3,7 @@
 
 Welcome! This is the [ninth cohort of Open Seeds](https://openlifesci.org/ols-9) (OLS-9) program repository. 
 This repository will be used for the issue tracker feature of GitHub. 
-All the projects going through OLS-8 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-7/projects-participants/)).
+All the projects going through OLS-9 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-7/projects-participants/)).
 
 ## How to Work With Us
 
