@@ -1,4 +1,4 @@
-# Open Seeds OLS-9
+JANE # Open Seeds OLS-9
 
 
 Welcome! This is the [ninth cohort of Open Seeds](https://openlifesci.org/ols-9) (OLS-9) program repository. 
