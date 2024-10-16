@@ -24,7 +24,7 @@ Mentor:
 <!---
   4. Keep everything below and click 'Submit new issue'  --->
 
-Welcome to OLS-7! This issue will be used to track your project and progress during the program. Please use this checklist over the next few weeks as you start Open Life Science program :tada:.
+Welcome to Open Seeds! This issue will be used to track your project and progress during the program. Please use this checklist over the next few weeks as you start Open Life Science program :tada:.
 
 ***
 
