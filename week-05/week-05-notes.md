@@ -15,12 +15,7 @@ Facilitator: Tajuddeen Gwadabe
 
 ## Join the Cohort Room
 
-Join the Zoom call: [https://us02web.zoom.us/j/81462081794?pwd=UhU6mMHtdcNvuFpitlYF2AyESz5wUa.1](https://us02web.zoom.us/j/81462081794?pwd=UhU6mMHtdcNvuFpitlYF2AyESz5wUa.1)
-
-Meeting ID: 814 6208 1794
-
-Passcode: 752836
-
+Redacted
 
 
 Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
