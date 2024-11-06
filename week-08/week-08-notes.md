@@ -1,19 +1,18 @@
 
 # Week 08 - Community Management Café I
 
-**Date**: November 08, 2023
+**Date**: 06 November, 2024
 
-**Time**: 17:00 UTC 
+**Time**: 16:00 UTC 
 
 **Duration**: 90 min
 
-**Call lead**: Yo Yehudi
+**Call lead**: Tajuddeen Gwadabe
 
-**Facilitator**: Gigi Kenneth
+**Facilitator**: Arielle Bennett, Gracielle Higino, Seun Olufemi
 
     
-
-## Join the Cohort Room
+## Join the Cohort Room and Welcome
 
 **Join the Zoom call**:  [https://us02web.zoom.us/j/81913897620?pwd=UzVCM2tYaUZMZlhyMVNLdE1uWnFqQT09](https://us02web.zoom.us/j/81913897620?pwd=UzVCM2tYaUZMZlhyMVNLdE1uWnFqQT09) 
 
@@ -21,6 +20,9 @@
 
 **Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube**: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
 
+**Code of conduct and community participation guidelines https://we-are-ols.org/code-of-conduct**
+* If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
+* To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, tajuddeen@we-are-ols.org).
 
 
 **This call is being recorded and transcribed!**
@@ -30,70 +32,38 @@
 
 
 **Breakout room**: Speaking and Writing:
+Breakout room: Speaking and Writing preference - This will help us assign you to the breakout room with the format of your choice
+* W- for written reflection-based exercise in the main room
+* S-En- for spoken discussion in English
+* S-Fr- for spoken discussion in French
+* S-Fr/En - for spoken discussion in French or English
+* S-Es/En- for spoken discussion in French or Spanish
 
-   * Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name:
-       * W for written reflection-based exercise in the main room
-       * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
-   * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
-
-
-
-
-## 🌍 Roll call- Introducing yourself
-
-Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
-
-   *  Yo Yehudi / OLS / idk about social anymore :joy: 🌱😊
-   *  Marlou / Make CSR data publicly available / new on BlueSky: @marlouramaekers.bsky.social /☺
-   *  Ruben Lacroix / OLS / no socials;) / 🧸
-   *  Irene Ramos / OLS / iramosp (GH) / 🌻
-   *  Julián Buede / MetaDocencia / 
-   *  Max Paulus / Open RI tools / gh: paulmaxus
-   *  Elena Beretta / OLS / gh: ElenaBerettaVu
-   *  Omotola Eunice Omotayo / [https://www.linkedin.com/in/omotola-omotayo-9406b8162/](https://www.linkedin.com/in/omotola-omotayo-9406b8162/) , [https://twitter.com/elegant\_tolly](https://twitter.com/elegant\_tolly)
-   * Gigi Kenneth/ @gigi\_kenneth/ 
-   *  Paz Bernaldo /OLS/ still on ex-twitter: @pazbyc
-   * Virginia García Alonso / Red JICMar / @VA\_GarciaAlonso / 🍂
-   * Stefanie Butland / Openscapes / stefaniebutland / 💚
-   * Fatma Omar / Identification and Prediction of Bacterial Pathogens Colonizing Yellowing Disease in Coastal Kenyan Coconuts: A Machine Learning Approach / Fatma366
-### Icebreaker question
-
-*Outside the "work/study" contexts, where have you felt most included, involved and welcome?*
-
-   *  Yo / Somewhere that I can chat about books or games - especially scifi or fantasy books. 
-       * Oooh any scifi/fantasy recommendations?
-           * I've been working through books by Ginger Booth lately, and there are LOADS. 
-   *  i actually feel very welcome in most places.
-   * Paz / 
-   *  Marlou / most academic spaces where I feel like I'm taken seriously (work) and in my academic friends group chat (called Academic Question Hour)
-   * Stef /dragon boating team (for ppl in my age group)
-   * Gloria Ashiegbu 
-   * Virginia/RLadies ❤️ +1
-   * Julian / I just started palestra and I feel really welcome in that group
-   * Gigi / fencing classes and book clubs
-   * Omotola: My kitchen (cooking), chatting with my best friend. 
-
+Where to indicate preference? -- In your Zoom name
+     * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letters in front of your name
+* Please let us know in the chat your preference for the breakout room today - a co-host will edit your name to add one these letters:
+* If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
 
 ## 🖥 Community Design for Inclusivity!
 
-[Paz] (15 min)[⏰ 15]
+[Tajuddeen] (5 min)[⏰ 15]
 
 
 
-**Presenter**: Paz
+Presenter: Gracielle
 
    * Contact / social:
-   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vRLTEtATIrUcuxbjrPv3nBNNWqxPE4bX8U3n-bkIaNd2DxXsWWFXsdwzQyGsBurNXp9QAcT0yPA-ocv/pub](https://docs.google.com/presentation/d/e/2PACX-1vRLTEtATIrUcuxbjrPv3nBNNWqxPE4bX8U3n-bkIaNd2DxXsWWFXsdwzQyGsBurNXp9QAcT0yPA-ocv/pub)
+   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vSEfshqEIVtV81kuKFQL00-TtjfTjBA6OBXkEs\_VixJ0ptJXE5Nued6-bBKPSkjUA/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vSEfshqEIVtV81kuKFQL00-TtjfTjBA6OBXkEs\_VixJ0ptJXE5Nued6-bBKPSkjUA/pub?start=false\&loop=false\&delayms=3000)
 
 
-**Notes**:
+Notes:
 
    *  
    * 
 
 
 
-**Questions**
+Questions
 
    *  
    *  
@@ -101,81 +71,92 @@ Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
 ## 🖥 Community Interactions!
 
-Yo (15 min)[⏰ 30]
+[Gracielle] (15 min)[⏰ 30]
 
 
 
-**Presenter**: Omotola Omotayo
+Presenter: Chris Hartgerink (they/them)
 
-   * Contact / social: [https://www.linkedin.com/in/omotola-omotayo-9406b8162/](https://www.linkedin.com/in/omotola-omotayo-9406b8162/) , [https://twitter.com/elegant\_tolly](https://twitter.com/elegant\_tolly)
-   * Slides: [https://www.canva.com/design/DAFzgYpRlK0/mZMFILlfyqntsOZMw81zcg/edit?utm\_content=DAFzgYpRlK0\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton](https://www.canva.com/design/DAFzgYpRlK0/mZMFILlfyqntsOZMw81zcg/edit?utm\_content=DAFzgYpRlK0\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)
-
-
-**Notes**:
-
-   *  Omotola Omotayo (she/her) - Community builder, DEI advocate,  Outreachy Organizer, Founder Elegance Media
-   * Who is community? People *are* community. Community *is* people. They come together for shared interests, but from different perspectives (age groups, geographic regions, level of experience). 
-   * Community interaction from perspective of ***community builder***
-       * Key to ask: why am I bringing people together? Clear understanding of community objectives. Are community members benefiting from their participation?
-       * Develop strategies to build with your members. Ex. if you ask for volunteers and more people show up than you can accomodate, acknowledge them, offer to put them in a waiting list / future opportunities
-       * Intentionally inclusive / exclusive - think about who are the members of the community. 
-       * Interactions can include / should consider: events, initiatives, designs, contents and language, communication (open, empathy, acknowledge and appreciate), track community health and interactions, take feedback.
-   * Community interaction from perspective of ***community member***
-       * From this side, also be mindful of what the community stands for and why you joined.
-   * CHAOSS - Community Inclusion survey
-   * Book recommendation: The Art of Gathering
+   * Contact / social: 
+       * @chartgerink@akademienl.social (Mastodon)
+       * [https://www.linkedin.com/in/chartgerink/](https://www.linkedin.com/in/chartgerink/)
+   * Slides: 
 
 
-**Questions**
+Notes:
 
-   *  How hard is to sustain a media space? Main obstacle (funding?) 
-It might be hard based on the individual or organization. I will recommend getting professional and experienced volunteers to do it. Have clear key results in mind and review your strategies frequently.
+   *  The thought collective - the collection of thoughts changes the outcome of a project
+   * Individual vs collective discussion of thoughts have different results and outcomes
+   * Matters who you involve in the process as this shapes the outcome - be thoughtful about who is invited and included
+   * [https://www.cscce.org/resources/cpm/](https://www.cscce.org/resources/cpm/) - Community Participation Model, different modes of interaction with community members
+   * What is the mode of interaction and who is doing the interaction - the combination of these two pieces is fundamental to design community engagement for your project
+   * **Provide structure** is very important, more than providing flexibility sometimes
+   * Helps people to participate, because they know what to expect 
+   * Providing structure is fundamental to provide flexibility in other levels!
+       * For example, in OLS, people have the flexibility to chose if they want to be in breakout rooms speaking or writing together, in the language of their preference, but this is done under a structure that was designed beforehand
+   * 
 
-   * Is media presence a "must" if you want to influence higher levels of decision-making? or, in your case, is that mostly aimed at general or wider populations/groups? 
-       * From an individual perspective vs. an institutional perspective, have a good online presence to reach your target audience! "With the world we are in now, in my terms, I will say having a good and conscience online presence is a must."
-   *  Examples of strategies to mitigate community inclusion/exclusion?
-       * Start by understanding your community. At every stage of designing your community, make intentional decisions.
-   * Yo / I love your examples of thinking carefully about timezones and hosting multiple events if needed. 
+   * "constructive selfishness" - what do you want to get out of a space? Helps to articulate the aims of the session and how people can meaningfully contribute
+   * Tempting to use the convening space to cover lots of topics - less space to interact with each other and people get overloaded
+   * Tip: write down what you ideally want to cover, then ruthlessly prioritise! Cut it in half! Can always come to topics as back ups
+   * Who is facilitating? How can that rotate to allow people to participate in different ways? How are people participating? 
+   * In a purposeless session even engaged people will lose their motivation.
+
+
+Questions
+
+   *  How to define the expectations in terms of interactions?
+       * Be explicit about what people will be doing and be clear when you're all done, when you hit the goal.
+   * What do you do when things go out of hand?
+       * Reframe the issue - am I being too rude if I interrupt someone who's talking more than others, or will I help someone else?
+   *  
+   * 
+
+ 
+
 
 
 ## 🖥 Mountain of Engagement!
 
-[Paz] (15 min)[⏰ 45]
+[Arielle] (15 min)[⏰ 45]
 
-**Presenter**: Stefanie Butland
+Presenter: Kirstie Whitaker
 
-   * Contact / social: stefanie@openscapes.org
-   * Slides: [https://docs.google.com/presentation/d/1h0XAN45QdYZox2aWPi3VoYR-rpBKp09OA4-LQrFu00o/edit](https://docs.google.com/presentation/d/1h0XAN45QdYZox2aWPi3VoYR-rpBKp09OA4-LQrFu00o/edit)
-**Notes**:
+   * Contact / social: Best to find me in The Turing Way slack channel: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)
+       * Also Mastodon: [https://fosstodon.org/@KirstieJane](https://fosstodon.org/@KirstieJane)
+   * Slides: [https://docs.google.com/presentation/d/1eJXU9hQeAc7tY-jvL5LwZ-fufvEZJO6HSkAdia3liAc/edit?usp=sharing](https://docs.google.com/presentation/d/1eJXU9hQeAc7tY-jvL5LwZ-fufvEZJO6HSkAdia3liAc/edit?usp=sharing)
+Notes:
 
-   *  Stefanie -Scientist \& community manager. AAAS/CSCCE Fellowship, Openscapes - 
-   * What is a Mountain of Engagement? A pathway to community leadership. 
-       * Newcomers
-       * Path to level up: from discovery to sustained engagement and leadership
-   * Stages:
-       * 1. Discovery: how people first hear about the project. Ex: Openscapes - we work in the open (documentation and project management)
-       * 2. First contact: how people first engage with the project (engagement not enough! Look for the "cracks" - Why whould I sign up for this? Meet people where they are)
-       * 3. Participation. Motivations -> actions -> how-to. Ex. rOpenSci Community Guide that links "I want to" -> resources.
-       * 4. Sustained participation - How their involvement can continue. rOpenSci and Openscapes - User -> Reviewer -> submitter -> Editor. It's a pathway of more time committment and responsibility, hopefully also more rewarding. Sustained by combination of volunteer + remmunerated work
-       * 5. Networked participation. Openscapes - formalized mentorship programs. Support for their own communities.
-   *  A path that invests in new maintainers is backbone [...]
+   *  Thank you Chad Sansing for the slides! 
+   * What is inclusive leadership? Iterating is one of the key parts! It's cyclical 
+   * Important to celebrate the contributions, especially the care work, note taking, following up - recognise the less visible work
+   * What is leadership? Most people don't know 
+       * [https://book.the-turing-way.org/collaboration/leadership](https://book.the-turing-way.org/collaboration/leadership)
+       * If you are here and thinking about leadership and empowering others - you are a leader! 
+       * There are power dynmics involved but power is different to leadership and vision
+   * Mountain of engagement: need a way for people to come into the community and a path to level up in the community - sustained participation
+       * Pathway to community leadership: discover, first contact, participation, sustained participation, networked participation, leadership 
+       * Open source practices to level up community - learning all about this as part of OLS!
+   *  Mountain makes it look like a linear progression but engagement is more like a matrix 
+       * people, values, behaviours, learning opportunities, development opportunities, decision-making, value exchange etc etc 
+   * Exercise on the slide to think about the ways people engage with your project 
+   * You are already leaders and your community members are already leaders! 
+   * 
 
 
-**Questions**
 
-   *  How do you improve your visibility in the social space when you're new in the space? 
-       * Go back to: Community is people. If people know you personally, speak from that personal perspective. Build trust with them and appeal to people from that place. Ex. "I am so excited about this event
-       * There is a technical side: post on multiple social media networks. 
-   * Follow up: But how do you build trust? Stay true to yourself! Talk about your missions. Show results. Partner with similar organizations.  We can’t answer to everyone’s complaints; we’ll get burned out. Be yourself
-   * A bit related to the question above: I am curious about the first stages of the participation phase, do you have any anecdotes of how this happens, do users start creating issues on github? or do they contact you directly?
-       * a good, hard question. Was hard at rOpenSci because there were so many places ppl could participate. Some folks really comfortable with github and some not. One thing that helped was writing (e.g. README, or Contributing Guide) to outline the preferred starting points. A common way ppl discovered \& started participating was by attending a community call - low barrier but they get exposed to how to participate more. Rare that ppl started by opening issues on GitHub but if they used an R package, they might open an issue about the pkg. 
-       * At Openscapes initial contact is often through another organization or research lab that wants us to lead an Openscapes Champions program for them. We work with them to "advertise" internally about benefits of participating
-       * super valuable, thanks!
+Questions
+
+   * Experience with neurodiverse groups - adapting expectations for people from different minorities, how to manage plans, expectations and approaches? How to manage community motivation and engagement? 
+       * Everyone is different, for example, autistic people often appreciate a lot of clarity 
+       * People with ADHD sometimes struggle with time blindness - clarity is a great answer e.g. backlog of tasks broken down to achievable chunks then allow people to pick ones that meet their interests you might be able to play to peoples strengths (be clear about how the tasks fit together!) 
+   * Sustained participation - it is hard! 
+   * What do people need, as human beings, to participate in the project? Time, space, talking abou what's on their mind, and a welcome back when they're imperfect
  
 
 ## 👥 Value exchanges!
 
-[Yo] introduces, [Gigi] makes breakouts (15 min) [⏰ 60]
+[Arielle] introduces, [Gracielle] makes breakouts (15 min) [⏰ 60]
 
 15 minutes, ~3 ppl per room
 
@@ -192,128 +173,137 @@ Prompts for discussion:
    * Does the balance seem right to you, or are there adjustments you’d like to make?
 
 
-### Notes from breakout discussions
+### Directions for written discussion rooms:
 
-Breakout Room 1 - Spoken
+   * Each room will be assigned 3 members
+   * Please agree if you use either on this document or the Zoom chat
+   * each member will take 2.5 minutes to write down their response
+   * In the next 5 minutes they will read through and comment on each other’s notes either on this document or on Zoom chat
 
-   * Names
-           * Gloria
-           * Marlou
-           * Stefanie
-   * Notes
-           * Marlou: make survey data on corporate social responsibility publicly available. The original idea for the project was very focused on sending but because the OLS calls, also thinking about how to connect with the community and how to engage users. Maybe celebrate and acknowledge people who publish with or on the data
-           * Gloria: organize trainings and workshops in agriculture for youth about sustainable agriculture practices (to adapt to climate change). After the training, create an app so the training is sustained and can be shared by ex-participants (??). It can also help to combat unemployment. Get feedback from researchers. What does the community back from participants. You can learn from people who succeeded (as examples and through the app).
-               * what we get back: see how ppl set up their farms; and able to use that to help others
-               * Main objective: for people to learn, and inspiring other community members
-Breakout Room 2 - Written
-
-   * Names
-           * Elena Beretta
-           * Julián
-   * Notes
-               * Julián: I'm getting quite involved in the dialogue of the community. Searching, learning about and sharing resources, projects and opportunities that may be interesting to the rest of the community. I get back good feedback and I am also learning a lot about topics that are new to me. I think the balance is right. For my part, I could continue to provide scaffolding, guidelines, proposals and invitations so that the rest of the community fells increasingly comfortable and confident to share and making their contributions.
-           * Elena: I'm working on how to get the affected community from research subject to stakeholder.
-
-
-Breakout Room 3 - spoken and written
-
-- Arianna, Ruben, Max
-
-We first discussed how existing communities actually started off, so the participation phase. What came first, users or investors that saw the potential. How do you reach a target audience, e.g. we all work on projects where we try to build some form of data platform; how do you gain the trust of people; do you need to build a network, e.g. at conferences; are physical meetings important? How do you motivate people to join the community, incentives?
-
-
-
-Breakout Room 4 - Spoken
-
-   * Names
-           * Omotola
-           * Virginia
-           * Stephane (Mboalab)
-   * Notes
-           * For Elegance Media (Omotola's startup), I'm giving my team the ability to lead their team and take ownership of the role. It's an open, positive, give-and-take relationship. They are gaining expertise, getting to know new people, and building professional relationships. 
-           * Empowering team members and craving a career niche for them
-           * Thinking and trying to create the best structure for the community
-           * Stephan( Mobolab): providing empowerment opportunities for people while, in turn, giving the community more information about the project's needs, creating more awareness regarding their products, and getting feedback and ideas on new products. The members also gain from the community which is a win-win for both. 
-           * It seems that the balance is good, although room for improvment
-
-
-
-
-**Any insights/thoughts/comments to share from your breakout room?**
-
-   *  
-   *  
+## Notes from breakout rooms
+* Roles sometimes are unique! and you take same responsibilities in different groups.
+* get: Experience/continual learning in being a leader
+* get: diverse voices and ideas
+* give: personal expertise and experience
 
 
 ## 🖥 Personas \& Pathways!
 
-[Gigi] (15 min)[⏰ 75]
+[Arielle] (15 min)[⏰ 75]
 
 
 
-**Presenter**: Stephane Fadanka
+Presenter: Victory Brown
 
-   * Contact / social:
-   * Slides: SLIDES
-
-
-**Notes**:
-
-   *  Stephane Fadanka - Executive Director Mboalab. Community based innovation hub. Working with communities 
-   * Personas \& Pathways - Desgin elements where understanding your audience is critical. Clear, human-centered view of people you're trying to reach and serve.
-   * Personas
-       * What? Model and description of a person. Personified user-target profile. Detailed descriptions, build out of well-understood, data about real people. Place the focus on specific users rather than "everyone". - In limiting our choices, personas help us make better choices. 
-       * Why? Become more people focused (vs product focused). Interest and empathy towards users. Focus on and design for a small set of specific users. 
-       * When? Early in the project. Because understanding target audience helps shape project direction.
-   * How? Create and visualize user personas and their journeys when interacting with a product / service
-       * Flowcharts and diagrams
-       * Persona infrographics, persona cards
-       * Collaborative whiteboard. Ex. Miro
-   * An example: Working with the community for a Peace building makerspace
-       * Data collection tools (surveys, interviews)
-       * Context and environment
-       * Maintain the communication
-       * Theory of change (problem, impact, outcomes, outputs, activities)
-   * Check out the references from the presentation
+   * Contact / social: You can find me on LinkedIn here; [https://www.linkedin.com/in/victory-brown-8a154b1b5/](https://www.linkedin.com/in/victory-brown-8a154b1b5/) and X: [https://x.com/VictoryBrown\_](https://x.com/VictoryBrown\_)
+   * Slides: [https://docs.google.com/presentation/d/1Ci9N89fFxWwAOkzllTDftcHnhQ4J\_h4lERT8p8yTG1I/edit#slide=id.g21280744133\_2\_2](https://docs.google.com/presentation/d/1Ci9N89fFxWwAOkzllTDftcHnhQ4J\_h4lERT8p8yTG1I/edit#slide=id.g21280744133\_2\_2)
 
 
-**Questions**
+Notes:
 
-   *  Using personas, how do you avoid the pitfall of focusing too  much on experienced users and thus creating (unintentionally) barriers for inexperienced users? Or for people from demographic groups that are small(er) in the community (e.g. people from the Global South, older people, women etc.) +1
-       * Create subgroups from your community. Address specific needs, make sure you get the right info from those specific groups at the design stage. 
+   *  How to combine user research to build better communities and programmes
+   * Community is a sustainability mechanisms, everyone wants to build community but not everyone can build communities that achieve their other goals
+   * Why is community is important? 
+       * Every project has an audience - to build sustainability we need to know why we're doing this 
+   * How to conduct user research?
+       * Set goals and objectives for the community you want to build
+       * Identify the current user base and what your extended user base might be 
+       * Conduct user research with these groups - understand the user groups and needs 
+       * Create personas and user journeys 
+       * Iterate and design pathways that can easily guide each user group
+   * What do personas represent 
+       * Fictional target uses capturing goals, needs, experiences nad behaviours
+       * Offer insights into the groups of user types in your audience 
+       * Personas can be used to design onboarding and in communicating 
+   * Personas needs to be backed up by proper research data 
+   * Pathways 
+   * 
+
+
+
+Questions
+
+   * Need to be clear about why you want to build the community - who should be a member of the community? 
+   *  
    *  
 
 
 ## 👥 Silent reflections!
 
-[HOST] (10 min)[⏰ 85]
+[Arielle] (10 min)[⏰ 85]
 
 ### Questions
 
-What was insightful about thinking about persona and pathways for inclusion? 
+*What was insightful about thinking about persona and pathways for inclusion? *
 
-   *  I think we focus a lot on how to include as many people as possible and differentiation always seems a red flag for inclusion. However, the personas and pathways emphasizes how it can actually  help to include people
-   *  
-
-
-What pathways have you already created? What other personas and pathways you didn't consider for your project?
-
-   *  I think my project is in vision tailored to both academics and non-academics, yet in practice I think the academic side is much more important. So I think it's important to think about both user pathways
-   *  
+   1. What pathways have you already created? What other personas and pathways you didn't consider for your project?
+   1. What are you doing now to provide mentored support to contributors?
+   1. What other ways you can create to center voices of marginalised groups?
 
 
-
-
-What are you doing now to provide mentored support to contributors?
+Reflections: 
 
    *  
    *  
-
-
-
-
-What other ways you can create to center voices of marginalised groups?
-
+   *   Mountain of engagement slide was so insightful! 1. Create Network 2. Collect information 3. Find related experts to use their experiences
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   * I've find it insightful that we should consider the people who sit back and don't actively participate as well. I often think that they are just not interested and don't want to be bothered, but if they are there, they might be just waiting for the right opportunity and I would need to design this opportunity for them.
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
+   *  
    *  
    *  
 
@@ -322,7 +312,7 @@ What other ways you can create to center voices of marginalised groups?
 
 ## 🗣️ Closing
 
-[HOST] (5 min) [⏰ 90]
+[Taj] (5 min) [⏰ 90]
 
 
 
@@ -357,8 +347,8 @@ What surprised you?
    *  
 
 
-**Reference**: Mozilla Open leadership Framework, Open Life Science
+Reference: Mozilla Open leadership Framework, Open Life Science
 
-**Licence**: CC BY 4.0, Open Life Science (OLS), 2023
+Licence: CC BY 4.0, Open Life Science (OLS), 2024
 
 
