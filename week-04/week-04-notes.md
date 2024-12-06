@@ -1,368 +1,313 @@
 
-# Week 4 - Welcome to OLS - 7
+# Week 04 - Tooling for Open Collaboration
 
-*Semaine 04 - Bienvenue à OLS-7 !*
+- Date: 09 October, 2024
+- Time: 16:00 UTC
+- Duration: 90 min
+- Call lead: Malvika Sharan
+- Facilitator: Laurah Ondari
 
-*Ceci est un autre appel d'intégration (identique à la semaine 2) mais dans un fuseau horaire différent pour les personnes qui n'ont pas pu nous rejoindre la semaine 2.*
+## Join the Cohort Room
 
+This call has concluded.
 
-
-   * Date : 15 mars 2023
-   * Time/Heure : 17:00 - 18:30 UTC - voir dans votre fuseau horaire : [https://arewemeetingyet.com/Berlin/2023-03-15/18:00/week-03](https://arewemeetingyet.com/Berlin/2023-03-15/18:00/week-03) 
-   * Duration/Durée : 90 minutes
-   * Hosts/Hôtes : Yo, Paz, Melissa, 
-   * Programme : [https://openlifesci.org/ols-7/schedule/#week-03](https://openlifesci.org/ols-7/schedule/#week-03) 
-
-
-Join the OLS-7 cohort call/Rejoignez la salle de cohorte OLS-7 : [https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09](https://us02web.zoom.us/j/83789414238?pwd=TmxhTnYxcjdEdmFFUEY2R253V3lRUT09) 
-
-   * Joining ID/ID de réunion : 837 8941 4238
-   * Passcode /Code d'accès : 106261
+Are you an OLS-9 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-9 playlist): [https://youtube.com/playlist?list=PL1CvC6Ez54KA2r5YEzkCcbBro4BqdL8mB\&feature=shared](https://youtube.com/playlist?list=PL1CvC6Ez54KA2r5YEzkCcbBro4BqdL8mB\&feature=shared)
 
 
-Are you an OLS-7 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-7 playlist): [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
+### Housekeeping 
 
+This call is being recorded and transcribed!
 
+* The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci](https://www.youtube.com/c/OpenLifeSci) ) in the next days
+   * Turn on your webcam if you don't mind sharing your face (or off if you do!)
+Breakout room: Speaking and Writing:
 
-*Êtes-vous un participant OLS-7 mais ne pouvez pas participer à cet appel ? L'enregistrement de cet appel sera mis à jour sur YouTube (playlist OLS-7) : *[https://www.youtube.com/c/OpenLifeSci/playlists](*https://www.youtube.com/c/OpenLifeSci/playlists*)
-
-
-
-**Join the call**
-
-   * Please note that this call will be recorded
-   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci)](https://www.youtube.com/c/OpenLifeSci)) in the next days
-   * Turn on your webcam if you don’t mind sharing your face (or off if you do!)
    * Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name:
        * W for written reflection-based exercise in the main room
        * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
    * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
 
 
-***Rejoignez l'appel***
+## During this week's cohort call, we will:
 
-   * *Veuillez noter que cet appel sera enregistré*
-   * *La vidéo sera disponible sur la chaîne YouTube ( *[https://www.youtube.com/c/OpenLifeSci)](*https://www.youtube.com/c/OpenLifeSci)*)* dans les prochains jours*
-   * *Allumez votre webcam si cela ne vous dérange pas de partager votre visage (ou éteignez-la si vous le faites !)*
-   * *Veuillez modifier votre nom Zoom (cliquez sur les trois points en haut à droite de votre vidéo) et ajoutez l'une des lettres suivantes devant votre nom :*
-   * *W pour exercice de réflexion écrite en salle principale*
-   * *S pour Spoken Discussion Breakout Room Cela nous aidera à vous affecter à la salle de discussion avec le format de votre choix*
+* Identify essential files to add in a collaborative project
+   * Explain why you need to select a license for an open project
+   * Select the best license for your project
+   * Write a clean and welcoming README file
+   * Discuss about Code of Conduct
 
 
+## 🌍 Roll call
 
+### Introducing yourself
 
-## During this week’s cohort call, we will:
+* Name / Project / social handles (twitter, GitHub, etc.) / Extra point for sharing your emoji mood 😀 
+   * Malvika / OLS / 🌊 (wave)
+   * Tajuddeen / OLS / 
+   * Yo / OLS / 🌧️ - my mood is great and I'm enjoying the POURING rain
+   * Seun / BON / Seun Olufemi/ Happy and Cold  
+   * Alfredo / From Córdoba, Argentina - 
+   * Monsurat /  MolerHealth / 😇😇
+   * Manifest / MolerHealth
+   * Alexander/ LA-CoNGA physics / ☔
+   * Nyasita/BHKi
+   * Nihad/ 😇
+   * Andrés/ Latin America Bioimaging
+   * Joyce / Digital Research Academy
+   * Brevin / Glioblastoma
 
-   * Look at project structure as we build open projects
-   * Go over the standard files in open projects
-   * README \& CONTRIBUTING.md
-   * LICENSE
-   * CODE\_OF\_CONDUCT.md
-(Note: The exact project structure and files used may look different on your project). 
+### Icebreaker question
 
+*How have your first few weeks in OLS-9 been? Share links to a picture, a word, a gif to express how you are feeling about your role as a project lead and/or team member*
+   * Malvika: [https://giphy.com/gifs/season-17-the-simpsons-17x21-3o6Mbl198X6xFI1dgk](https://giphy.com/gifs/season-17-the-simpsons-17x21-3o6Mbl198X6xFI1dgk) (there is till so much to do!)
+   * Yo / [https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1nbHRpcHh0bG8wNXgwaGczdXB4ejJ4bGd5M2FnZHZhM2JsYjhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarqlsEW6F7F14Fq/giphy-downsized-large.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1nbHRpcHh0bG8wNXgwaGczdXB4ejJ4bGd5M2FnZHZhM2JsYjhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarqlsEW6F7F14Fq/giphy-downsized-large.gif) (actually managing to be cool and relaxed despite, y'know. stuff)
 
+## 🗣️ Welcome!
 
-## Before this meeting (if you can)
+Malvika (10 min)[⏰ 10]
 
-   * Look up two other projects and comment on their []GitHub issues[] with feedback on their open canvas: [https://github.com/open-life-science/ols-7/issues]([]https://github.com/open-life-science/ols-7/issues[])
-   * Work on your vision statement
-   * Write your vision
-   * Refine your vision with the editor’s help
-   * Paste it in your GitHub issue
-   * Read your project vision to those in your Breakout room and hear their feedback :)
-   * One tool to write your vision is the Hemingway Editor: [http://www.hemingwayapp.com/]([]http://www.hemingwayapp.com/[])[] []and another option is [https://splasho.com/upgoer5/](https://splasho.com/upgoer5/)
+Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
 
+   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
+   * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, tajuddeen@we-are-ols.org).
 
-Other resources: Opening Your Project:[] [][https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/]([]https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/[])
+This call is being recorded and transcribed!
 
+   * Please turn your video off if you would prefer to be off video
+   * You can follow the transcriptions following the link on the top of the Zoom screen
 
+Breakout room: Speaking and Writing:
 
-## Roll call
+   * Indicate by editing your name on Zoom and add
+       * W for written reflection-based exercise in based breakout room
+       * S for Spoken Discussion Breakout Room
+   * This will help us assign you to the breakout room with the format of your choice
+   * Even if you are ok with both, please choose one option for this call to help us assign you easily to one group.
 
-   * *Name / Project / social handles (twitter, GitHub, etc.) / *
-   * Carmel/ Radical Inclusion at Academic Events/ linkedin.com/in/carmel-carne-979116241
-   * Debs/ The Impact of Sleep Deprivation 
-   * Danny / Translate Science / m: @danwchan@scholar.social
-   * Bisola/The Impact of Sleep Deprivation / @\_cheeps on twitter/ github: Bisola15
-   * Jesica/ Mapping open-science communities, organizations, and events in Latin America./@JesiFormoso (twitter), @jformoso (github)
-   * Ire/ Mapping open-science communities, organizations, and events in Latin America./@4iro (GitHub)
-   * Jennifer / Translate Science / JMMaok@mastodon.online
-   * Meli / MetaDocencia, mentoring the Moncora project / @melibleq (GitHub), @melissablck (Twitter)
-   * Andrea / Mentoring Echinopsis, led  by Nicky / 
-   * Diana / Data Management section in the ELIXIR Estonia webpage / GitHub: diana-pilvar 
-   * Hao Ye / Open Grants / tw: hao\_and\_y
-   * Nicky / echinopscis / @nickynicolson (gh \& tw) @nickynicolson@mastodon.social
-   * Dan/ Radical Inclusion at Academic Events
-   * Aswathi/The Impact of Sleep Deprivation (mentor)/Bresearcher101
-   * Laura Becerra /LaConga-Moncora/@lauramb8909 (GithHub)
-   * Gigi Kenneth/AI Ethics/ @gigikenneth (GitHub), @gigi\_kenneth (Twitter)
-   * Eric G Kariuki/ Guest speaker/@ekariuki-Sleepy (GitHub), @avoc\_addict (Twitter)
-   * Doaa Abdelkader/ @doaamkader/open science community in Egypt 
-   * Angelo Varlotta / Collective and open research in climate/ @varl42 (Twitter)
-   * Carolina Giraldo/Data analysis in soil physics: an opportunity of teaching data management and reproducibility 
-   * Sara Acevedo/ Data analysis in soil physics: an opportunity of teaching data management and reproducibility 
-   * Saule Anafinova /Raising Open Science Awareness in Central Asia/anafinovas (github.com)
+## 🖥 Setting up a project!
 
+Malvika (5 min)[⏰ 25]
 
-**Icebreaker question**
+Presenter: Malvika
 
-*How have your first few weeks in OLS-7 been? - share links to a picture, a word, a gif to express how you are feeling about your role as a project lead and/or team member*
+   * Contact / social: @malvikasharan
+   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQGAWc8i\_lqAvws2psLf\_pFqby4-PY50pZvzLtNH3C-6Y8ttmANy3vrVQ1oz3SqYw/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vQGAWc8i\_lqAvws2psLf\_pFqby4-PY50pZvzLtNH3C-6Y8ttmANy3vrVQ1oz3SqYw/pub?start=false\&loop=false\&delayms=3000)
 
-   * It's been a slow start for me but I'm lookng forward to our first mentor meeting (we scheudled it for tomorrow and I'll take some time today to talk over our vision statement with them and if we should be switching to GitHub over Codeburg) Happy to be here and share this space with the cohort and organisers
-   * Rested
-   * Curious but a bit overwhelmed. +1+1
-   * Excited! (even though I couldn't add the appropiate gif )
+## 🖥 README!
 
+Laurah (15 min)[⏰ 40]
 
-   * Excited for our project but also because the cohort has so many amazing projects: 🤩
-   * Excited!!!
-   * 
+Presenter: Alexandar Martinez Mendez
 
-   * A little bit overwhelming. But our mentor has been very helpful in reigning us in.
-   * Inspired and excited!
-   * [https://i.pinimg.com/564x/33/e4/e7/33e4e71c398625a12700468c8c1762ce.jpg](https://i.pinimg.com/564x/33/e4/e7/33e4e71c398625a12700468c8c1762ce.jpg)
-   * Happy!
-   * 
-
-   * Excited for the project \& most of all the people
-   * Inspired and overwhelmed with understanding to 
-
-
-## 🗣️ Welcome! 
-
-Paz (⏰ 2 min) 
-
-   * Reminder: []Code of conduct \& community participation guidelines: [][https://openlifesci.org/code-of-conduct]([]https://openlifesci.org/code-of-conduct[])
-   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Paz, Malvika, Emmy and Yo ([]team@openlifesci.org[]).
-   * To report an issue involving one of the organisers, please email one of the members individually ([]berenice@openlifesci.org[], []malvika@openlifesci.org[], []yo@openlifesci.org, emmy@openlifesci.org[], paz@openlifesci.org).
-   * Otter.ai transcript to follow along by clicking on "live on otter.ai" on top right of your screen, or here: [https://otter.ai/u/GnJ7lBTmVKDz1MWgO1HETZlpiVM](https://otter.ai/u/GnJ7lBTmVKDz1MWgO1HETZlpiVM)
-
-
-   * Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name.
-   * W for written reflection-based exercise in the main room
-   * S for Spoken Discussion Breakout Room/ This will help us assign you to the breakout room with the format of your choice 
-
-
-   * 🥁 Cohort name? What are the current options?: [https://poll.ly/DEQ31dfKn9D5Wt0n6ZwL](https://poll.ly/DEQ31dfKn9D5Wt0n6ZwL)
-
-
-Meli (⏰ 3 min)
-
-Anyone new this week? What’s your name, location, project name \& most recent hobby?
-
-   * 
-
-   * 
-
-
-
-Host: Paz (⏰ 10 min) 20
-
-👥 Break-out room (10 minutes, ~3 ppl per room) - Choose one of the following: 
-
-   * Think of a time you were collaborating or working on an open project and it was a complete trainwreck. What happened? What made it chaotic?
-   * Think of a time you were collaborating or working on an open project and everything was perfect. What happened? What made it sublime?
-✏️ Insights/thoughts/comments to share from your breakout room? 
-
-
-
-Written breakout 1
-
-Members: Sara, Saule, Bisola
-
-   * With Bisola we conclude that if people are willing to learn and unlearn, projects flow better.
-
-
-Written breakout 2
-
-Members:   Ire, Gigi, Jesi, Angelo
-
-   * Guidelines not well defined made collaboration chaotic. Whe did not know exactly what we could or could not do. 
-   * Lack of communication. 
-   * Trying to do too many things at the same time, less is more. 
-   * No clearly deffined roles. No leadership. 
-   * Whan is part time and contributions are from a lot of people, messy and overwhelming (github). A lot of code that you don't know what it does. It would  nice to establish how contributions should be made in an orderly manner. 
-
-
-Written breakout 3
-
-Members: Nicky, LN6
-
-   * Train-wrecks / difficult projects:
-       * N: one where we had a manager who wanted all comms to go through them. So lots of point to point communication which led to misconceptions about what we were doing
-       * N: Also some people just worked flat out (heroism) and were quite territorial about their areas of work
-       * N: Maybe a general problem - some people try to "run before they can walk" - there needs to be a lot of setup, skills development (interpersonal skills) before it can all click
-       * LN: Team members would just not agree to do what they were assigned and that made the project a complete nightmare. No fault to the openness of the project but rather the characters of team members
-       * Nicky: "Its great when people feel safe to say "I don't know"
-   * Projects that "seemed" perfect:
-       * N: Define places for where we do comms, save documents etc. Clear responsibilities
-
-
-Another comment on the chat 
-
-   * +1 "define goals clearly, but let everyone decide on the path to get there"
-
-
-
-
-## 🗣️ Project Structure 
-
-Meli (⏰ 2 min) 20
-
-Here are four standard files in open projects: 
-
-   1. LICENSE
-   1. README.md
-   1. CONTRIBUTING.md
-   1. CODE\_OF\_CONDUCT.md
-*We will go over each of these files and best practices for putting them together. Your project may not have this exact structure but should include this information.*
-
-
-
-## 🖥 README \& Contributing
-
-Host: Paz
-
-
-
-Presenter: Eric Gathirwa (⏰ 15min) 35
-
-   * Slides: [https://docs.google.com/presentation/d/1V2-6PbJiPOYGBGsHJbKj9Y49iPHsHnAIKnhCuV40U3I/edit#slide=id.g2224fafcba8\_0\_37](https://docs.google.com/presentation/d/1V2-6PbJiPOYGBGsHJbKj9Y49iPHsHnAIKnhCuV40U3I/edit#slide=id.g2224fafcba8\_0\_37)
-   * 
-
-
+   * Contact / social: @mxrtinez
+   * Slides: [https://docs.google.com/presentation/d/1N1m0WjFbftBJk26nC1Mf-Qr5ZDooKLsDHTiR\_RyKK2w/edit?usp=sharing](https://docs.google.com/presentation/d/1N1m0WjFbftBJk26nC1Mf-Qr5ZDooKLsDHTiR\_RyKK2w/edit?usp=sharing)
 
 Notes:
 
-   * *Read more about []writing a README[]: *[https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/](*[]https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/[]*)
-   * To extend the book metaphor, maybe a README is more like a Foreword? Yes
+       * This is your chance to tell people who don't know enough about your project
+       * "Put yourself in someone's shoes"
+       * Here is a reference with template to help you develop one: [https://book.the-turing-way.org/project-design/project-repo](https://book.the-turing-way.org/project-design/project-repo)
+       * Readme files are live document - whenever it is necessary, rewrite and update!
+
+Questions
+
+       * What is challenging about creating a README from scratch?
+           * Alex: It is hard to think from someone else's point of view - but this document is not for your, it is for others, so think about what other people need?
+               * What would different profiles (user, contributor, team) need
+               * Use open canvas!
+       * How essential is it to re-write a README
+           * For projects where you make a lot changes, it is essential especially for those who are not regularly involved
+           * If your project doesn't change much - you don't have to update!
+           * Answer is: It depends on how your project is changing - what new information is needed for others to work on the project or use a tool or stay up to date with basic information.
+
+## 👥 Collaboration or work on an open project!
+
+Laura introduces, Malvika makes breakouts (10 min) [⏰ 20]
+
+10 minutes, ~3 ppl per room
+
+### Instructions for the room
+
+Choose one of the following:
+
+   * Case 1: Think of a time you were collaborating or working on an open project and it was a complete trainwreck.
+       * What happened?
+       * What made it chaotic?
+   * Case 2: Think of a time you were collaborating or working on an open project and everything was perfect.
+       * What happened?
+       * What made it sublime?
+
+### Notes from breakout discussions
+
+Breakout Room 1 - Spoken
+
+   * Names
+           * Andrés
+           * Brevin
+      
+   * Notes
+           * Case 1:
+               * No coordination bewteen programs, main problem was who was in charge of financial managing
+               * There was a mismatch between the goals and the timelines to achieve the goals. The main problem was the lack of understanding at the moment of planning the project to have clear goals and a path to achive the goals.
+               * 
+
+Breakout Room 2 - Written/Spoken
+
+   * Names
+           * Manifest 
+           * Faisal 
+           * Alexander
+   * Notes
+           * Case 2:
+               * I worked on many projects to develop African data-sharing portals for genomics (microbiome, genomic variation, and genomic medicine) all the stars aligned.
+               * 
+
+               * What happened?
+               * Our objective for each project was to create an information-sharing portals with genomic data, supportive in health research. In this, the vision and goals were pretty clear; therefore, coordination was smooth amongst the heterogeneous team composition consisting of data scientists, bioinformaticians, and researchers on one single communication platform and having a monthly meeting. Roles were well-defined right from the start.
+
+Breakout Room 3 - Written/Spoken
+
+   * Names
+           * Monsurat Onabajo 
+           * Alfredo
+           * Joyce Kao
+   * Notes
+           *  Case :
+               * Monsurat - Disaster- Readme was not updated, had to contact organisers after 2 days of bugs , Success - there is always issue so no full on smooth ride yet
+               * Alfredo => Success - using GitHub for paper writing helped in organizing work and version control....come from chaos without version control and GitHub process before
+               * Joyce => Success - first Open Innovation in Life Sciences Conference in Switzerland, strong team dynamic and organization, Disaster - EU project where no one read the regulations and project manager was not involved in application writing and inherited a mess at the start of the project
+
+Breakout Room 4 - Written
+
+   * Names
+           * Seun
+           * Nihad
+           * Malvika
+   * Notes
+           * You to Everyone (9 Oct 2024, 17:33)
+           * It would have been easier if someone had showed me how to share my code/documentation online when I started the project.
+           * A good project for me is OLS. I feel like it has been very collaborative. We are still improving our process but it has largely been very collaborative.
+           * W- Seun Olufemi to Everyone (9 Oct 2024, 17:35)
+           * When were working a project and we are get collaborators both local and international, but the main lead was the only one who was the contact person
+           * W Nihad Alsayed to Everyone (9 Oct 2024, 17:35)
+           * For me it was when I developed a doc online for the first time, things were going good but then I noticed overwriting from others so yes you have to keep the texts, restore, and add them back again
+           * You (9 Oct 2024, 17:36)
+           * I had that this morning working on hackMD where things were getting overwritten. I prefer Framapad as it has timestamps for every edit and older version can be restored.
+   * When he secured a more demanding role, the starting struggling the entire project.
+   * You (9 Oct 2024, 17:37)
+   * So the lesson is to have more people listed? I do have projects where I am the only contact and I do not respond quickly to emails.
+   * W- Seun Olufemi (9 Oct 2024, 17:39)
+   * Yeah, I think if we are discussed proper delegation, it would have been better.
+   * W Nihad Alsayed (9 Oct 2024, 17:40)
+   * @S-Malvika Sharan  (she/her) I think two  people at least as contacts? but then there's an arrangement that should take place like splitting the roles following certain inquires pattern!
+   * W- Seun Olufemi to Everyone (9 Oct 2024, 17:37)
+   * Prior communication and effective communication would have helped
+   * W Nihad Alsayed to Everyone (9 Oct 2024, 17:37)
+   * Surprisingly communication went well apart from anything else
+   * You (9 Oct 2024, 17:38)
+       * What did that look like?
+       * Were groups helpful at fixing the tech problem? Or did they take in feedback to change the tools?
 
 
-Questions / Comments (silent GDoc-ing and +1ing)
+### Any insights/thoughts/comments to share from your breakout room?
 
-   * How important is to write a README? VERY Important! Think of it as a proposal without an exceutive summary or a publication without an abstract. It will be difficult to find your way around.
-   * Are READMEs always written in markdown? Yes, for GitHub.
-   * A landing page? Yes
-   * Has GitLab a similar set of features (twitter debacle made me more aware of relying on a single thing)Almost the same but the interface is different. I prefer GitHub though ;)
-   * Does anybody have any recommendations for beginner Git or Github courses? Kindly take a look at the slides shared, they have some useful links. Thank you!!!
-   * 
-
-## 🗣️ LICENCES
-
-Host: Meli
-
-Presenter: Hao Ye  (⏰ 10min) 45
-
-   * []Slides: [][https://docs.google.com/presentation/d/1-Ns22S18\_eP6VvEwMx6Mxo5cukFYVSG8W6kaZctyWpc/edit?usp=sharing]([]https://docs.google.com/presentation/d/1-Ns22S18\_eP6VvEwMx6Mxo5cukFYVSG8W6kaZctyWpc/edit?usp=sharing[])
+       * Andres: With Brevin and Karin, we focused on chaotic case - lack of coordination between project teams. Coordination mismatch was very chaotic.
+           * Misalignment of goals and timeline to achieve those goals! Most taks take longer than we think - understanding that at the beginning of the project is important.
+       *  Any example of good project?
+           * Faisal: We shared some example of positive project.
+               * African genomic data is underrepresented in data base
+               * In Tunisia, many experts united to work on the problm - every month we met with project members, had a Slack, had clear roles for people to communicate what was happening - we had always good guidance for next steps.
+               * Also bad electricity can cause some challenges in the communications -- but having different channels to continue conversations help.
 
 
-*Notes: *
+## 🖥 Open Licensing!
 
-   * *Read more about []sharing your work in the open[]: *[https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/](*[]https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/[]*)* *
-   * *Software licensing: *[https://choosealicense.com/](*[]https://choosealicense.com/[]*)*, content *[https://creativecommons.org/]([]https://creativecommons.org/[])
+Laurah (15 min)[⏰ 55]
 
+Presenter: Joyce Kao
 
+   * Contact / social: joyce@digiresacademy.org / X([https://x.com/joyceykao)](https://x.com/joyceykao)), LinkedIn ([https://www.linkedin.com/in/joyceykao/)](https://www.linkedin.com/in/joyceykao/)), Mastodon ([https://mastodon.social/@joyceykao)](https://mastodon.social/@joyceykao))
+   * Slides: [https://docs.google.com/presentation/d/1pFlaw-7Kg04GdpCU6CQPAEIcNs-clc3Lm-9G1pFpM0Y/edit?usp=sharing](https://docs.google.com/presentation/d/1pFlaw-7Kg04GdpCU6CQPAEIcNs-clc3Lm-9G1pFpM0Y/edit?usp=sharing)
+Notes:
 
+       * copyright: where you can reuse resources without buying/paying for the usage - commercial:
+       * Copyleft: people can use it but there are some restriction: like for example, some may not want the use of resources for commercial purpose, or that someone might want users to use the same license
+       * Permissive: You are allowed to use with attribution of the original author
+       * Public domain: No permission or attribution needed
 
-Questions / Comments / your own tips for picking a license?
+Questions
 
-   * Some interesting controversy around GitHub copilot [https://fossa.com/blog/analyzing-legal-implications-github-copilot/](https://fossa.com/blog/analyzing-legal-implications-github-copilot/), I'm wondering how lisences extend to other (non-code) contirbutions (eg issues, comments, etc) made to github repositories. And what is the default for non-code contributions?
-   * Example of ethical limitations in a license
-       * Zenodo Terms of Use: "Zenodo is an open dissemination research data repository for the preservation and making available of research, educational and informational content. Access to Zenodo’s content is open to all, for non-military purposes only." - [https://about.zenodo.org/terms/](https://about.zenodo.org/terms/)
-   * Example of a `LICENSE` file with different licenses applied to different parts of a github repository
-       * [https://github.com/inducer/pyopencl/blob/main/LICENSE](https://github.com/inducer/pyopencl/blob/main/LICENSE) (markdown version - [https://documen.tician.de/pyopencl/misc.html#license](https://documen.tician.de/pyopencl/misc.html#license) )
-       * example courtesy of Jim Madge, The Turing Way
- 
-
-
-
-## 🗣️ Codes of Conduct (CoC)
-
-Host: Meli
+       *  What's dual license?
+           * Dual licensing is a strategy in which some sort of software project or product is released under two different kinds of licenses, typically an open-source license and a commercial license. That would mean different licensing for the same codebase, satisfying the many needs of users or businesses.
+       * To be clear the license applies to the code not the techniques?
+           * You can have license for documentations like protocol or methods that use different license (like CC-BY 4.0) than code (like MIT). You technology as a whole will have different license for different components. For example combination of these two license.
 
 
+## 🖥 Code of Conduct!
 
-🖥 Presenter: Andrea Sánchez (⏰ 10min) 70
+Malvika (15 min)[⏰ 70]
 
-   * Slides: [https://docs.google.com/presentation/d/14VJT3IpO0DP0aOaUEC6393AAddFSROzpJrX6H6Vy5D8/edit?usp=sharing](https://docs.google.com/presentation/d/14VJT3IpO0DP0aOaUEC6393AAddFSROzpJrX6H6Vy5D8/edit?usp=sharing)
-   * 
+Presenter: Karin Lagesen
 
+   * Contact / social: 
+   * Slides: [https://drive.google.com/file/d/16WN14BpBug8Op3ekhlhIZH12Bv5Nyxha/view?usp=drive\_link](https://drive.google.com/file/d/16WN14BpBug8Op3ekhlhIZH12Bv5Nyxha/view?usp=drive\_link)
 
+## 👥 Vision statement!
 
-*Notes: *
+Malvika introduces, and makes breakouts (5 min) [⏰ 75]
 
-   * *Read more about []Codes of Conduct: []*[https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/]([]https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/[])
-   * Example CoCs
-   * []Carpentries: [][https://docs.carpentries.org/topic\_folders/policies/code-of-conduct.html]([]https://docs.carpentries.org/topic\_folders/policies/code-of-conduct.html[])
-   * []Open Life Sci: [][https://openlifesci.org/code-of-conduct]([]https://openlifesci.org/code-of-conduct[])
-   * []eLife Innovation Sprint (online event): [][https://sprint.elifesciences.org/code-of-conduct/]([]https://sprint.elifesciences.org/code-of-conduct/[])
-   * []Mozilla Community Participation Guidelines: [][https://www.mozilla.org/en-US/about/governance/policies/participation/]([]https://www.mozilla.org/en-US/about/governance/policies/participation/[])
-
-
-*Questions / Comments?*
-
-   * Very important: CoC are also a way to visualiza what you do want to see in your community, the good part!
-   * Q: Has there been any CoC controversy in any famous open source/open science community that we can check out? Yes, the first chapter of that book has some great (I mean horrible) examples.
-   * 
+5 minutes, ~2 ppl per room
 
 
 
-## 👥  Breakout Rooms 
+### Instructions for the room
 
-Paz (⏰ 5 minutes, ~3 ppl per room) 60
-
-   * Read your vision statement: 
-   * What do you think about this exercise?
+   * Read/share your vision statement
+   * What do you think about this exercise of writing vision statement?
 
 
-Any insights/thoughts/comments to share from your breakout room? 
+### Notes from breakout discussions
 
-*
 
-## 🗣️ Closing 
+## 🗣️ Closing
 
-Paz (⏰ 10 minutes) 85
+Malvika (5 min) [⏰ 90]
 
-### 
-
-Assignments
+### Assignments
 
    * Create a GitHub repository for your project
-   * Add the link to your repository in your issue: [https://github.com/open-life-science/ols-7/issues](https://github.com/open-life-science/ols-7/issues)
-   * Use your canvas to []start writing a README.md file[], or landing page, for your project: [https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/]([]https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/[])
-   * Link your README in a comment on this issue
-   * Add an[] open license[] to your repository as a file called LICENSE.md: [https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/]([]https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/[])
-   * Add a []Code of Conduc[]t to your repository as a file called CODE\_OF\_CONDUCT.md: [https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/]([]https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/[])
-   * Next week:
-   * Attend the []GitHub Intro[] skill-up session (for those who are new to GitHub): [https://openlifesci.org/ols-4/schedule/#week-05]([]https://openlifesci.org/ols-4/schedule/#week-05[])
-   * Attend your Mentor-mentee call
+   * Add the link to your repository in your issue: [https://github.com/open-life-science/ols-9/issues](https://github.com/open-life-science/ols-9/issues)
+   * Use your canvas to start writing a README.md file, or landing page, for your project: [https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/)
+   * Link your README in a comment on the OLS-9 issue
+   * Add an open license to your repository as a file called LICENSE.md: [https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/)
+   * Add a Code of Conduct to your repository as a file called CODE OF CONDUCT.md: [https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/)
 
-### Q&A for after the call 
+### Have any questions?
 
-Response will be shared through notes
-*
-*
+Add them below. We will respond to these on Slack and also share them via an email
 
-### Feedback
+   *  Will you be sharing the slides of Open Licensing?
+
+
+### Feedback about this call:
 
 What worked?
 
-   *  
-   *  
-What didn’t work?
-
-   *  
-   *  
-What would you change?
-
-   *  
-   *  
-What surprised you?
-
-   *  I attended a written brakout room for the first time this time and I really like to have this option. <3
-   *  
    * 
 
-*Reference: Mozilla Open Leaders, Open Life Science *
+What didn't work?
 
-*License: CC BY 4.0, Open Life Science (OLS-7), 2022*
+   * 
+
+What would you change?
+
+   * 
+
+   * 
+
+
+Reference: Mozilla Open leadership Framework, Open Life Science
+
+Licence: CC BY 4.0, Open Life Science (OLS), 2024
+
+
