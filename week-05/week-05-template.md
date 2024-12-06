@@ -7,25 +7,14 @@ Time: 16:00 UTC
 
 Duration: 90 min
 
-Call lead: Tajuddeen Gwadabe
+Call lead:
 
-Facilitator: Tajuddeen Gwadabe
-
-    
+Facilitator:
 
 ## Join the Cohort Room
 
-Join the Zoom call: [https://us02web.zoom.us/j/81462081794?pwd=UhU6mMHtdcNvuFpitlYF2AyESz5wUa.1](https://us02web.zoom.us/j/81462081794?pwd=UhU6mMHtdcNvuFpitlYF2AyESz5wUa.1)
-
-Meeting ID: 814 6208 1794
-
-Passcode: 752836
-
-
 
 Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
-
-
 
 This call is being recorded and transcribed!
 
@@ -47,8 +36,6 @@ Where to indicate preference? --* In your Zoom name*
        * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letters in front of your name
    * Please let us know in the chat your preference for the breakout room today - a co-host will edit your name to add one these letters:
    * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
-
-
 
 
 ## During this week's cohort call, we will:
@@ -103,7 +90,7 @@ Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
 
 ## 🗣️ Welcome!
 
-[Tajuddeen] (5 min)[⏰ 5]
+[] (5 min)[⏰ 5]
 
    * Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
    * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
@@ -132,7 +119,7 @@ Where to indicate preference? --* In your Zoom name*
 
 ## 🖥 GitHub for Collaboration
 
-[Tajuddeen] (5 min)[⏰ 10]
+[] (5 min)[⏰ 10]
 
 Presenter: Tajuddeen
 
@@ -158,7 +145,7 @@ Questions
 
 ## 🖥 Introduction to GitHub!
 
-[Tajuddeen] (55 min)[⏰ 60]
+[] (55 min)[⏰ 60]
 
 Presenter: Debs
 
@@ -191,11 +178,9 @@ Questions
 
 ## 👥 Pull Request (PR) Exercise!
 
-[Debs] introduces, [Tajuddeen] makes breakouts (15 min) [⏰ 75]
+[] introduces, [] makes breakouts (15 min) [⏰ 75]
 
 15 minutes, ~3 ppl per room
-
-
 
 ### Instructions for the room
 
@@ -298,7 +283,7 @@ Breakout Room 10 - Written/Spoken
 
 ## 🖥 Creating a small website with GitHub
 
-[Tajuddeen] (10 min)[⏰ 80]
+[] (10 min)[⏰ 80]
 
 Presenter: Debs
 
