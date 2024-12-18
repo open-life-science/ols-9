@@ -4,6 +4,7 @@
 * Time:
 * Duration:
 * Hosts:
+* Facilitators: 
 
 ## 🗣️Join the Cohort Room and Welcome
 
@@ -13,12 +14,19 @@ Join the Zoom call:
 
 Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
 
+### During this week’s cohort call, we will discuss:
+
+* Equity, Diversity and Inclusion (EDI) in open science communities
+* Ally skills: what is an ally, why it matters, and how to act as an ally.
+
+## Welcome!
+
 * Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
    * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
    * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, tajuddeen@we-are-ols.org).
 
 * This call is being recorded and transcribed!
-   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))))](https://www.youtube.com/c/OpenLifeSci))))) in the next days
+   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))))](https://www.youtube.com/c/OpenLifeSci))))) in the next few days
    * Turn on your webcam if you don't mind sharing your face (or off if you do!)
 
 * Breakout room:
@@ -33,17 +41,12 @@ Are you an Open Seeds participant but can't attend this call? The recording from
 
 * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letters in front of your name
    * Please let us know in the chat your preference for the breakout room today - a co-host will edit your name to add one these letters:
-   * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
-
-
-## During this week’s cohort call, we will discuss:
-
-   * Equity, Diversity and Inclusion (EDI) in open science communities
-   * Ally skills: what is an ally, why it matters, and how to act as an ally. 
+   * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call 
 
 ## 🌍 Icebreaker question
 
 *Name /  *What is one favourite tool/tip/practice that has improved access, inclusion or participation for you in a team/project/tech?
+
 * 
 * 
 * 
@@ -69,26 +72,29 @@ Are you an Open Seeds participant but can't attend this call? The recording from
 
 Slides: [https://docs.google.com/presentation/d/e/2PACX-1vR8bJ7D5CLi-3q2OMBAr\_o1cJibfro6sxTLDC5yHnmLT2dMhc-t0Kti4CvAEYfYaA/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vR8bJ7D5CLi-3q2OMBAr\_o1cJibfro6sxTLDC5yHnmLT2dMhc-t0Kti4CvAEYfYaA/pub?start=false\&loop=false\&delayms=3000)
 
-* Notes
-    * 
-    * 
+**Notes:**
+
+* 
+* 
 
 ## Ally Skills: Short Workshop
 
 [Hosts] (65 min)[⏰ 15-80 min]
 * Slides: [https://docs.google.com/presentation/d/10r7lGUBAmizQRKPkfOl6G9uCgw3mhBq554iZJph5Njo/edit#slide=id.p1](https://docs.google.com/presentation/d/10r7lGUBAmizQRKPkfOl6G9uCgw3mhBq554iZJph5Njo/edit#slide=id.p1)
    
-* Notes
-    * 
-    * 
+**Notes:**
+
+* 
+* 
 
 #### Exercise: Identify your power and privilege (you can keep these notes to yourself)
 
 Link: [https://docs.google.com/document/d/1xlRf6265EovRoolY1DFLE4N7N\_8jajNvDS9YT1\_Nc\_I/copy](https://docs.google.com/document/d/1xlRf6265EovRoolY1DFLE4N7N\_8jajNvDS9YT1\_Nc\_I/copy)
 
-* Notes
-    * 
-    * 
+**Notes:**
+
+* 
+* 
 
 ### Seconario-based discussion
 
@@ -134,6 +140,7 @@ Link: [https://docs.google.com/document/d/1xlRf6265EovRoolY1DFLE4N7N\_8jajNvDS9Y
 * Notekeeper:
 
 Notes: 
+
 * 
 * 
 
@@ -144,6 +151,7 @@ Notes:
 * Notekeeper:
 
 Notes: 
+
 * 
 * 
 
@@ -154,6 +162,7 @@ Notes:
 * Notekeeper:
 
 Notes: 
+
 * 
 * 
 
@@ -164,6 +173,7 @@ Notes:
 * Notekeeper:
 
 Notes: 
+
 * 
 * 
 
@@ -174,10 +184,12 @@ Notes:
 * Notekeeper:
 
 Notes: 
+
 * 
 * 
 
 ### Shared Notes and insights: 
+
 * 
 * 
 
