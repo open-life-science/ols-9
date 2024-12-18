@@ -1,251 +1,116 @@
 # Week 10 - Open Science Garden II
 
-**Date**: November 21, 2023
+**Date**: 20 November, 2024  
+**Time**: 16:00 UTC  
+**Duration**: 90 min  
+**Call Lead**:  
+**Facilitator**:
+
+---
 
-**Time**: 10:00
+## 🗣️ Join the Cohort Room and Welcome  
+**Host** (10 min) [⏰ 10]  
+
+Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)  
 
-**Duration**: 90 min
+**Code of conduct and community participation guidelines**:  
+[https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)  
 
-**Call lead**: Tajuddeen Gwadabe
+- If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo, and Taj. (team@we-are-ols.org).  
+- To report an issue involving one of the organisers, email them individually:  
+  - berenice@we-are-ols.org  
+  - malvika@we-are-ols.org  
+  - yo@we-are-ols.org  
+  - tajuddeen@we-are-ols.org  
 
-**Facilitator**: 
+**This call is being recorded and transcribed!**  
+- The video will be available on the YouTube channel ([Open Life Science](https://www.youtube.com/c/OpenLifeSci)) in the next few days.  
+- Turn on your webcam if you're comfortable sharing your face (or keep it off if not).  
 
+---
 
-## Join the Cohort Room
+**Breakout Room Preferences**:  
+Indicate your preference for the breakout room format in your **Zoom name**:  
+- **W**: Written reflection-based exercise (main room)  
+- **S-En**: Spoken discussion in English  
+- **S-Fr**: Spoken discussion in French  
+- **S-Fr/En**: Spoken discussion in French or English  
+- **S-Es/En**: Spoken discussion in Spanish or English  
 
-**Join the Zoom call**:
+To set your preference:  
+- Edit your Zoom name (click on the three dots in the top-right of your video) and add the relevant letter.  
+- Alternatively, inform us in the chat, and a co-host will update your name.  
 
-**Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube**: [https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
+---
 
-**This call is being recorded and transcribed!**
-* The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))](https://www.youtube.com/c/OpenLifeSci))) in the next days
-* Turn on your webcam if you don't mind sharing your face (or off if you do!)
+## At the end of this week's cohort call, you will be able to:  
+- Define Open Science and Responsible Research.  
+- List the different principles of Open Science.  
+- Provide examples of three use cases for the different Open Science principles.  
 
+---
 
-**Breakout room**: Speaking and Writing:
-* Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name:
-   * W for written reflection-based exercise in the main room
-   * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
-* If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
+## 🌍 Icebreaker Question  
+**Name / What is your current favorite food that you could eat RIGHT NOW?**  
 
+*Examples*:  
+- **Tajuddeen**: Fried rice  
+- **Seun**: Amala with Ewedu and Beef  
+- **Malvika**: Cheese sandwich  
+- **Kim**: Kind Cocoa breakfast bar  
+- **Godwyns Onwuchekwa**: Ofe egusi (egusi soup)  
 
-## At the end of this week's cohort call, you will be able to:
+---
 
-   - Define Open Science and Responsible Research
-   - List the different principles of Open Science
-   - Give examples of 3 use cases of the different Open Science principles
+## 🖥 Talk: Open Science Garden(s)  
+**Hsot** (5 min) [⏰ 15]  
+**Presenter**:  
 
+- **Slides**: [Presentation Link](https://docs.google.com/presentation/d/e/2PACX-1vQiOSkedwkI8IkMCL_gWJ_qevHZhcHej6PP8otv7BPFoBRqJiEU8BGpc1V6d2Y7jg/pub?start=false&loop=false&delayms=3000)  
+- **Editable Version**: [Google Slides](https://docs.google.com/presentation/d/1kfvaaP1xaTSAa_-uwLt5q_ztxpr6keWY/edit#slide=id.p1)  
 
-## 🌍 Roll call
+**Notes**:  
+We will cover:  
+- Open review and evaluation  
+- Open source software  
+- Open access  
 
-### Introducing yourself
+---
 
-Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
+## 🖥 Talk: Open Review and Open Evaluation  
+**Tajuddeen** (15 min) [⏰ 30]  
+**Presenter**:  
+- **Contact/Social**:  
+- **Slides**: [Google Slides](https://docs.google.com/presentation/d/1moP7pEBHYZjz7DXF5bs5ih-wbZXqyfCLtCA9zn-TO_o/edit#slide=id.p1)  
 
-*    
-*    
+**Notes**:  
+- Transparency, community engagement, and identity disclosure in the process.  
+- Challenges include implementation barriers, bias, and fear of criticism.  
+- Benefits include constructive feedback and diversity in engagement.  
 
+---
 
-### Icebreaker question
+## 🖥 Talk: Open Source Software  
+**Host** (15 min) [⏰ 45]  
+**Presenter**:  
+- **Contact/Social**: [Website](https://www.sayantikabanik.com/) / [LinkedIn](https://www.linkedin.com/in/sayantika-banik/)  
+- **Slides**:  
+  - [Canva Slides](https://www.canva.com/design/DAGWRP6oCJo/WQJPvIjiN0AYwFuZF4WNUA/edit?utm_content=DAGWRP6oCJo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+  - [Additional Slides](https://docs.google.com/presentation/d/1Rj007A5-SW7l0fjKEXqwW6uCWnJikMAzXu5UPzlGwOE/edit?usp=sharing)  
 
-What is your recent favorite tool or app or software?
+**Notes**:  
+- Importance of contributing to open source communities.  
+- Planning and designing are key phases before implementation.  
 
-*    
-*    
+---
 
+## 👥 Breakout Discussion: Benefits of Becoming an Open Scientist  
+**Host introduces, sets breakout rooms (15 min)** [⏰ 60]  
 
-## 🗣️ Welcome!
+### Discussion Prompts:  
+- What are the benefits of becoming an open scientist?  
+- What incentives have you encountered in participating in science?  
 
-[HOST] (5 min) [⏰ 5]
+---
 
-**Code of conduct and community participation guidelines** [https://openlifesci.org/code-of-conduct](https://openlifesci.org/code-of-conduct)
-
-* If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo, Paz and Emmy. (team@openlifesci.org).
-* To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, emmy@we-are-ols.org, paz@we-are-ols.org).
-
-
-**This call is being recorded and transcribed!**
-
-* Please turn your video off if you would prefer to be off video
-* You can follow the transcriptions following the link on the top of the Zoom screen
-
-
-**Breakout room**: Speaking and Writing:
-
-* Indicate by editing your name on Zoom and add 
-    * W for written reflection-based exercise in based breakout room
-    * S for Spoken Discussion Breakout Room 
-* This will help us assign you to the breakout room with the format of your choice
-* Even if you are ok with both, please choose one option for this call to help us assign you easily to one group.
-
-
-## 🖥 Talk: Open Science Garden(s)
-
-[HOST] (5 min) [⏰ 10]
-
-**Presenter**: PRESENTER
-
-* Contact / social: 
-* Slides: https://docs.google.com/presentation/d/e/2PACX-1vQv96-8vH1QoMyZ6oKj_BL0Bma3j195KI2rUkGBJvXmPjNZ-_unXkZWAkPlzixw8M5ykgiAkD0hNEMW/pub
-
-**Notes**:
-
-*   
-*   
-
-**Questions**
-
-*   
-*   
-
-
-## 🖥 Talk: Open Educational Resources
-
-[HOST] (15 min) [⏰ 25]
-
-**Presenter**: Toby Hodges
-
-* Contact / social: 
-* Slides: SLIDES
-
-**Notes**:
-
-*   
-*   
-
-**Questions**
-
-*   
-*   
-
-
-## 🖥 Talk: Open Access Publication
-
-[HOST] (15 min) [⏰ 40]
-
-**Presenter**: Scott Edmunds
-
-* Contact / social: 
-* Slides: SLIDES
-
-**Notes**:
-
-*   
-*   
-
-**Questions**
-
-*   
-*   
-
-
-## 👥 Breakout discussion: Benefits of becoming an open sicentists
-
-[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 55]
-
-15 minutes, ~3/4 ppl per room
-
-### Instructions for the room
-
-Discussion prompts for the room:
-   - What are the benefits of becoming an open scientists?
-   - What incentives to participate in science (just science) have you encountered throughout your life?
-
-
-### Notes from breakout discussions
-
-Breakout Room 1 - Written/Spoken
-
-* Names
-
-    *  
-    *  
-
-* Notes
-
-    *  
-    *  
-
-Breakout Room 2 - Written/Spoken
-
-* Names
-
-    *  
-    *  
-
-* Notes
-
-    *  
-    *  
-
-
-### **Any insights/thoughts/comments to share from your breakout room?**
-
-*  
-*  
-
-
-## 🖥 Talk: Open Engagement of Social Actors
-
-[HOST] (15 min) [⏰ 70]
-
-**Presenter**: Angela Odour Lungati
-
-* Contact / social: 
-* Slides: SLIDES
-
-**Notes**:
-
-*   
-*   
-
-**Questions**
-
-*   
-*   
-
-
-## 🗣️ Closing
-
-[HOST] (<duration> min) [⏰ <timing>]
-
-### Assignments
-
-
-
-### Have any questions? 
-
-Add them below. We will respond to these on Slack and also share them via an email
-
-*   
-*   
-
-### Feedback about this call:
-
-What worked?
-
-*   
-*   
-
-
-What didn't work?
-
-*   
-*   
-
-
-What would you change?
-
-*   
-*   
-
-
-What surprised you?
-
-*   
-*   
- 
-
-**Reference**: Mozilla Open leadership Framework, OLS
-
-**Licence**: CC BY 4.0, Open Seeds by OLS, 2023
+Thank you for joining! 🌟  
