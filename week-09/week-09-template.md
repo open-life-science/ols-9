@@ -9,115 +9,181 @@
 ---
 
 ## 🗣️ Join the Cohort Room and Welcome  
-**Host** (10 min) [⏰ 10]  
 
-If you're an Open Seeds participant but can't attend this call, the recording will be updated on [YouTube](https://www.youtube.com/c/OpenLifeSci/playlists).
+Join the Zoom call: 
 
-### Code of Conduct
-- [Community Participation Guidelines](https://we-are-ols.org/code-of-conduct)  
-- To report any unacceptable behavior or concerns, contact the organizers:  
-   **Bérénice, Malvika, Yo, and Taj** at [team@we-are-ols.org](mailto:team@we-are-ols.org).  
-   To report an issue involving an organizer, email individually:  
-   - [berenice@we-are-ols.org](mailto:berenice@we-are-ols.org)  
-   - [malvika@we-are-ols.org](mailto:malvika@we-are-ols.org)  
-   - [yo@we-are-ols.org](mailto:yo@we-are-ols.org)  
-   - [tajuddeen@we-are-ols.org](mailto:tajuddeen@we-are-ols.org)  
-
-*This call is being recorded and transcribed! Videos will be available on the [YouTube Channel](https://www.youtube.com/c/OpenLifeSci) in the coming days.*  
-**Webcam:** Turn it on if you’re comfortable; otherwise, feel free to keep it off.
+Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
 
 ---
 
-## 🧑‍🤝‍🧑 Breakout Room Preferences  
-**Instructions:**  
-- Indicate your preference in your Zoom name:  
-   - `W` - Written reflection in the main room  
-   - `S-En` - Spoken discussion in English  
-   - `S-Fr` - Spoken discussion in French  
-   - `S-Fr/En` - Spoken discussion in French or English  
-   - `S-Es/En` - Spoken discussion in Spanish or English  
+## Welcome
+[HOST](10 min) [⏰ 10]  
 
-*Let us know in the chat; a co-host will update your name.*
+* Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
+   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
+   * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, tajuddeen@we-are-ols.org).
+ 
+* This call is being recorded and transcribed!
+   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci](https://www.youtube.com/c/OpenLifeSci)) in the next days
+   * Turn on your webcam if you don't mind sharing your face (or off if you do!)
+ 
+* Breakout room: Speaking and Writing preference - This will help us assign you to the breakout room with the format of your choice
+       * W- for written reflection-based exercise in the main room
+       * S-En- for spoken discussion in English
+       * S-Fr- for spoken discussion in French
+       * S-Fr/En - for spoken discussion in French or English
+       * S-Es/En- for spoken discussion in French or Spanish
 
----
+* Where to indicate preference? --* In your Zoom name*
+   * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letters in front of your name
+   * Please let us know in the chat your preference for the breakout room today - a co-host will edit your name to add one these letters:
+   * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
 
-## 🌍 Icebreaker Question  
-**Name / What's something beautiful you encountered about nature or the world recently?**
+## 🌍 Icebreaker question
 
----
+*Name / Outside the "work/study" contexts, where have you felt most included, involved and welcome?*
 
-## 🖥 Talk: Open-source Software in Practice  
-**Presenter:** Host (5 min) [⏰ 15]  
-**Slides:** [Link to Slides](https://docs.google.com/presentation/d/e/2PACX-1vRvZgO4mhul2N575YsayBI1EFDmCIneKg47A9YAXRS8PMafLUgQ8s3COoL86I6XuQ/pub?start=false&loop=false&delayms=3000)
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
----
 
-## 🖥 Talk: Good Coding Practices  
-**Presenter:** (15 min) [⏰ 30]  
-**Slides:** _(TBD)_  
+## Talk: Open-source software in practice
 
----
+[HOST] (5 min) [⏰ 10]
 
-## 🖥 Talk: Code Review  
-**Presenter:** (15 min) [⏰ 45]  
-**Slides:** _(TBD)_  
+Presenter: 
+* Contact / social:
+* Slides:
+ 
+## Talk: Good Coding Practices
 
----
+[HOST] (15 min) [⏰ 25]
 
-## 👥 Breakout Discussion: Bug in a Scientific Tool  
-**Introduced by:**  
-**Breakouts by:**  (15 min) [⏰ 60]  
+Presenter: 
+* Contact / social:
+* Slides: 
+ 
 
-**Instructions for the Rooms:**  
-- Reflect on a bug you’ve encountered in a scientific tool.  
-   - Was the software/code open?  
-   - Could openness have made a difference?  
+Notes:
+* 
+* 
 
-### Written Discussion Rooms:
-1. Write responses (2.5 min per person).  
-2. Spend the next 5 minutes reading and commenting on each other's notes.  
+Questions
+* 
+* 
 
----
+## Talk: Code Review
 
-### Breakout Notes  
-**Breakout Room 1 - Written/Spoken**  
-**Names:**  
-**Notes:**  
+[HOST] (15 min) [⏰ 40]
 
-**Breakout Room 2 - Written/Spoken**  
-**Names:**  
-**Notes:**  
+Presenter: 
+* Contact / social:
+* Slides: 
+ 
 
-_...Repeat for Breakout Rooms 3 to 10._
+Notes:
+* 
+* 
 
-**Any insights/comments to share from your breakout room?**
+Questions
+* 
+* 
 
----
 
-## 🖥 Talk: Package Management  
-**Presenter:**  (15 min) [⏰ 75]  
-**Slides:** _(TBD)_  
+## 👥 Breakout discussion: Bug in a scientific tool
 
----
+[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 55]
 
-## 🗣️ Closing  
-**Host:** [H] (5 min) [⏰ 90]  
+15 minutes, ~3/4 ppl per room
 
-**Assignments:**  
-- Complete the **Mid-cohort Survey:** [Link to Survey](https://forms.gle/q97BPjwmx2X2v6Qq6)  
+### Instructions for the room
 
-**Questions:**  
-Add your questions below. Responses will be shared on Slack and via email.
+Think about a bug you've encountered in a scientific tool, either as a writer or a user. Was the software/code open, and if not, could openness have made a difference?
 
----
+### Notes from breakout discussions
 
-## Feedback  
-- **What worked?**  
-- **What didn’t work?**  
-- **What would you change?**  
-- **What surprised you?**
+Breakout Room 1 - Written/Spoken
 
----
+* Names: 
+* Notes:
+   * 
+   * 
 
-**Reference:** Mozilla Open Leadership Framework, OLS  
-**Licence:** CC BY 4.0, Open Seeds by OLS, 2024 
+Breakout Room 2 - Written/Spoken
+* Names: 
+* Notes:
+   * 
+   * 
+
+### Any insights/thoughts/comments to share from your breakout room?
+
+*
+*
+
+## 🖥 Talk: Package Management
+
+[Host] (15 min) [⏰ 70]
+
+Presenter: 
+* Contact / social:
+* Slides: 
+ 
+
+Notes:
+* 
+* 
+
+Questions
+* 
+* 
+
+
+## 🗣️ Closing
+
+[HOST] (5 min) [⏰ 85]
+
+### Assignments
+
+* Mid -cohort survey: 
+
+### Have any questions?
+
+Add them below. We will respond to these on Slack and also share them via an email
+* 
+* 
+
+### Feedback about this call:
+
+What worked?
+* 
+* 
+
+What didn't work?
+* 
+* 
+
+What would you change?
+* 
+* 
+
+What surprised you?
+* 
+* 
+
+Licence: CC BY 4.0, Open Seeds by OLS, 2024
