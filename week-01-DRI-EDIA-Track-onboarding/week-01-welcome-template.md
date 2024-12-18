@@ -3,9 +3,9 @@
 Date: 
 
 *content for these two calls is the same! join one that fits your schedule*
-* Time: 16:00 UTC, in your timezone: [https://arewemeetingyet.com/UTC/2024-10-11/16:00](https://arewemeetingyet.com/UTC/2024-10-11/16:00)
+* Time:
 * Duration: 60 min
-* Call lead: Malvika Sharan
+* Call lead:
 * Co-facilitators: 
 
 ### Housekeeping 
@@ -140,21 +140,25 @@ We are holding two part onboarding workshops on 15 and 17 October:
 
 ### Have any questions?
 
-Add them below. We will respond to these on Slack and also share them via an email
+Add them below. We will respond to these on Slack and also share them via email
+
 * 
 * 
 
 ### Feedback about this call:
 
 * What worked?
+
    * 
    * 
 
 * What didn't work?
+
    * 
    * 
 
 * What would you change?
+
    * 
    * 
 
