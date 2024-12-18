@@ -1,11 +1,11 @@
 
 # Week 04 - Tooling for Open Collaboration
 
-Date: 
-Time: 16:00 UTC
-Duration: 90 min
-Call lead:
-Facilitator:
+* Date: 
+* Time:
+* Duration: 90 min
+* Call lead:
+* Facilitator:
 
 ## Join the Cohort Room
 
@@ -48,45 +48,49 @@ Name / Project / social handles (twitter, GitHub, etc.) / Extra point for sharin
 
 * 
 * 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ## 🗣️ Welcome!
 
-Malvika (10 min)[⏰ 10]
+[HOST] (10 min)[⏰ 10]
 
-
-Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
-
+* Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
    * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
    * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, tajuddeen@we-are-ols.org).
 
-This call is being recorded and transcribed!
-
+* This call is being recorded and transcribed!
    * Please turn your video off if you would prefer to be off video
    * You can follow the transcriptions following the link on the top of the Zoom screen
 
-Breakout room: Speaking and Writing:
-
+* Breakout room: Speaking and Writing:
    * Indicate by editing your name on Zoom and add
        * W for written reflection-based exercise in based breakout room
        * S for Spoken Discussion Breakout Room
    * This will help us assign you to the breakout room with the format of your choice
    * Even if you are ok with both, please choose one option for this call to help us assign you easily to one group.
 
-
 ## 🖥 Setting up a project!
 
 [HOST] (5 min)[⏰ 25]
 
-Presenter:
-
+* Presenter:
    * Contact / social: 
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQGAWc8i\_lqAvws2psLf\_pFqby4-PY50pZvzLtNH3C-6Y8ttmANy3vrVQ1oz3SqYw/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vQGAWc8i\_lqAvws2psLf\_pFqby4-PY50pZvzLtNH3C-6Y8ttmANy3vrVQ1oz3SqYw/pub?start=false\&loop=false\&delayms=3000)
 
-Notes:
+**Notes:**
+
 * 
 * 
 
-Questions
+**Questions:**
+
 * 
 * 
 
@@ -99,11 +103,13 @@ Presenter:
    * Contact / social:
    * Slides: [https://docs.google.com/presentation/d/1N1m0WjFbftBJk26nC1Mf-Qr5ZDooKLsDHTiR\_RyKK2w/edit?usp=sharing](https://docs.google.com/presentation/d/1N1m0WjFbftBJk26nC1Mf-Qr5ZDooKLsDHTiR\_RyKK2w/edit?usp=sharing)
 
-Notes:
+**Notes:**
+
 * 
 * 
 
-Questions
+**Questions:**
+
 * 
 * 
 
@@ -115,8 +121,7 @@ Laura introduces, Malvika makes breakouts (10 min) [⏰ 20]
 
 ### Instructions for the room
 
-Choose one of the following:
-
+* Choose one of the following:
    * Case 1: Think of a time you were collaborating or working on an open project and it was a complete trainwreck.
        * What happened?
        * What made it chaotic?
@@ -124,15 +129,13 @@ Choose one of the following:
        * What happened?
        * What made it sublime?
 
-
 ### Notes from breakout discussions
 
 Breakout Room note: Template
 
-* Names
-   * 
-   * 
-* Notes
+* **Names:**
+* **Notes**
+
    * 
    * 
 
@@ -150,11 +153,14 @@ Presenter:
 
    * Contact / social: joyce@digiresacademy.org / X([https://x.com/joyceykao)](https://x.com/joyceykao)), LinkedIn ([https://www.linkedin.com/in/joyceykao/)](https://www.linkedin.com/in/joyceykao/)), Mastodon ([https://mastodon.social/@joyceykao)](https://mastodon.social/@joyceykao))
    * Slides: [https://docs.google.com/presentation/d/1pFlaw-7Kg04GdpCU6CQPAEIcNs-clc3Lm-9G1pFpM0Y/edit?usp=sharing](https://docs.google.com/presentation/d/1pFlaw-7Kg04GdpCU6CQPAEIcNs-clc3Lm-9G1pFpM0Y/edit?usp=sharing)
-Notes:
+
+**Notes:**
+
 * 
 * 
 
-Questions
+**Questions:**
+
 * 
 * 
 
@@ -167,15 +173,16 @@ Presenter: Karin Lagesen
    * Contact / social: 
    * Slides: [https://drive.google.com/file/d/16WN14BpBug8Op3ekhlhIZH12Bv5Nyxha/view?usp=drive\_link](https://drive.google.com/file/d/16WN14BpBug8Op3ekhlhIZH12Bv5Nyxha/view?usp=drive\_link)
 
+**Notes:**
 
-Notes:
+* 
+* 
+
+**Questions:**
+
 * 
 * 
 
-Questions
-
-* 
-*
 
 ## 👥 Vision statement!
 
@@ -185,30 +192,24 @@ Questions
 
 ### Instructions for the room
 
-   * Read/share your vision statement
-   * What do you think about this exercise of writing vision statement?
+* Read/share your vision statement
+* What do you think about this exercise of writing vision statement?
 
 
 ### Notes from breakout discussions
 
 Template: 
 
-Breakout Room -
+* **Breakout Room 1: Speaking/Writing:**
 
-   * Names
-           * 
+* Names:
+* Notes:
 
-           * 
-
-   * Notes
-           * 
-
-           * 
-
-
-
+* 
+* 
 
 Any insights/thoughts/comments to share from your breakout room?
+
 * 
 * 
 
@@ -225,33 +226,35 @@ Any insights/thoughts/comments to share from your breakout room?
    * Add an open license to your repository as a file called LICENSE.md: [https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/)
    * Add a Code of Conduct to your repository as a file called CODE OF CONDUCT.md: [https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/)
 
-
 ### Have any questions?
 
 Add them below. We will respond to these on Slack and also share them via an email
 
-   *  Will you be sharing the slides of Open Licensing?
+* 
+* 
 
 
 ### Feedback about this call:
 
 What worked?
 
-   * 
+* 
+* 
 
 What didn't work?
 
-   * 
+* 
+* 
+
+What surprised you?
+
+* 
+* 
 
 What would you change?
 
-   * 
-
-   * 
-
-
-
-Reference: Mozilla Open leadership Framework, Open Life Science
+* 
+* 
 
 Licence: CC BY 4.0, Open Life Science (OLS), 2024
 
