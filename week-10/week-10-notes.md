@@ -1,39 +1,45 @@
 
 # Week 10 - Open Science Garden II
 
-**Date**: November 21, 2023
+Date: 20 November, 2024
 
-**Time**: 10:00
+Time: 16:00 UTC
 
-**Duration**: 90 min
+Duration: 90 min
 
-**Call lead**: Tajuddeen Gwadabe
+Call lead: Tajuddeen Gwadabe
 
-**Facilitator**: Pradeep Eranti
+Facilitator: Pauline Karega
 
+## 🗣️Join the Cohort Room and Welcome
 
+Tajuddeen (10 min)[⏰ 10]
 
-## Join the Cohort Room
+Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
 
-**Join the Zoom call**: [https://us02web.zoom.us/j/81328823905?pwd=ZGhkTi9LT3FZb3lUeko4TjN2SStYZz09](https://us02web.zoom.us/j/81328823905?pwd=ZGhkTi9LT3FZb3lUeko4TjN2SStYZz09)
+Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
 
+   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
+   * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, tajuddeen@we-are-ols.org).
 
-
-**Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube**: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
-
-
-
-**This call is being recorded and transcribed!**
+This call is being recorded and transcribed!
 
    * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))))](https://www.youtube.com/c/OpenLifeSci))))) in the next days
    * Turn on your webcam if you don't mind sharing your face (or off if you do!)
+     
+Breakout room: Speaking and Writing preference - This will help us assign you to the breakout room with the format of your choice
+
+       * W- for written reflection-based exercise in the main room
+       * S-En- for spoken discussion in English
+       * S-Fr- for spoken discussion in French
+       * S-Fr/En - for spoken discussion in French or English
+       * S-Es/En- for spoken discussion in French or Spanish
 
 
-**Breakout room**: Speaking and Writing:
+Where to indicate preference? --* In your Zoom name*
 
-   * Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name:
-   * W for written reflection-based exercise in the main room
-   * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
+       * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letters in front of your name
+   * Please let us know in the chat your preference for the breakout room today - a co-host will edit your name to add one these letters:
    * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
 
 
@@ -43,184 +49,114 @@
    * List the different principles of Open Science
    * Give examples of 3 use cases of the different Open Science principles
 
+## 🌍 Icebreaker question
 
-## 🌍 Roll call
+*Name / What is your current favourite food that you could eat RIGHT NOW? *
 
-### Introducing yourself
-
-Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
-
-   *   Derek Moore (web-learning on GitHub. Apologies for not being there in person.
-   *  Yo Yehudi / OLS / 🦊
-   *  Marlou / Making CSR data public / 🥱 (not because I'm bored, but because I was home quite late yesterday)
-   *  Virginia García Alonso / Red JICMar / @VA\_GarciaAlonso / 🧉
-   * Pradeep Eranti / @pradeeperanti / @peranti / gathering energy from the call
-   *  Tajuddeen / OLS /
-   *  Angela Oduor Lungati/ @ushahidi
-   * Robert Giessmann / openTECR //
-   * Ruben Lacroix / Open Research Intelligence tools
-   * Toby Hodges (he/him) / The Carpentries / @tobyhodges on GitHub
-   * Scott Edmunds / GigaScience Press / @SCEdmunds / @scedmunds@genomic.social /  ✈😴
-   * 
-
-### Icebreaker question
-
-What is your current favourite food that you could eat RIGHT NOW? 
-
-   * Yo: mmmmmmmmmmmm. Vegan mac and cheese, please!   
-   *  Marlou: white chocolate and macademia nuts cookies (had one this morning haha)
-       *  mmmmmm, savoury and buttery
-   *  Tajuddeen: Fried Rice
-   * Fried chicken. Deep fried chicken.
-   * Virginia: uhhh tough one, there are so many! I would love to have a medialuna right now with the mate I am drinking
-   * Ruben: pizza
-   * I'm Bangkok and will get some papaya salad outside
-   * 
-
-   * 
-
-   * 
-
-   * 
-
-
-
-
-
-## 🗣️ Welcome!
-
-[HOST] (5 min) [⏰ 5]
-
-
-
-
-
-**Code of conduct and community participation guidelines** [https://openlifesci.org/code-of-conduct](https://openlifesci.org/code-of-conduct)
-
-   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo, Paz and Emmy. (team@openlifesci.org).
-   * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, emmy@we-are-ols.org, paz@we-are-ols.org).
-
-
-**This call is being recorded and transcribed!**
-
-   * Please turn your video off if you would prefer to be off video
-   * You can follow the transcriptions following the link on the top of the Zoom screen
-
-
-**Breakout room**: Speaking and Writing:
-
-   * Indicate by editing your name on Zoom and add
-       * W for written reflection-based exercise in based breakout room
-       * S for Spoken Discussion Breakout Room
-   * This will help us assign you to the breakout room with the format of your choice
-   * Even if you are ok with both, please choose one option for this call to help us assign you easily to one group.
-
+   * Anemily / Fries were on sale
+   * Kim / Kind Cocoa breakfast bar
+   * Pauline / Couscous and chicken - never had couscous before
+   * Arne /burritos
+   * Godwyns / Ofe egusi (egusi soup)
+   * Soorena / Beef stroganoff
+   * Malvika / ooh cheese sandwich - I just had that for lunch but I think I am still hungry!
+   * Seun / Amala with Ewedu with Beef - always my favourite
+   * Sayantika/ Boba tea
+   * Alex /eggs
+   * Tajuddeen / fried rice
+   * Arra/ Japanese curry with katsu
+   * Wesley/ Nachos
+   * Niloofar / Pasta
+   * Vrinda/ spicy eggplant on toast
+   * Liv - mushroom and sauerkraut perogies!! (a Polish Christmas specialty!!)
+   * Alfredo - A cup of coffee with cheesecake! :-)
+   * Kaitlyn - a croissant! 
+   * Oluwatoyin/yam and eggplant stew
+   * Yuwei /any eggs
+   * Vincent
+   * Musanna / khichuri
+   * Mirta - sushi
+   * Clotilde /plantain
+   * Emilie - Peanut butter (with apple slices or on its own)
+   * Ahlam - Shakshuka
+   * Ijeoma / Pounded yam and bitter leaf soup
+   * Memoona/chicken corn soup and spicy chicken orzo
+   * Mohammad / soup with idk :)
+   * Fanwang/OLS
+   * Umar /OLS 
+   * Nathan/ Tacos!
+   * Kwaku /Banku and Okro soup
+   * Lulwama / Oxtail 
+   * Mona/Ghormé-sabzi
+   * Hamza - biryani
+   * Brevin- Ugali/Chicken
 
 ## 🖥 Talk: Open Science Garden(s)
 
-[HOST] (5 min) [⏰ 10]
+Tajuddeen (5 min) [⏰ 15]
 
-
-
-**Presenter**: Tajuddeen Gwadabe
+Presenter: Malvika
 
    * Contact / social:
-   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQv96-8vH1QoMyZ6oKj\_BL0Bma3j195KI2rUkGBJvXmPjNZ-\_unXkZWAkPlzixw8M5ykgiAkD0hNEMW/pub](https://docs.google.com/presentation/d/e/2PACX-1vQv96-8vH1QoMyZ6oKj\_BL0Bma3j195KI2rUkGBJvXmPjNZ-\_unXkZWAkPlzixw8M5ykgiAkD0hNEMW/pub)
-**Notes**:
+   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQiOSkedwkI8IkMCL\_gWJ\_qevHZhcHej6PP8otv7BPFoBRqJiEU8BGpc1V6d2Y7jg/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vQiOSkedwkI8IkMCL\_gWJ\_qevHZhcHej6PP8otv7BPFoBRqJiEU8BGpc1V6d2Y7jg/pub?start=false\&loop=false\&delayms=3000) 
+   * Editable version: [https://docs.google.com/presentation/d/1kfvaaP1xaTSAa\_-uwLt5q\_ztxpr6keWY/edit#slide=id.p1](https://docs.google.com/presentation/d/1kfvaaP1xaTSAa\_-uwLt5q\_ztxpr6keWY/edit#slide=id.p1)
 
-   *   
-   *  
-   *  
+Notes:
 
+   *   We will cover open review and evaluation, open source software and open access
 
-**Questions**
+## 🖥 Talk: Open Review and Open Evaluation
 
-   *   
-   *  
-   *  
+Tajuddeen (15 min) [⏰ 30]
 
+Presenter: Godwyns Onwuchekwa
 
+   * Contact / social: g.onwuchekwa@elifesciences.org / @godwyns.bsky.social  / linkedin.com/in/godwyns/ 
+   * Slides: [https://docs.google.com/presentation/d/1moP7pEBHYZjz7DXF5bs5ih-wbZXqyfCLtCA9zn-TO\_o/edit#slide=id.p1](https://docs.google.com/presentation/d/1moP7pEBHYZjz7DXF5bs5ih-wbZXqyfCLtCA9zn-TO\_o/edit#slide=id.p1)
 
+Notes:
+   *   Some key characteristics: Transparency - involved with editor and reviewer as well, community engagement, identity disclosure
+   *  Constructive engagement because of oppenness of the whole process leads to quick feedback
+   *  Some major challenges include implementation barriers (difficulty embracing change including institutionally), bias, fear of criticism
+   * Diversity in engagement is a key benefit of research evaluation
+   * Challenges include impact on quality
+   * Community reviews - some helpful links: review commons - [https://www.reviewcommons.org/](https://www.reviewcommons.org/)
+   * [https://sciety.org/](https://sciety.org/) - sciety
+   * Pre-registration encouraged in some journals - uncertainty of research in initial stages may be a hinderance for its use for now
 
-## 🖥 Talk: Open Educational Resources
-
-[HOST] (15 min) [⏰ 25]
-
-
-
-**Presenter**: Toby Hodges
-
-   * Contact / social: tobyhodges@carpentries.org
-   * Slides: [https://docs.google.com/presentation/d/1owHgPuJSTo4Y-flOlDI7FH4pPzSM2KHsiU9sGHk4JPs/edit?usp=sharing](https://docs.google.com/presentation/d/1owHgPuJSTo4Y-flOlDI7FH4pPzSM2KHsiU9sGHk4JPs/edit?usp=sharing)
-
-
-**Notes**:
-
-   * Links to sources of OERs:
-       * [https://carpentries.org/](https://carpentries.org/)
-       * [https://carpentries.org/community-lessons]([]https://carpentries.org/community-lessons[])
-       * [https://the-turing-way.netlify.app/index.html]([]https://the-turing-way.netlify.app/index.html[])
-       * [https://www.metadocencia.org/]([]https://www.metadocencia.org/[])
-       * [https://coderefinery.org/]([]https://coderefinery.org/[])
-       * [https://jose.theoj.org/]([]https://jose.theoj.org/[])
-       * [https://programminghistorian.org/]([]https://programminghistorian.org/[])
-   * The curriculum for Carpentries Instructor Training: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
-   *  
-
-
-
-
-**Questions**
-
-   *   
-   *  
-   *  
-
-
-
-
-## 🖥 Talk: Open Access Publication
-
-[HOST] (15 min) [⏰ 40]
-
-
-
-**Presenter**: Scott Edmunds
-
-   * scott@gigasciencejournal.com / @SCEdmunds / @scedmunds@genomic.social
-   * Slides: [https://docs.google.com/presentation/d/1\_1Kn835pvhujGH6vQCyjUNrK-5R7BoTy/edit?usp=drive\_link\&ouid=102593070323036946386\&rtpof=true\&sd=true](https://docs.google.com/presentation/d/1\_1Kn835pvhujGH6vQCyjUNrK-5R7BoTy/edit?usp=drive\_link\&ouid=102593070323036946386\&rtpof=true\&sd=true) 
-
-
-**Notes**:
-
-   *   
-   *  
-   *  
-
-
-
-
-**Questions**
-
-   * Maybe this will come up later, but how do you feel about authors paying exorbitant  prices to have their paper published Open Access in a journal fro a traditional journal?
-   * I got the impression (perhaps backed up by the data you showed about preprint publications) that preprints became much more prevalent during the early stages of the Covid-19 pandemic. Do you think this change is permanent? Or will we see researchers revert to "the old way" of publishing straight to a journal now that developments have slowed down with Covid?
-   * Are there guidelines to contribute to datasets on observable (on site) marine variables? I do not find something similar in the website. Is this the sort of thing you are thinking about, as we promote the GSC checklists for marine metagenomic sampling for example [http://www.gensc.org/pages/projects/micro-b3-project.html](http://www.gensc.org/pages/projects/micro-b3-project.html)
+Questions
+   * 
+   * 
+   * 
    * 
 
+## 🖥 Talk: Open Source Software
+
+Pauline (15 min) [⏰ 45]
+
+Presenter: Sayantika Banik
+
+   * Contact / social: [https://www.sayantikabanik.com/](https://www.sayantikabanik.com/) , [https://www.linkedin.com/in/sayantika-banik/](https://www.linkedin.com/in/sayantika-banik/)
+   * Slides: [https://www.canva.com/design/DAGWRP6oCJo/WQJPvIjiN0AYwFuZF4WNUA/edit?utm\_content=DAGWRP6oCJo\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton](https://www.canva.com/design/DAGWRP6oCJo/WQJPvIjiN0AYwFuZF4WNUA/edit?utm\_content=DAGWRP6oCJo\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton)
+   * Additional slides on Open Source Movement and practices: [https://docs.google.com/presentation/d/1Rj007A5-SW7l0fjKEXqwW6uCWnJikMAzXu5UPzlGwOE/edit?usp=sharing](https://docs.google.com/presentation/d/1Rj007A5-SW7l0fjKEXqwW6uCWnJikMAzXu5UPzlGwOE/edit?usp=sharing)
+
+Notes:
+   * Open source as a medium 
+   *  Left shift design - more time in the planning and designing phases than implementation
+   *  Contributing to open sources - interacting with people in these spaces; communities, people, code, help to understand how to contribute
+   *  
+
+Questions
+   * 
+   * 
+   * 
    * 
 
-   * 
+## 👥 Breakout discussion: Benefits of becoming an open scientist
 
-
-
-
-
-## 👥 Breakout discussion: Benefits of becoming an open scientists
-
-[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 55]
+Malvika introduces, Malvika makes breakouts (15 min) [⏰ 60]
 
 15 minutes, ~3/4 ppl per room
-
 
 
 ### Instructions for the room
@@ -231,88 +167,181 @@ Discussion prompts for the room:
    * What incentives to participate in science (just science) have you encountered throughout your life?
 
 
+### Directions for written discussion rooms:
+
+   * Each room will be assigned 3/4 members
+   * Please agree if you use either on this document or the Zoom chat
+   * each member will take 2.5 minutes to write down their response
+   * In the next 5 minutes they will read through and comment on each other’s notes either on this document or on Zoom chat
+
+
 ### Notes from breakout discussions
 
-Main Room
+Breakout Room 1 - Written/Spoken
 
    * Names
-           * Everyone!
+       * Anemily Machina
+       * YUWEI CAO
+       * Kaitlyn Wade
    * Notes
-           * Marlou: I think what Toby just mentioned is a very important benefit of open science: more people read or use your work. It increases impact!
-           * Robert: When I do Open Science I present what I believe "this is how I did it, to the best of my knowledge, this is also how it should have been done". But I keep it open for others to disagree and tell me about the errors I conducted in the experiments / analysis.  It becomes more of a discussion. (Closed science is "believe it or not".)
-           * Scott: Fairer, more equitable
-           * Toby: Through open science, I've become part of a community again. The community is very inspiring and supportive. It's a nice community to be involved it.
-Breakout Room 1 - Written
+       * Open science forces you to be ethical in your work (as everyone can see what you're doing)
+       * Participation mostly limited to education activities or work. 
+       * Open science projects may not be accessible to all people due to technical or access limitations.
+       * Involve more professionals in research, e.g. benchmarking open datasets in your field and exchanging ideas.
+Breakout Room 2 - Written/Spoken
 
    * Names
-           * 
+       * 
 
    * Notes
-           * 
+       * 
 
-Breakout Room 2 - Spoken
+Breakout Room 3 - Written/Spoken
 
    * Names
-           * 
+       * 
 
    * Notes
-           * 
+       * 
 
-### **Any insights/thoughts/comments to share from your breakout room?**
+Breakout Room 4 - Written/Spoken
 
-   *   
+   * Names
+       * 
+
+   * Notes
+       * 
+
+Breakout Room 5 - Written/Spoken
+
+   * Names
+       * 
+
+   * Notes
+       * 
+
+Breakout Room 6 - Written/Spoken
+
+   * Names
+       * 
+
+   * Notes
+       * 
+
+Breakout Room 7 - Written/Spoken
+
+   * Names
+       * Arra
+       * Kim
+       * Moses
+   * Notes
+       * Increased data availability leads to increased diagnostic capability in genetics field/databases
+       * Researchers are more aware of how to work with Indigenous communities so that the community derives benefit from the research
+       * Access to data helps advance research, open tools are easy to use because there is a large user community that has made their past work open to all users
+       * Incentives to participate in science:
+           * money
+           * interesting problems to solve
+           * interesting things I think are important
+           * entry on your CV 
+           * participate in reviews
+           * award
+           * good colleagues
+Breakout Room 8 - Written/Spoken
+
+   * Names
+       * 
+
+   * Notes
+       * 
+
+Breakout Room 9 - Written/Spoken
+
+   * Names
+       * 
+
+   * Notes
+       * 
+
+Breakout Room 10 - Written/Spoken
+
+   * Names
+       * Shay
+       * Ahmed
+   * Notes
+       * Increased Collaboration: Open science fosters collaboration across disciplines, institutions, and countries by making data, methods, and findings accessible. 
+       * Broader Impact: Open access publications and freely shared resources ensure that research benefits not only academia but also policymakers, industries, and the public, increasing societal impact.
+       * 1. Natural Curiosity
+       * 2. Personal Connections
+       * 3. Desire to Solve Real Problems
+       * 4. Joy of Learning
+       * Collaborations: for knowledge trnasfer and innovative solutions to problems
+       * research integrity 
+       * recognition 
+       * avoid duplication 
+
+
+### Any insights/thoughts/comments to share from your breakout room?
+
+   * Shey:  Collaboration is a key and open science can help improve better team work. This can also allow bigger engagement.
+   *  Incentives include inherent joy of learning and improving knowledge.
+
+## 🖥 Talk: Open Access Publication
+
+Pauline (15 min) [⏰ 75]
+
+Presenter: Sohail Jannesari
+
+   * Contact / social: 
+   * Slides: [https://docs.google.com/presentation/d/1whXW6pH\_wLXZ9YG7IgSNAlK49mvMTz-A/edit?usp=sharing\&ouid=101989895789810384353\&rtpof=true\&sd=true](https://docs.google.com/presentation/d/1whXW6pH\_wLXZ9YG7IgSNAlK49mvMTz-A/edit?usp=sharing\&ouid=101989895789810384353\&rtpof=true\&sd=true)
+
+
+Notes:
+
+   * Open access journals - it is not very expensive to set these up (unlike the belief that open access is expensive)
+   * Stolen Tools - an Anti racist journal: [https://stolentools.com/index.php/stolentools](https://stolentools.com/index.php/stolentools)
+   * Challenging  what is called knowledge
+       * The types of output that is shared
    *  
-   *  
 
 
+Questions
+
+   * What funding sources are there to help with the cost of open access publishing? These are quite high and rarely included in funding.
+   * Github is not commonly used by people in my field. There aren't any commonly used open source platforms in my field. How can we direct people to our project in order to get comments and input on our work?
 
 
-## 🖥 Talk: Open Engagement of Social Actors
+**Additional resources**
 
-[HOST] (15 min) [⏰ 70]
-
-
-
-**Presenter**: Angela Odour Lungati
-
-   * Contact / social: angela@ushahidi.com / @AngieNicoleOD / [https://www.ushahidi.com/](https://www.ushahidi.com/)
-   * Slides: [https://www.dropbox.com/scl/fi/gp2fy0bxspwmnbs8o0b1k/AOL\_OLS.pdf?rlkey=s997hicfjfl54x1g05fipn5h7\&dl=0](https://www.dropbox.com/scl/fi/gp2fy0bxspwmnbs8o0b1k/AOL\_OLS.pdf?rlkey=s997hicfjfl54x1g05fipn5h7\&dl=0) 
-   * Note from Angela:  Thanks so much for having me. I unfortunately have to jump on another call with some of my board members. I hope that was useful, and I look forward to engaging with anyone who may have questions. Feel free to email me: angela@ushahidi.com
-
-
-**Notes**:
-
-   *   
-   *  
-   *  
-
-
-**Questions**
-
-   *   Yo / I love the growth metaphor <3 we use it in OLS too, although I think the people are the seeds we water and nuture, usually. 
-   *  Yo / Recently a couple of Kenyan friends shared their experience of the 2008 electoral violence with me - it was such a life changing event. I didn't realise that was the roots of Ushahidi! 
-   *  Has the government reach out to your organization? 
+   * Whose Infrastructure? Towards Inclusive and Collaborative Knowledge Infrastructures in Open Science: [https://books.openedition.org/oep/9072?lang=en](https://books.openedition.org/oep/9072?lang=en)
+   * Contextualizing Openness: Situating Open Science: [https://idrc-crdi.ca/en/book/contextualizing-openness-situating-open-science](https://idrc-crdi.ca/en/book/contextualizing-openness-situating-open-science)
+   * Work from Knowledge Equity Lab: [https://knowledgeequitylab.ca/](https://knowledgeequitylab.ca/) 
 
 
 ## 🗣️ Closing
 
-[HOST] ( min) [⏰ ]
+Taj ( min) [⏰ 85]
+
+
+
+Comment from Malvika:
+
+- If you love breakout rooms and feel they are shorter during the cohort calls, come along to the informal coffee chats we have added each week on Thurs/Fri.
+
+- We also have Fridays coworking calls at 11:00 UK time if your time allows
+
+- feel free to organise calls for your group or use Slack to keep the conversations going
 
 ### Assignments
 
-   *   
+   *   Keep working and sharing documentation you are deve
    *  
    *  
-
-
-
 
 ### Have any questions?
 
 Add them below. We will respond to these on Slack and also share them via an email
 
    *   
-   *  
    *  
 
 
@@ -346,9 +375,9 @@ What surprised you?
    *  
 
 
-**Reference**: Mozilla Open leadership Framework, OLS
+Reference: Mozilla Open leadership Framework, OLS
 
-**Licence**: CC BY 4.0, Open Seeds by OLS, 2023
+Licence: CC BY 4.0, Open Seeds by OLS, 2024
 
 
 
