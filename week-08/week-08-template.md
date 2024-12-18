@@ -1,40 +1,44 @@
 # Week 08 - Community Management Café I
 
-* Date: 06 November, 2024
-* Time: 16:00 UTC 
-* Duration: 90 min
-* Call lead:
-* Facilitator:   
+* Date:
+* Time:
+* Duration:
+* Hosts:
+* Facilitators: 
 
-## 🗣️ Join the Cohort Room and Welcome
+## 🗣️Join the Cohort Room and Welcome
 
-[HOST] (10 min)[⏰ 10]
+[HOST] (05 min)[⏰ 05]
 
+Join the Zoom call:
 
 Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
 
+### During this week’s cohort call, we will discuss:
 
-Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
+- Considering different kinds of interactions in your community
+- Use the Mountain of Engagement method to support participants through various levels of engagement
+- Develop persona and pathways for your community for taking people's experiences and expectations in planning your projects
 
+## Welcome!
+
+* Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
    * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
    * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, tajuddeen@we-are-ols.org).
- 
 
-This call is being recorded and transcribed!
-
-   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci)](https://www.youtube.com/c/OpenLifeSci)) in the next days
+* This call is being recorded and transcribed!
+   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))))](https://www.youtube.com/c/OpenLifeSci))))) in the next few days
    * Turn on your webcam if you don't mind sharing your face (or off if you do!)
- 
-Breakout room: Speaking and Writing preference - This will help us assign you to the breakout room with the format of your choice
 
+* Breakout room:
+    * Speaking and Writing preference - This will help us assign you to the breakout room with the format of your choice
        * W- for written reflection-based exercise in the main room
        * S-En- for spoken discussion in English
        * S-Fr- for spoken discussion in French
        * S-Fr/En - for spoken discussion in French or English
        * S-Es/En- for spoken discussion in French or Spanish
- 
 
-Where to indicate preference? --* In your Zoom name*
+**Where to indicate preference?** --* In your Zoom name*
 
 * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letters in front of your name
    * Please let us know in the chat your preference for the breakout room today - a co-host will edit your name to add one these letters:
@@ -44,104 +48,75 @@ Where to indicate preference? --* In your Zoom name*
 
 *Name / Outside the "work/study" contexts, where have you felt most included, involved and welcome?*
 
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
- 
-
- 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ## 🖥 Community Design for Inclusivity!
 
 [HOST] (15 min)[⏰ 15]
 
- 
-
-Presenter:
+* Presenter:
    * Contact / social:
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vSEfshqEIVtV81kuKFQL00-TtjfTjBA6OBXkEs\_VixJ0ptJXE5Nued6-bBKPSkjUA/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vSEfshqEIVtV81kuKFQL00-TtjfTjBA6OBXkEs\_VixJ0ptJXE5Nued6-bBKPSkjUA/pub?start=false\&loop=false\&delayms=3000)
  
+**Notes:**
 
-Notes:
+* 
+* 
 
-   *  
-   *  
- 
+**Questions:**
 
-Questions
-
-   *  
-   *  
- 
+* 
+* 
 
 ## 🖥 Community Interactions!
 
 [HOST] (15 min)[⏰ 30]
 
-Presenter: 
-
+* Presenter: 
    * Contact / social: 
    * Slides: 
  
+**Notes:**
 
-Notes:
+* 
+* 
 
-   *  
-   *  
-   *  
-   *  
-   *  
- 
+**Questions:**
 
-Questions
-
-   *  
-   *  
-   *  
-   *  
- 
-
- 
+* 
+*  
 
 ## 🖥 Mountain of Engagement!
 
 [HOST] (15 min)[⏰ 45]
 
-Presenter: Kirstie Whitaker
-
+* Presenter:
    * Contact / social: 
    * Slides: 
-Notes:
 
-   *  
-   *  
-   *  
-   *  
- 
+**Notes:**
 
-Questions
+* 
+* 
 
-   *  
-   *  
-   *  
- 
+**Questions:**
+
+* 
+* 
 
 ## 👥 Value exchanges!
 
@@ -151,109 +126,74 @@ Questions
 
 ### Instructions for the room
 
-Reflect on: What are you giving to your community, organization, or project? What is it giving back? If there are gaps, how might you close them?
+**Reflect on:**
 
-Prompts for discussion:
+* What are you giving to your community, organization, or project? What is it giving back? If there are gaps, how might you close them?
 
-   * What kinds of things do you give to others in your open leadership practices?
-   * What kinds of things do you get back?
-   * Does the balance seem right to you, or are there adjustments you’d like to make?
+**Prompts for discussion:**
+
+* What kinds of things do you give to others in your open leadership practices?
+* What kinds of things do you get back?
+* Does the balance seem right to you, or are there adjustments you’d like to make?
  
 
 ### Notes from breakout discussions
 
-Breakout Room 1 - Written/Spoken
+**Breakout Room 1 - Written/Spoken**
 
-   * Names
-       *  
-   * Notes
-       *  
-Breakout Room 2 - Written/Spoken
+* Names:
+* Notes:
 
-   * Names
-       *  
-   * Notes
-       *  
-Breakout Room 3 - Written/Spoken
+* 
+* 
 
-   * Names
-       *  
-   * Notes
-       *  
-Breakout Room 4 - Written/Spoken
+**Breakout Room 2 - Written/Spoken**
 
-   * Names
-       *  
-   * Notes
-       *  
-Breakout Room 5 - Written/Spoken
+* Names:
+* Notes:
 
-   * Names
-       *  
-   * Notes
-       *  
-Breakout Room 6 - Written/Spoken
+* 
+* 
 
-   * Names
-       *  
-   * Notes
-       *  
-Breakout Room 7 - Written/Spoken
 
-   * Names
-       *  
-   * Notes
-       *  
-Breakout Room 8 - Written/Spoken
+**Breakout Room 3 - Written/Spoken**
 
-   * Names
-       *  
-   * Notes
-       *  
-Breakout Room 9 - Written/Spoken
+* Names:
+* Notes:
 
-   * Names
-       *  
-   * Notes
-       *  
-Breakout Room 10 - Written/Spoken
+* 
+* 
 
-   * Names
-       *  
-   * Notes
-       *  
+**Breakout Room 4 - Written/Spoken**
+
+* Names:
+* Notes:
+
+* 
+* 
 
 ### Any insights/thoughts/comments to share from your breakout room?
 
-       *  
-       *  
- 
+* 
+* 
 
-## 🖥 Personas \& Pathways!
+## 🖥 Personas and Pathways!
 
 [HOST] (15 min)[⏰ 75]
 
-Presenter: Victory Brown
-
+* Presenter:
    * Contact / social:
    * Slides: SLIDES
  
+**Notes:**
 
-Notes:
+* 
+* 
 
-   *  
-   *  
-   *  
-   *  
-   *  
-   *  
- 
+**Questions:**
 
-Questions
-
-   *  
-   *  
- 
+* 
+* 
 
 ## 👥 Silent reflections!
 
@@ -263,27 +203,23 @@ Questions
 
 What was insightful about thinking about persona and pathways for inclusion? 
 
-   *  
-   *  
- 
+* 
+* 
 
 What pathways have you already created? What other personas and pathways you didn't consider for your project?
 
-   *  
-   *  
+* 
+* 
 
 What are you doing now to provide mentored support to contributors?
 
-   *  
-   *  
+* 
+* 
 
-What other ways you can create to center voices of marginalised groups?
+What other ways you can create to centre the voices of marginalised groups?
 
-   *  
-   *  
- 
-
- 
+* 
+* 
 
 ## 🗣️ Closing
 
@@ -294,28 +230,29 @@ What other ways you can create to center voices of marginalised groups?
 ### Have any questions?
 
 Add them below. We will respond to these on Slack and also share them via an email
+* 
+*  
 
-       *  
 ### Feedback about this call:
 
 What worked?
 
-   *  
-   *  
+* 
+*  
+
 What didn't work?
 
-   *  
-   *  
+* 
+* 
+
 What would you change?
 
-   *  
-   *  
+* 
+* 
+
 What surprised you?
 
-   *  
-   *  
- 
-
-Reference: Mozilla Open leadership Framework, Open Life Science
+* 
+* 
 
 Licence: CC BY 4.0, Open Life Science (OLS), 2024
