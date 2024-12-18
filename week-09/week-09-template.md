@@ -1,28 +1,23 @@
+# Week 09 - Tooling for Collaboration: Open-source Software in Practice
 
-# Week 09 - Tooling for Collaboration: Open-source software in practice
+**Date:**  
+**Time:** 
+**Duration:** 90 min  
+**Call Lead:**  
+**Facilitator:** 
 
-   * Date: 
-   * Time: 
-   * Duration: 90 min
-   * Call lead: 
-   * Facilitator:
+---
 
-## Join the Cohort Room
+## 🗣️ Join the Cohort Room and Welcome  
 
 Join the Zoom call: 
 
 Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
 
-## At the end of this cohort call, you will be able to:
+---
 
-   * Apply good coding practices to your software
-   * Review code
-   * Identify package management for your software
-   * Make your software ready for open-source
-
-## 🗣️ Welcome!
-
-[HOST] (5 min) [⏰ 5]
+## Welcome
+[HOST](10 min) [⏰ 10]  
 
 * Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
    * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).

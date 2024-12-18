@@ -1,250 +1,120 @@
-# Week 11 - Tooling for Collaboration: Open-source software in practice
+# Week 11 - Personal Management
 
-**Date**: November 29, 2023
+**Date:** 27 November, 2024  
+**Time:** 16:00 UTC  
+**Duration:** 90 min  
+**Call lead:** Malvika Sharan, Mayya Sundukova  
+**Facilitator:** Malvika Sharan  
 
-**Time**: 17:00
+---
 
-**Duration**: 90 min
+## 🗣️ Join the Cohort Room and Welcome  
+**Malvika (10 min)** [⏰ 10]
 
-**Call lead**: Yo Yehudi
+Join the Zoom call: [Zoom Link](https://us02web.zoom.us/j/81462081794?pwd=UhU6mMHtdcNvuFpitlYF2AyESz5wUa.1)  
+**Meeting ID:** 814 6208 1794  
+**Passcode:** 752836  
 
-**Facilitator**: 
+Are you an Open Seeds participant but can't attend this call?  
+The recording from this call will be updated on [YouTube](https://www.youtube.com/c/OpenLifeSci/playlists).  
 
+[Code of conduct and community participation guidelines](https://we-are-ols.org/code-of-conduct)  
+If you experience or witness unacceptable behavior, or have any other concerns, please report it by contacting the organizers: Bérénice, Malvika, Yo, and Taj (team@we-are-ols.org).  
+To report an issue involving one of the organizers, please email one of the members individually:  
+- berenice@we-are-ols.org  
+- malvika@we-are-ols.org  
+- yo@we-are-ols.org  
+- tajuddeen@we-are-ols.org  
 
-## Join the Cohort Room
+> **Note:** This call is being recorded and transcribed!  
+> The video will be available on the [YouTube channel](https://www.youtube.com/c/OpenLifeSci) in the coming days.  
+> Turn on your webcam if you don't mind sharing your face (or off if you do!).
 
-**Join the Zoom call**:
+---
 
-**Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube**: [https://www.youtube.com/c/OpenLifeSci/playlists](**https://www.youtube.com/c/OpenLifeSci/playlists**)
+### Breakout Room: Speaking and Writing Preference  
+This will help us assign you to the breakout room with the format of your choice:  
+- **W-** for written reflection-based exercise in the main room  
+- **S-En-** for spoken discussion in English  
+- **S-Fr-** for spoken discussion in French  
+- **S-Fr/En-** for spoken discussion in French or English  
+- **S-Es/En-** for spoken discussion in Spanish or English  
 
-**This call is being recorded and transcribed!**
-* The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))](https://www.youtube.com/c/OpenLifeSci))) in the next days
-* Turn on your webcam if you don't mind sharing your face (or off if you do!)
+**Where to indicate preference?**  
+- Edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letter in front of your name.  
+- Let us know your preference in the chat so that a co-host can edit your name.  
+- If you're okay with both, choose one for this week so that the hosts can assign you appropriately.
 
+---
 
-**Breakout room**: Speaking and Writing:
-* Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name:
-   * W for written reflection-based exercise in the main room
-   * S for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice
-* If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
+## 🌍 Icebreaker Question  
+**Name / What is one thing you do to take care of yourself?**
 
+---
 
-## At the end of this week's cohort call, you will be able to:
+## 👥 Introducing the Theme: From Individual to Collective Well-being  
+**Host:** Malvika/Mayya (⏰ 20 min) 25  
+**Slides:** [Google Slides](https://docs.google.com/presentation/d/1iLhwBHZFF3dkV62wbumlwEz_encaLvq3/edit?usp=sharing&ouid=101082273592879353430&rtpof=true&sd=true)  
 
-   - Apply good coding practices to your software
-   - Review code
-   - Identify package management for your software
-   - Make your software ready for open-source   - 
+> **Note:** We will be using the chat and Framapad for notes you want to share with others.  
 
+### Reflection Exercise: Silent Note-Taking  
+- **Self-reflection:** No need to share if you'd like to keep your notes private.  
+- **Prompt:**  
+  - What action have you taken or can you take to empower and sustain your well-being?  
+    (This might involve removing something, doing less of something, or addressing challenges outside your control, e.g., power imbalance or discrimination.)  
+  - How did this self-reflection activity make you feel?  
 
-## 🌍 Roll call
+You can leave notes below for others if you'd like to share:  
+- 
+- 
 
-### Introducing yourself
+---
 
-Name / Project / social handles (twitter, GitHub, etc.) / \_emoji mood \_
+## Breakouts: “Story Duo” Activity X 3 (6 mins each)  
+Share with each other in breakout rooms:  
+1. **Breakout Round 1:** A time you felt most inspired as a kid (e.g., what was it about, who was there, what was exciting).  
+2. **Breakout Round 2:** A time you felt connected to nature (describe the scene, the landscape, etc.).  
+3. **Breakout Round 3:** A time you received kindness and support unexpectedly from a close friend, colleague, or family member.
 
-*    
-*    
+**Reflection Question:**  
+- 
+  -   
 
+---
 
-### Icebreaker question
+## Supplementary Materials  
+**Prompts for self-assessment and goal-setting:** [Make a copy for yourself](https://docs.google.com/document/d/12yNHliG_naGmUpPpN3rwgu8a1ZdpQSIw7FJXMAcjO3Q/edit?usp=sharing)
 
-What's something beautiful you encountered about nature or the world recently?
+---
 
-*    
-*    
+## Open Q&A Time  
+**Space for notes/questions or answers:**
 
+---
 
-## 🗣️ Welcome!
+## 📚 Further Reading  
+**Add your recommendations for others:**  
+- [Sustain Summit](https://sustainoss.org/)  
+- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/about/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure)  
+- [Changelog Episode #281](https://changelog.com/podcast/281)  
+- Cooperative models (e.g., Doug Belshaw)  
+  - [We Are Open Blog](https://blog.weareopen.coop/about)  
+- [Dulwich Centre Resources](https://dulwichcentre.com.au/resources/)  
 
-[HOST] (5 min) [⏰ 5]
+---
 
-**Code of conduct and community participation guidelines** [https://openlifesci.org/code-of-conduct](https://openlifesci.org/code-of-conduct)
+## 🗣️ Closing  
+**Host:** (⏰ 10 minutes) 85  
 
-* If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo, Paz and Emmy. (team@openlifesci.org).
-* To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, emmy@we-are-ols.org, paz@we-are-ols.org).
+### Feedback  
+- **What worked?**  
+- **What didn’t work?**  
+- **What would you change?**  
+- **What surprised you?**
 
+---
 
-**This call is being recorded and transcribed!**
-
-* Please turn your video off if you would prefer to be off video
-* You can follow the transcriptions following the link on the top of the Zoom screen
-
-
-**Breakout room**: Speaking and Writing:
-
-* Indicate by editing your name on Zoom and add 
-    * W for written reflection-based exercise in based breakout room
-    * S for Spoken Discussion Breakout Room 
-* This will help us assign you to the breakout room with the format of your choice
-* Even if you are ok with both, please choose one option for this call to help us assign you easily to one group.
-
-
-## 🖥 Talk: Open-source software in practice
-
-[HOST] (5 min) [⏰ 10]
-
-**Presenter**: PRESENTER
-
-* Contact / social: 
-* Slides: https://docs.google.com/presentation/d/e/2PACX-1vRQmPldM2vu5hoUX2FpdUKuSY8-krnsaqoLP_mg-H3OdGOiTLZO99Ey-1a_PAkhlsi09TzLiPgp__dc/pub
-
-**Notes**:
-
-*   
-*   
-
-**Questions**
-
-*   
-*   
-
-
-## 🖥 Talk: Good Coding Practices
-
-[HOST] (15 min) [⏰ 25]
-
-**Presenter**: Mariana Gómez
-
-* Contact / social: 
-* Slides: SLIDES
-
-**Notes**:
-
-*   
-*   
-
-**Questions**
-
-*   
-*   
-
-
-## 🖥 Talk: Code Review
-
-[HOST] (15 min) [⏰ 40]
-
-**Presenter**: Riva Quiroga
-
-* Contact / social: 
-* Slides: SLIDES
-
-**Notes**:
-
-*   
-*   
-
-**Questions**
-
-*   
-*   
-
-
-## 👥 Breakout discussion: Breakout
-
-[HOST] introduces, [HOST] makes breakouts (15 min) [⏰ 55]
-
-15 minutes, ~3/4 ppl per room
-
-### Instructions for the room
-
-Think about a bug you've encountered in a scientific tool, either as a writer or a user. Was the software/code open, and if not, could openness have made a difference?
-
-
-### Notes from breakout discussions
-
-Breakout Room 1 - Written/Spoken
-
-* Names
-
-    *  
-    *  
-
-* Notes
-
-    *  
-    *  
-
-Breakout Room 2 - Written/Spoken
-
-* Names
-
-    *  
-    *  
-
-* Notes
-
-    *  
-    *  
-
-
-### **Any insights/thoughts/comments to share from your breakout room?**
-
-*  
-*  
-
-
-## 🖥 Talk: Package Management
-
-[HOST] (15 min) [⏰ 70]
-
-**Presenter**: Ruth Nanjala
-
-* Contact / social: 
-* Slides: SLIDES
-
-**Notes**:
-
-*   
-*   
-
-**Questions**
-
-*   
-*   
-
-
-## 🗣️ Closing
-
-[HOST] (5 min) [⏰ <timing>]
-
-### Assignments
-
-
-
-### Have any questions? 
-
-Add them below. We will respond to these on Slack and also share them via an email
-
-*   
-*   
-
-### Feedback about this call:
-
-What worked?
-
-*   
-*   
-
-
-What didn't work?
-
-*   
-*   
-
-
-What would you change?
-
-*   
-*   
-
-
-What surprised you?
-
-*   
-*   
- 
-
-**Reference**: Mozilla Open leadership Framework, OLS
-
-**Licence**: CC BY 4.0, Open Seeds by OLS, 2023
+### Reference  
+Mozilla Open Leadership Framework, OLS  
+**License:** CC BY 4.0, Open Seeds by OLS, 2024

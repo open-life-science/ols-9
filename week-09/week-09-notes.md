@@ -1,4 +1,3 @@
-
 # Week 09 - Tooling for Collaboration: Open-source software in practice
 
 * Date: November 13, 2024
@@ -7,11 +6,12 @@
 * Call lead: Tajuddeen Gwadabe
 * Facilitator: Pradeep Eranti
 
-## 🗣️Join the Cohort Room and Welcome
+## 🗣️Join the Cohort Room
 
-Tajuddeen (10 min)[⏰ 10]
+The recording from this call is on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
 
-Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
+## Welcome!
+[Taj](10 min) [⏰ 10]
 
 * Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
    * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
@@ -20,10 +20,10 @@ Are you an Open Seeds participant but can't attend this call? The recording from
 * This call is being recorded and transcribed!
    * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci)](https://www.youtube.com/c/OpenLifeSci)) in the next days
    * Turn on your webcam if you don't mind sharing your face (or off if you do!)
-
+ 
 * Where to indicate preference? --* In your Zoom name*
-       * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letters in front of your name
-   * Please let us know in the chat your preference for the breakout room today - a co-host will edit your name to add one of these letters:
+   * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letters in front of your name
+   * Please let us know in the chat your preference for the breakout room today - a co-host will edit your name to add one these letters:
    * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
 
 ## At the end of this week's cohort call, you will be able to:
@@ -35,7 +35,7 @@ Are you an Open Seeds participant but can't attend this call? The recording from
 
 ## 🌍 Icebreaker question
 
-*Name / What's something beautiful you encountered about nature or the world recently?*
+* Name / What's something beautiful you encountered about nature or the world recently?
    * Bastian / I literally moved from Europe to Argentina 2 days ago and love having a second summer this year!
    * Tajuddeen / some rare type of bee is stopping META from starting a nuclear power station
    * Oluwatoyin (W)/early sunset and total darkness by 5:30 pm as we move into winter
@@ -72,15 +72,26 @@ Are you an Open Seeds participant but can't attend this call? The recording from
 
 [Tajuddeen] (5 min) [⏰ 15]
 
-Presenter:
-* Contact / social:
 * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vRvZgO4mhul2N575YsayBI1EFDmCIneKg47A9YAXRS8PMafLUgQ8s3COoL86I6XuQ/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRvZgO4mhul2N575YsayBI1EFDmCIneKg47A9YAXRS8PMafLUgQ8s3COoL86I6XuQ/pub?start=false\&loop=false\&delayms=3000)
+
+Notes:
+
+   *  
+   *   
+   *  
+
+Questions
+
+   *  
+   *   
+   *  
+
 
 ## 🖥 Talk: Code Review
 
 [Pradeep] (15 min) [⏰ 30]
 
-* Presenter: Bastian Greshake Tzovaras
+Presenter: Bastian Greshake Tzovaras
    * Contact / social: bgreshake@proton.me / @gedankenstuecke@scholar.social
    * Slides: [https://docs.google.com/presentation/d/1ybkgxS1W4\_6cDakrEin3R7LYqYrUSWdLHErFsuyfsSY/edit?usp=sharing](https://docs.google.com/presentation/d/1ybkgxS1W4\_6cDakrEin3R7LYqYrUSWdLHErFsuyfsSY/edit?usp=sharing) 
 
@@ -109,14 +120,13 @@ Notes:
    * Slides: [https://docs.google.com/presentation/d/122OcEk4tYbo5ZI4isS4KbOYxGFiTBesR/edit?rtpof=true](https://docs.google.com/presentation/d/122OcEk4tYbo5ZI4isS4KbOYxGFiTBesR/edit?rtpof=true)
 
 * Notes:
-
    * Good code is easy to maintain, extend and build upon!
    * Workflow management systems for reproducible coding
    * It's important to have your code accessible and findable, and to add documentation such as a README and a license
    * Good idea to have a notebook for demonstration!  
    * [https://www.asbcb.org/](https://www.asbcb.org/) - African Society for Bioinformatics and Computational Biology
 
-Questions
+* Questions
    *  Any examples of good coding practices?
        * Good code improves collaboration, debugging, and testing, while reducing long-term costs.
    * When to decide whether to modularize the code or just run the commands directly? Complex (RNA-seq pipelines) vs. simple tasks.
@@ -149,33 +159,35 @@ Breakout Room 2 - Written
        * For her masters thesis Fatou is am designing a python experiment for eye tracking. I am dealing with many bugs however don't plan on making the tool open until after my thesis is submitted. I am sure once it's public people might find bugs I did not catch. If I had time, I would publish it for review prior to starting the experiment.
            * George: a lot of my projects are private which delays identifying bugs. The collaborative projets which are open-source always have more transparency and makes finding/fixing bugs easier. However, they also have more moving pieces so there often are more of them.
        * As a Comp Sci PhD student, Kaitlyn encounters a bugs in her own code. Aside from that, she finds a lot of open repositories, especially for deep learning models, have bugs or are incomplete. So she thinks having a more rigorous code review process (maybe an extra stage in the paper review process) would be helpful.
-Breakout Room 3 - Written
 
 Breakout Room 5 - Spoken
-
 * Names: Linda, Brevin, Nooshin 
    * Notes
        * One example of a bug I've come across in scientific tools relates to data visualization libraries in Python, such as Matplotlib. There was an issue with legends overlapping with plots when generating complex graphs involving multiple subplots and custom layouts. This bug was particularly frustrating when it came to presenting clear and readable figures for publications.
        * Matplotlib is open-source, which significantly impacted the ability to resolve the issue. Openness in this case made a substantial difference because:
        * Being open-source meant that I could read through the codebase and documentation to understand how legend positioning was handled and identify potential workarounds.
        * In working with a semi-open source software for a license plate recognition application, I encountered a significant challenge with video frame positioning. Specifically, the software was not capturing the video feed with the frame aligned correctly, resulting in portions of the license plates being misaligned or out of view. This misalignment disrupted the recognition accuracy, a critical aspect of the application's functionality. Due to the software's semi-open nature, access to the full codebase was restricted, limiting the ability to directly troubleshoot or modify the underlying frame handling and positioning code. Although configuration settings were available, they were insufficient for resolving this issue fully. If the software had been entirely open-source, examining and adjusting the code responsible for video capture and frame alignment would have likely expedited troubleshooting and improved the accuracy of the license plate recognition process.
-       * No skills in coding, but currently undertaking the short course in python
+       * No skills in coding, but currently undertaking short course in python
 
 Breakout Room 9 - Written
 
-   * Names: Gracielle Hingino, Anemily Machina, Mirta Dumancic
+   * Names: Gracielle, Anemily, Mirta
    * Notes
        * Sustainability and maintenance are overlooked topics in Open Science
            * Being open helps when older research tools are abandoned, and other people can take over and update the tool
        * How to deal with proprietary dependencies in open source software?
-Breakout Room 10 - Spoken
+
+### Any insights/thoughts/comments to share from your breakout room?
+
+   *  
+   *   
+   *  
 
 ## 🖥 Talk: Package Management
 
 [Pradeep] (15 min) [⏰ 75]
 
-Presenter: Ruth Nanjala
-
+* Presenter: Ruth Nanjala
    * Contact / social: Twitter: @Ruthnanje LinkedIn: Ruth Nanjala
    * Slides: [https://docs.google.com/presentation/d/1ewt5jgfs7q5xO\_fMOmoT08sV4iMGBNV\_/edit#slide=id.p1](https://docs.google.com/presentation/d/1ewt5jgfs7q5xO\_fMOmoT08sV4iMGBNV\_/edit#slide=id.p1)
 
@@ -202,16 +214,13 @@ Add them below. We will respond to these on Slack and also share them via an ema
 
 What worked?
 
-   * The time tracking was excellent!
+* The time tracking was excellent!
+
+What didn't work?
+
+What would you change?
+
+What surprised you?
+
 
 Licence: CC BY 4.0, Open Seeds by OLS, 2024
-
-
-
-
-
-
-
-
-
-

@@ -17,13 +17,13 @@
 
 ## Join OLS-9 Cohort Room
 
-**Join the Zoom call**: https://us02web.zoom.us/j/81462081794?pwd=UhU6mMHtdcNvuFpitlYF2AyESz5wUa.1
+* Join the Zoom call**: https://us02web.zoom.us/j/81462081794?pwd=UhU6mMHtdcNvuFpitlYF2AyESz5wUa.1
 Meeting ID: 814 6208 1794
 Passcode: 752836
 
 
 
-**Are you an OLS-9 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-8 playlist): **[https://www.youtube.com/c/OpenLifeSci/playlists](**[https://www.youtube.com/c/OpenLifeSci/playlists](https://youtube.com/playlist?list=PL1CvC6Ez54KA2r5YEzkCcbBro4BqdL8mB&feature=shared)**)
+* Are you an OLS-9 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-8 playlist): **[https://www.youtube.com/c/OpenLifeSci/playlists](**[https://www.youtube.com/c/OpenLifeSci/playlists](https://youtube.com/playlist?list=PL1CvC6Ez54KA2r5YEzkCcbBro4BqdL8mB&feature=shared)**)
 
 
 
