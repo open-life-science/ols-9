@@ -1,8 +1,6 @@
 # Welcome DRI-EDIA Champions to Open Seeds OLS-9!
 
-Date: 
-
-*content for these two calls is the same! join one that fits your schedule*
+* Date: 
 * Time:
 * Duration: 60 min
 * Call lead:
