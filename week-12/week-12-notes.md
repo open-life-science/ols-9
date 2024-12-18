@@ -1,259 +1,323 @@
-
 # Week 12 - Open Science Garden III
 
-### Open source software, open science infrastructures, and open hardware 
+* Date: 04 December, 2024
+* Time: 16:00 UTC
+* Duration: 90 min
+* Call lead: Malvika Sharan
+* Call facilitator: LESSA TCHOHOU Fabrice
 
-**Date**: December 06, 2023
+## 🗣️Join the Cohort Room
 
-**Time**: 17:00
+Malvika (10 min)[⏰ 10]
 
-**Duration**: 90 min
-**Call lead**: Malvika Sharan
+* Join the Zoom call:
 
-**Call facilitator**: Arielle Bennett, Irene Ramos
+Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
 
-
-
-## Join the Cohort Room
-
-**Join the Zoom call**: [https://us02web.zoom.us/j/89762342861?pwd=dlZ1QzRNWUV4Yk56UG05dWQ4R0Z6dz09](https://us02web.zoom.us/j/89762342861?pwd=dlZ1QzRNWUV4Yk56UG05dWQ4R0Z6dz09).
-**Are you an Open Seeds participant but can't attend this call? The recording from this call will be updated on YouTube**: [https://www.youtube.com/c/OpenLifeSci/playlists](https://www.youtube.com/c/OpenLifeSci/playlists)
-
-
-
-**This call is being recorded and transcribed!**
-   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))))](https://www.youtube.com/c/OpenLifeSci))))) in the next days
-   * Turn on your webcam if you don't mind sharing your face (or off if you do!)
-
-
-**Breakout room**: Speaking and Writing:
-   * Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name:
-       * W for written reflection-based exercise in the main room
-       * S for Spoken Discussion Breakout Room 
-   * This will help us assign you to the breakout room with the format of your choice
-   * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
-
-## At the end of this week's cohort call, you will be able to:
+### At the end of this week's cohort call, you will be able to:
 
    * Define Open Science and Responsible Research
    * List the different principles of Open Science
    * Give examples of 3 use cases of the different Open Science principles
 
-### Icebreaker question
+## Welcome!
 
-What website or app doesn’t exist, but you really wish it did?
+* Code of conduct and community participation guidelines [https://we-are-ols.org/code-of-conduct](https://we-are-ols.org/code-of-conduct)
+   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo and Taj. (team@we-are-ols.org).
+   * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, tajuddeen@we-are-ols.org).
 
-   *  A name prompt app. To help me practice, remember and correctly spell people’s names +100!
-   *  Yo / hmmm. it probably does exist, but I want to be able to write in names, cities, and then always be able to look at the app and say - Oh, it's 10:00 for Arielle! 
-       * oh I love the open window to a city website -- it is not the same but would be cool to have the personalised for teams/groups.
-   *  Malvika / dress code app - a new idea everyday (I have been very much a comfy clothes each day person).
-       * Mandatory oodies pls
-   *  Hana/ hm maybe some automatic map suggestions in a new city based on your interests? +1
-   *  +1 Tania: meal ideas based on what is available on the fridge +1 + 1 (Google Cooking! I do it often. Just enter ingredients into google and the keyword "recipe" 😱
-   * Automatic merging of datasets based on AI
-   *  Lena: my ideal app to take notes combined with photos which works on all my devices
-   *  Melissa: an app that lets you take a photo of any animal, plant, mushroom etc and identifies it. I've used one for birds but the database wasn't very large
+* This call is being recorded and transcribed!
+   * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci))))](https://www.youtube.com/c/OpenLifeSci))))) in the next few days
+   * Turn on your webcam if you don't mind sharing your face (or off if you do!)
 
-## 🗣️ Welcome!
+* Breakout room:
+  * Speaking and Writing preference - This will help us assign you to the breakout room with the format of your choice
+       * W- for written reflection-based exercise in the main room
+       * S-En- for spoken discussion in English
+       * S-Fr- for spoken discussion in French
+       * S-Fr/En - for spoken discussion in French or English
+       * S-Es/En- for spoken discussion in French or Spanish
 
-Arielle (5 min) [⏰ 5]
+* Where to indicate preference? --> *In your Zoom name*
+  * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one W or S letters in front of your name
+   * Please let us know in the chat your preference for the breakout room today - a co-host will edit your name to add one these letters:
+   * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
 
-**Code of conduct and community participation guidelines** [https://openlifesci.org/code-of-conduct](https://openlifesci.org/code-of-conduct)
+## 🌍 Icebreaker question
 
-   * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Bérénice, Malvika, Yo, Paz and Emmy. (team@openlifesci.org).
-   * To report an issue involving one of the organisers, please email one of the members individually (berenice@we-are-ols.org, malvika@we-are-ols.org, yo@we-are-ols.org, emmy@we-are-ols.org, paz@we-are-ols.org).
-
-**This call is being recorded and transcribed!**
-
-   * Please turn your video off if you would prefer to be off video
-   * You can follow the transcriptions following the link on the top of the Zoom screen
-
-
-**Breakout room**: Speaking and Writing:
-
-   * Indicate by editing your name on Zoom and add
-       * W for written reflection-based exercise in based breakout room
-       * S for Spoken Discussion Breakout Room
-   * This will help us assign you to the breakout room with the format of your choice
-   * Even if you are ok with both, please choose one option for this call to help us assign you easily to one group.
-
+* Name / What website or app doesn’t exist, but you really wish it did?
+   * Anemily Machina / fancy baking ingredients to simple baking ingredient conversion chart: e.g. agave nectar -> simple syrup
+   *  Alex Alexis / No idea :)
+   * Vincent Comeau
+   * Soorena / A website or app for handling my weekly plan efficiently and proposing plans by next 5 years considering the defined goals
+   * Hamza Hanif /
+   *  Kaitlyn Wade / not sure :)
+   * Yo Yehudi / The app that works on my android phone the same way notion calendar works on my desktop: combining all my duplicate appointments in one. 
+   * Laura Carter / an app to gently encourage me to go outside and exercise even when it's cold or an app to make it less cold? <- I would also appreciate this, Seattle is brrrrr at the moment
+   * Faisal Fadlelmola: An AI app that could adjust body temperature regardless of the surrounding temperature
+   * Stephane Fadanka
+   * George Lugonzo: An app that can read my mind by only scanning my head.
+   * Seun Olufemi
+   * Yuwei Cao
+   * LESSA TCHOHOU Fabrice/No idea for now
+   * Tajuddeen 
+   * Wesley Sanchez/ 
+   * Musanna Galib
+   * Nishith/ will be able to tell you that if I manage to scan through the sea of apps already available
+   * elham reyhanian
+   * Laura Camelo / haha so hard, maybe an app to help me find my words when I speak in my non-native language.<3 I feel this one so hard!! 
+   * Mohammad Alnabhan / WebMe
+   * Steve Tu / an up-to-date, bug-free website that where to find grants etc
+   * Kwaku Ayisi/An App that that can determine when non-verbal individuals with limited mobility are in pain or crisis and call out for help.
+   * Ahlam / an app to find a gym buddy
+   * Arne/one-stop website or app that has custom-designed dashboard for my needs. emails to send, reports to submit, doctors appt, meetings to attend, tasks are segregated to hourly \& daily even in 5years, payments to remit, knows what I'm thinking right now
+   * Ijeoma
+   * Oluwatoyin Aladejebi
+   * Fanwnang Meng/ not sure
+   * Monsurat Onabajo/ 
+   * Memoona Maah/ 
+   * Gracielle Higino / An instagram-like website, but only puppies
+   * Letícia / I would like google tasks to have a native pomodoro option and connections with Notion (I tried using other apps but I'm too deep inside the google ecosystem 😂)
+   * Kim / an app to clean my house 
+   * Simplice/
+   * Jane - an app that helps me travel and be back without physically travelling
+   * Chika - an app that can cook
+   * Ameer - a website for quick DFT chemistry calculations
+   * Chiedozie
+   * Lulwama Mulalu
 
 ## 🖥 Talk: Open Science Garden(s)
-Malvika \& Lena (5 min) [⏰ 10]
 
-**Presenter**: Malvika Sharan
+Malvika (5 min) [⏰ 15]
+
+* Presenter: Malvika Sharan
    * Contact / social:
-   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vRoO3gcS1koiKYhncvBBnvI9qdMqYjEQ-BH3OKcMGHuCVdsB1nVOXpjg0\_9DNXg9D4XfL8BhRpXpH\_K/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRoO3gcS1koiKYhncvBBnvI9qdMqYjEQ-BH3OKcMGHuCVdsB1nVOXpjg0\_9DNXg9D4XfL8BhRpXpH\_K/pub?start=false\&loop=false\&delayms=3000)
-   * Thanks to our sponsor: VU Amsterdam, partnership coordinated by Open Data Community Manager Lena Karvovskaya
+   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vTx3oylG4TpcsIXJPXuvNluZSdqJZoRI\_6b76Lv5VgdyvymmE91gU1x-MfKCnvwdg/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vTx3oylG4TpcsIXJPXuvNluZSdqJZoRI\_6b76Lv5VgdyvymmE91gU1x-MfKCnvwdg/pub?start=false\&loop=false\&delayms=3000)
 
+**Notes:**
 
-**Notes**:
-   *  
-   *  
-   *  
+*  We are in week-12, open science module 3 -- last one!
 
+## 🖥 Talk: Open Hardware
 
-**Questions**
-   *  
-   *  
+[HOST] (15 min) [⏰ 30]
 
+* Presenter: Stephane Fadanka
+   * Contact / social: Stephane Fadanka | LinkedIn; stephanefadanka@gmail.com
+   * Slides: [https://docs.google.com/presentation/d/1imWncM5e89pfh5Qrk4znyX8jPCTclyME/edit?usp=sharing\&ouid=101989895789810384353\&rtpof=true\&sd=true](https://docs.google.com/presentation/d/1imWncM5e89pfh5Qrk4znyX8jPCTclyME/edit?usp=sharing\&ouid=101989895789810384353\&rtpof=true\&sd=true)
 
-## 🖥 Talk: Open Source Software
+* **Notes:**
+   * Open hardware require well written documentation
+   * Open hardware projects also require combination of license: [https://book.the-turing-way.org/reproducible-research/licensing/licensing-hardware](https://book.the-turing-way.org/reproducible-research/licensing/licensing-hardware)
+   * Open  hardware follows design principles: 
+       * Software tools needed
+       * minimise complicated tools which are not accessible everywhere
+       * level of document that meticulously document resourcing of tools and manufacturer
+       * User and manufacturing instructions
+       * what constitutes fair use of tools
+   * Examples of open source hardware
+       * Arduino: [https://www.arduino.cc/](https://www.arduino.cc/)
+       * Prusa: 3d printing tech: [https://www.prusa3d.com/](https://www.prusa3d.com/)
+   * Openflexture project: uses AI
+       * application of this device on malaria detection in Tanzania 
+       * Project was developed not to replace people in diagnotics - this is a tool to help
+   * There are open communities supporting each other
+       * Gathering from open flexture community - also GOSH community: [https://openhardware.science/](https://openhardware.science/)
+   * Mboa lab: physical and virtual tools for innovation - [https://website-mboalab.vercel.app/](https://website-mboalab.vercel.app/)
+       * developing hardware to solve our own problems in Cameroon
+       * Open source incubator for Microbiology: 
+       * Report: [https://www.hackteria.org/wiki/images/3/34/MBOALAB\_Concept\_note\_for\_Marc.pdf](https://www.hackteria.org/wiki/images/3/34/MBOALAB\_Concept\_note\_for\_Marc.pdf)
+       * GitHub: [https://github.com/Mboalab](https://github.com/Mboalab)
+           * open source incubator: [https://github.com/Mboalab/Incubator](https://github.com/Mboalab/Incubator)
+   * AI4health project: 
+       * Digital stethescope: [https://github.com/Mboalab/Improve-a-digital-Sthetoscope-app](https://github.com/Mboalab/Improve-a-digital-Sthetoscope-app)
+       * AI powered - with human in the loop
+       * Recognised by UNESCO among top 100 projects in health
+   * Have implemented projects through OLS <3
+       * Built skills and knowledge to build and manage projects openly and efficiently
+       * From invisible to students: determining right age for kids to be able to access education and health
+   * Social demination is important for the success of individuals and community
+       * Fabrice started a start up: Africa Robot - laser cut-up
+       * Representing the country all over the world
+   * Open science in practice <3 -- potential to grow 
 
-Arielle (15 min) [⏰ 25]
+* **Questions**
+   * Laura: How can we make open hardware accessible to people. As there might be economical barriers to get all the material 
+       * Stephane: We were facing limitation of resources - you need some parts to assemble them into tech. It takes months to source parts. Hardware movement requires people to think about logistics.
+       * Economic barrier is there - simplication of design can allow accessibility and. cost effectiveness.
+       * Prototypes allow investers and accelerator programmes to fund next stages.
+           * Laura: Thank you for the response ! I didn't think about all the logistics! We also don't have Amazon in my home country and didn't think about how it would impact the logistic!
+           * What country is your home country? One of my mentees from OLS-6 taught me a lot about her open hardware shipping challenges in latin America - and she was based in Argentina herself.  [https://github.com/talleresopensourc](https://github.com/talleresopensourc)
+   * Faisal: Stephane, we would be delighted to invite you to give a talk at one of our webinars hosted by the Data Science Initiative Africa Consortium, with the aim of inspiring younger generations of researchers across Africa
+       * Will put you in touch.
 
-**Presenter**: Hana Frluckaj
-   * Contact / social: hanafrla@utexas.edu
-   * Slides: [https://docs.google.com/presentation/d/1mainogyd9OzOGA3BfKVQXIPbzCB08oaeyCUhz8gxTjc/edit#slide=id.g2a2d191dc2e\_5\_303](https://docs.google.com/presentation/d/1mainogyd9OzOGA3BfKVQXIPbzCB08oaeyCUhz8gxTjc/edit#slide=id.g2a2d191dc2e\_5\_303) 
+## 🖥 Talk: Open Engagement of Social Actors
 
-**Notes**:
-   *  Success of open source software is largely dependent on community! 
-   *  Malvika: For those who are not developers, can use these principles to make choices for software or packages they use in their research. There are many packages/tools, but often we end up using a few that our colleagues tell us about. To assess if those are good quality — will provide reproducible/verifiable results, we can look at aspects like documentation, people willing to respond to errors/issues etc.
-   * Bus factor indicaiton of project health - the more people need to be hit by a bus in order for the proeproject to fully stop, the healthier the project is
-       * Also known as "Bermuda factor" (as in, when people win the lottery and move to Bermuda 😉)
+Malvika (15 min) [⏰ 45]
 
-**Questions**
+* Presenter: Laura Carter
+   * Contact / social: [https://scholar.social/@LauraC\_rter](https://scholar.social/@LauraC\_rter)
+   * Slides: [https://zenodo.org/records/14269064](https://zenodo.org/records/14269064)
 
-   * Q OSS or FOSS? 
-       * (A from Yo) made a helpful distinction between F/L (Free / Libre) software is "you can't tell me what to do While OSS is more "pragmatic capitalism" (thanks Yo)
-   * How to balance maintenance of packages with the driving incentives present across a lot of academia towards novelty?  
-       * Longer funding schedules can help people collaborate and build trust, contributes to better research, better community 
-   *  I like the "Bus Factor metric" Here in the global south the bus factor is really high. 
-   *  I wonder if indeed there will be enough people "on it", contributing to your software; my feeling is that the creator is very much accountable even in the early stages of the project
-   * Could you give the reference to the "tyranny to un -structuredness" article?  
-       * [https://www.jofreeman.com/joreen/tyranny.htm](https://www.jofreeman.com/joreen/tyranny.htm)
-   * Invisible form of work is really important to keeping the whole thing together. Is this like duct tape? 
+* Notes:
+   *   Laura is based in Seattle - is from the UK
+       * Is a policy tech fellow in California, worked in Ada Lovelace and Amnesty
+       * Part of OLS since 2021
+   * Research is all about people
+       * Taking people and their experiences seriously
+   * When thinking about participatory research - we can think about three levels
+       * Open source practices where people - paid or professional - can develop things openly: use, reuse etc.
+       * Citizen science where crowdsourcing with interested people from the public - often unpaid - are involved
+   * Participatory research goes further
+       * Non professional researchers design research question
+       * For example: Autspaces - is engaging with people to share their sensory experiences to make public and workspaces appropriate for autistic people 
+   * So in our research, we need to think about "who is participating?"
+       * In Laura's work participants can be co-authors, peer researchers, research subject, citizen assembly
+   * Ladder of participation - Arnstein (1961)
+       * The higher up you go in the ladder, the higher the partcipation from broader citizen we can have
+       * non participation --> Tokenism --> citizen power
+   * Not everyone involved in the project will be in the same space even within the same group -- including yourself
+       * It doesn't mean you don't have power at all
+   * determine where you are at the ladder
+       * How can you use the power you have to bring in people, move them along to different part of ladder
+   *  being open about these decisions allow more people to partcipate - distribute more power
 
-## 🖥 Talk: Open Science Infrastructures
+* Questions
+   * Vincent: Does participatory research process apply to specific subset of project?
+       * Laura: What is helpful is to think about people who are involved in research. even if you don't have participatory reseach by design, you can use this framework to think about who is in your research.
+       * MS: Here is a chapter Laura wrote with Arielle on advocacy as a form of participation: [https://book.the-turing-way.org/ethical-research/activism](https://book.the-turing-way.org/ethical-research/activism)
+       * Laura: I am a big fan of unions for building participation and power - [https://book.the-turing-way.org/ethical-research/activism/activism-unionisation](https://book.the-turing-way.org/ethical-research/activism/activism-unionisation)
+   * Laura: I really like the presentation! I always tend to think about projects where there is a leader, I guess that is what we have been seen along the years so we are biased to that. Would like to know how are education projects more participative? I think that makes people more motivated to participate and make something useful for them out of the project 
+       * One strategy I really like when building open and participatory educational projects is to design a structure where instructors can use and build upon each other’s educational materials. That’s one side! Another side is when you can include learners in the decision making process on designing the syllabus and activities of the course.
+       * Agree with Gracielle - the more you can bring people into decision-making, the better :)
+       * I really like those ideas! I'll do my best to include them in my project ! Also, it is less intensive for the "project leader" as decision-making is more focused on what participants really need.
+       * Leaders often end up in more of a coordination role than a decision making role, in this case…
+   * Faisal: Please briefly describe the possibility of drafting a Policy on this concept. With policies in place, a more would be done. I am about to complete a 10-week training program with eLearning Global Health at the University of Washington on "Policy Development \& Advocacy in Global Health
+       * LC: Global health is one of the areas where there's quite a lot of work that you can draw on! This is a good guide to start with: [https://www.lstmed.ac.uk/sites/default/files/Participatory%20Health%20Research%20Methods%20toolkit.pdf](https://www.lstmed.ac.uk/sites/default/files/Participatory%20Health%20Research%20Methods%20toolkit.pdf)
+       * Also 'participatory research' is one of the buzzwords that researchers (and funders) are starting to like a lot, so if you have a framework for it, it's difficult for people in power to argue that they want their work to be less participatory..
 
-Irene (15 min) [⏰ 40]
+## 🖥 Talk: Diversity of knowledge: Bibliodiversity
 
-**Presenter**: Tania Hernandez
-   * Contact / social: tania@investinopen.org; LinkedIn: [https://www.linkedin.com/in/tania-l-hernandez-ph-d-13120842/](https://www.linkedin.com/in/tania-l-hernandez-ph-d-13120842/) ; ORCID: [https://orcid.org/0000-0002-8046-6024](https://orcid.org/0000-0002-8046-6024)
-   * Slides: [https://docs.google.com/presentation/d/1LemOmMyiAbL9\_gjwPdxWE83C92WTfBRTL71tyPA-gcM/edit?usp=sharing](https://docs.google.com/presentation/d/1LemOmMyiAbL9\_gjwPdxWE83C92WTfBRTL71tyPA-gcM/edit?usp=sharing)
+[HOST] (15 min) [⏰ 60]
 
+* Presenter: Leslie Chan
+   * Contact / social: 
+   * Slides: [https://docs.google.com/presentation/d/1Hkn8tTVzzEet7E68\_UeZK1lTLe0Pf623jOPa0aJA0xQ/edit?usp=sharing](https://docs.google.com/presentation/d/1Hkn8tTVzzEet7E68\_UeZK1lTLe0Pf623jOPa0aJA0xQ/edit?usp=sharing)
 
-**Notes**:
-   *  Invest in open infrastructure (ioi) [https://investinopen.org/](https://investinopen.org/)
-   *  OSI: systems and tools that rely on both physical and digital infrastructure intended to provide open services for the scientific community
-   *  Three components:
-       * Infrastructure (physical and digital) - we rely on physical components that are available
-       * Social (networks of collaboration, volunteer driven efforts) - invisible work behind theopen science initiative, there is also a lot of volunteer work involved
-       * Innovation (test and prototype, non-profit alternatives) - many of the initiatives remain non for profit providing free services to the research community. These services are more accessible than their commercial counterparts
-   * Good design checklist
-       * Physical requirements
-       * Integrate Digital + physical design
-       * *Include stakeholders in decision-making process*
-       * Recognize volunteer work
-       * Provide low cost solutions
-   * POST  - principles of open scholarly infrastructure (POSI) [https://openscholarlyinfrastructure.org/](https://openscholarlyinfrastructure.org/)
+* Notes:
+   * Works in Uni of Toronto. Established Knowledge Equity Lab
+   * Come  from access barriers in world of scientific publications
+       * Grew up in hong kong, have long history of knowledge and science -- similarly many parts in the world producing knowledge and science but that knowledge is not always represented in our library systems
+       * Knowledge systems are controlled by handful of commercial actors
+       * Map shows unequal contributions and participation in research and knowledge production
+   *  Prof James Tumwini started journal for African Health Sciences
+       * gives example of who is the gatekeeper and who makes decision about what kind of knowledge is produced and distributed
+       * [https://knowledgeequitylab.ca/podcast/ep3/](https://knowledgeequitylab.ca/podcast/ep3/)
+   * Bibliodiversity means amplifying different kinds of knowledge to be produced and distributed
+       * We need more initiatives to be recognised and supported - known to everyone around the world
+           * Relates to a last presentation by Sohail: [https://stolentools.com/index.php/stolentools](https://stolentools.com/index.php/stolentools)
+   * We see a rapid growth in publication - not necessarily advancement of knowledge
+       * Metrics demand researchers to publish more - overproduction instead of real knowledge sharing
+       * Corporate consolidation is marginalising people already outside the system
+   * Research community is calling for bibliodiversity and against corporate actors and traditional university metrics
+   * Bibliodiversity is against MONOCULTURE OF MIND (comes from Vanda Shiva's work)
+       * Anglophone monopoly
+   * Leslie's work mapped the work of Elsevier to create end to end system/infrastructure
+       * Contextualising openness: [https://idrc-crdi.ca/en/book/contextualizing-openness-situating-open-science](https://idrc-crdi.ca/en/book/contextualizing-openness-situating-open-science)
+       * Connecting the knowledge commons: [https://books.openedition.org/oep/8999?lang=en](https://books.openedition.org/oep/8999?lang=en)
+   * Bibliodiversity and situated knowledge
+       * Diversity of  knowledge form and expression, epistemology and ontology, knowledge systems, knowledgemakers, ways to value impact
+   * From bibliodiversity  to pluriversal ecology of  knowledges
 
+* Questions
+   * Just to confirm….bibliodiversity means having many different options for publishing. Is that right? And this is being threatened because certain publishing companies are buying up competitors and adding end to end publishing services
+       * MS: Different kinds of knowledge - different forms of knowledge production and sharing - including poetry, art, story telling, decentralised ways to do research and pursue science (not limited to profession etc.)
+           * Threatened because of that, and generally beaches elf colonisation of different form that benefits specific powerful entities
+       * Leslie: Bibliodiversity is about diversity of format, languages and outlets -- also diverse forms of knowledge itself (knowing the world beyond the mechanics of publications)
+   * What strategies can publishers adopt to prioritize bibliodiversity, especially under financial pressures that favour commercially viable works over diverse or experimental content?
+       * Many open access option:
+           * Radical open access collectives ([https://radicaloa.postdigitalcultures.org/)](https://radicaloa.postdigitalcultures.org/))
+           * Open libraries of humanities
+           * African mind: Africa based scholarship
+           * Collective payment models are quite common
+       * We should support smaller publishers
+           * Publish with them
 
-Is the cloud infrastructure a problem for localisation? - yes, it might be if you have bad internet connection and if your computer can't run this service. It's important to look beyond the global north
-
-**Questions**
-   * Q: So methinks that OSI is really important. But when OSI is placed in the cloud, it means that local capacity is not developed. Yes, money is saved. But the benefits of localization is lost. Be interested in your thoughts? W 
-   * Q: Who drives the innovation component? I would think that it should be universities? But my experience is that this is is spun out very quickly to commercial concerns (I assume to keep the project to sustainable)  
-   * Q: are there good examples of important innovations in research/science taking off from free infrastructures provided by non-for-profits? 
-       * IOI is working on mapping open infrastructure service providers (tool will be live next year), here is the link to previous work on that area: [https://investinopen.org/catalog/](https://investinopen.org/catalog/)
-  
 ## 👥 Breakout discussion: Open Science and You
 
-Irene introduces, Malvika makes breakouts (15 min) [⏰ 55]
+[HOST] introduces, [HOST] makes breakouts (10 min) [⏰ 75]
+
 15 minutes, ~3/4 ppl per room
 
-
-
 ### Instructions for the room
-Discussion prompts for the room:
+
+* Discussion prompts for the room:
    * Do you practise or advocate for open source software, infrastructure and practices?
        * If you do, explain how.
        * If you don’t, explain what you think the difference is between practising open science and advocating for it.
 
+* Directions for written discussion rooms:
+   * Each room will be assigned 3/4 members
+   * Please agree if you use either on this document or the Zoom chat
+   * each member will take 2.5 minutes to write down their response
+   * In the next 5 minutes they will read through and comment on each other’s notes either on this document or on Zoom chat
 
 ### Notes from breakout discussions
 
-Breakout Room 1 - Written
-   * Notes
-           * I believe I operate in field where most software is not open source, but we are advocating for it quite vocally
-           * I/we do, but I sometimes feel that it is not always for the right reasons. Or at least there are two sides to it, we advocate let's say that researchers make their data/software/research open (source), impose rules and/or guidelines on how to do it "right", but each case is different. So it's a good thing that we emphasize the importance of data stewards or RSEs who come with the expertise to differentiate
-           * Like X says, the two sides are that we openly advocate for open science/source but we often don't adhere to it ourselves. Sure, it can be hard to find a replacement for complex software / cloud services, but there are also cases where we really should use an open alternative, take MS Office for instance
+**Breakout Room 1 - Written/Spoken**
 
+* Names
+       * Vincent
+       * Gracielle
+       * Lulwama
+       * Stephane
+* Notes
+  * I think practising open science is to be a user (e.g., use open source web browsers) or a creator of open science products (e.g. open access papers); to be an advocate is to include collective participation in your practise, and also promoting the use of open science in ways you don't use.
 
-Breakout Room 2 - Spoken
+**Breakout Room 2 - Written/Spoken**
 
-   * Notes
-       * Y practices open science and software at work - libraries of tools, open source software construction 
-       * Differences between advocating vs practising? 
-       * Self-reflection kind of question 
-       * Could always be doing more, no one is "perfect" in their open practices - requires a lot of privilege and the right institution
-       * Don't always have the right resources for using open software /cloud infrastructure etc 
-       * Discussion on translation efforts away from English
-
-
-Breakout Room 3 - Spoken
-   * Notes
-           *  
-           *  
-           *  
-
-
-### **Any insights/thoughts/comments to share from your breakout room?**
-   *  
-   *  
-   *  
-## 🖥 Talk: Open Hardware
-
-Arielle (15 min) [⏰ 70]
-
-**Presenter**: Pierre Padilla
-
-   * Contact / social: pgpadilla@uc.cl / @biodotpe (Twitter and Instagram)
-   * Slides: [https://docs.google.com/presentation/d/1aluBnA6hziHb0gHulR6PkkJTPsZMaXDN/edit?usp=sharing\&ouid=118073970427420961369\&rtpof=true\&sd=true](https://docs.google.com/presentation/d/1aluBnA6hziHb0gHulR6PkkJTPsZMaXDN/edit?usp=sharing\&ouid=118073970427420961369\&rtpof=true\&sd=true)
-
-**Notes**: 
-   *  Challenge: importing equipment to Peru from Global North
-   *  Open Hardware to democratize technology, lower cost, custom-ability, easier maintenance  and collaboration, modification 
-   * Dev cycle:
-       * Identify problem or need
-       * Create prototype of product or scientific instrument
-       * Products also includes: instructions, version control, contribution guides, schematics
-   * Examples:
-       * OpenFlexure - microscope
-   * GOSH
-
-**Questions**
-
-   * Open Science Hardware is a Black Box. I suspect that the reason why the black box remain opaque, is because budget is spent on marketing, and not documentation? There is an incentive to keep the box opaque, because it keeps you in a job? Is this fair. Or too broad?
+* Names:
+   * Kim
+   * Jane
+   * Faisal
+   * George
+* Notes:
+   * Open science - Involvement of others who are outside your research group
+   * Use of open science platforms, publications, etc
 
 ## 🗣️ Closing
 
-Irene (5 min) [⏰ ]
-
-
+Malvika (5 min) [⏰ 85]
 
 ### Have any questions?
 
 Add them below. We will respond to these on Slack and also share them via an email
-   *  
-   *  
-   *  
+
+* 
+* 
+
 ### Feedback about this call:
 
 What worked?
-   * Thanks for a fabulous session 
-   *  
-What didn't work?
-   *  
-   *  
-   *  
-What would you change?
-   *  
-   *  
-What surprised you?
-   *  
-   *  
 
-**Reference**: Mozilla Open leadership Framework, OLS
-**Licence**: CC BY 4.0, Open Seeds by OLS, 2023
+* 
+* 
+
+What didn't work?
+
+* 
+* 
+
+What would you change?
+
+* 
+* 
+
+What surprised you?
+
+* 
+* 
+
+Licence: CC BY 4.0, Open Seeds by OLS, 2024
+
 
