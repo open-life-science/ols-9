@@ -3,9 +3,20 @@
 Welcome! This is the [ninth cohort of the Open Seeds](https://we-are-ols.org/openseeds/) (OLS-9) program repository. 
 This repository will be used to archive meeting notes and use GitHub issues to track the progress of OLS-9 projects. 
 
+Learn about all participants and projects in [Catalyst Track](https://we-are-ols.org/openseeds/ols-9-catalyst/) and [DRI-EDRI Track](https://we-are-ols.org/openseeds/ols-9-dra/).
+
+### Participation Guidelines
+
+Open Life Science participants adhere to a [code of conduct](CODE_OF_CONDUCT.md). 
+By participating, you are expected to uphold this code. Please report unacceptable behaviour to [team@we-are-ols.org](mailto:team@we-are-ols.org).
+
+### Graduation guide
+
+To learn about graduation criteria and process, please visit this [Graduation Guide](Graduation guide).
+
 ## Important resources
 
-Learn about all participants and projects in [Catalyst Track](https://we-are-ols.org/openseeds/ols-9-catalyst/) and [DRI-EDRI Track](https://we-are-ols.org/openseeds/ols-9-dra/).
+Please visit notes to find out structure of the programme, notes taken during the session as well as assignments shared at the end of the cohort calls.
 
 | Week | Topic | YouTube Link | Notes | Zenodo link | Cite this as |
 |:-----|:------|:-------------|:------|:-------------|:----------|
@@ -28,7 +39,6 @@ Learn about all participants and projects in [Catalyst Track](https://we-are-ols
 * Each issue will provide details for a project currently going through OLS-9: [https://github.com/open-life-science/ols-9/issues](https://github.com/open-life-science/ols-9/issues). 
   * Find out more about each project and comment on the individual issue to share thoughts and provide feedback.
 
-### Participation Guidelines
+## Contact
 
-Open Life Science participants adhere to a [code of conduct](CODE_OF_CONDUCT.md). 
-By participating, you are expected to uphold this code. Please report unacceptable behaviour to [team@we-are-ols.org](mailto:team@we-are-ols.org).
+For any questions and information regarding the OLS-9 cohort, please email: 
