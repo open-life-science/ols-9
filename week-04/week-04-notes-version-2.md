@@ -1,4 +1,3 @@
-
 # Call 03 - Tooling for Collaboration: OLS-9 DRI-EDIA Track!
 Date: 17 October, 2024
 Time: 16:00 UTC, in your timezone: [https://arewemeetingyet.com/UTC/2024-10-17/16:00](https://arewemeetingyet.com/UTC/2024-10-17/16:00)
