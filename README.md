@@ -14,6 +14,10 @@ By participating, you are expected to uphold this code. Please report unacceptab
 
 To learn about graduation criteria and process, please visit this [Graduation Guide](https://we-are-ols.org/openseeds/cohort-procedures-and-templates/graduation-guide.html).
 
+Please register for the upcoming graduation [rehearsal/feedback session on Week 15](https://annuel2.framapad.org/p/ols-9-week-15) and sign up for [graduation calls on Week 16](https://annuel2.framapad.org/p/ols-9-week-15).
+
+Both documents also provide important steps to follow before your graduation.
+
 ## Important resources
 
 Please visit notes to find out structure of the programme, notes taken during the session as well as assignments shared at the end of the cohort calls.
