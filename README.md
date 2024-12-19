@@ -12,7 +12,7 @@ By participating, you are expected to uphold this code. Please report unacceptab
 
 ### Graduation guide
 
-To learn about graduation criteria and process, please visit this [Graduation Guide](Graduation guide).
+To learn about graduation criteria and process, please visit this [Graduation Guide](https://we-are-ols.org/openseeds/cohort-procedures-and-templates/graduation-guide.html).
 
 ## Important resources
 
