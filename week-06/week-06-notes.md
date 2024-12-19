@@ -4,7 +4,6 @@
 **Duration:** 90 min  
 **Call lead:** Malvika Sharan  
 **Co-Facilitator:** Umar Farouk Ahmad, Taj Gwadabe, Seun Olufemi  
-
 ---
 
 ## 🗣️ Join the Cohort Room and Welcome
