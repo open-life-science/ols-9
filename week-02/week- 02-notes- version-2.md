@@ -12,7 +12,6 @@ Call lead: Malvika Sharan, Gracielle Higino
 Co-facilitators: Seun Olufemi
 
 
-
 ## Join the Call
 
 This call has concluded!
