@@ -3,7 +3,7 @@
 Welcome! This is the [ninth cohort of the Open Seeds](https://we-are-ols.org/openseeds/) (OLS-9) program repository. 
 This repository will be used to archive meeting notes and use GitHub issues to track the progress of OLS-9 projects. 
 
-Learn about all participants and projects in [Catalyst Track](https://we-are-ols.org/openseeds/ols-9-catalyst/) and [DRI-EDRI Track](https://we-are-ols.org/openseeds/ols-9-dra/).
+Learn about all participants and projects in [Catalyst Track](https://we-are-ols.org/openseeds/ols-9-catalyst/) and [DRI-EDIA Track](https://we-are-ols.org/openseeds/ols-9-dra/).
 
 ### Participation Guidelines
 
