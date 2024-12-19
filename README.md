@@ -1,16 +1,16 @@
 # Open Seeds OLS-9
 
 Welcome! This is the [ninth cohort of the Open Seeds](https://we-are-ols.org/openseeds/) (OLS-9) program repository. 
-This repository will be used to archive meeting notes and use GitHub issues to track progress of OLS-9 projects. 
+This repository will be used to archive meeting notes and use GitHub issues to track the progress of OLS-9 projects. 
 
 ## Important resources
 
-Learn about all participants and projects in [Catalyst Track](https://we-are-ols.org/openseeds/ols-9-catalyst/) and DRI-EDRI Track](https://we-are-ols.org/openseeds/ols-9-dra/).
+Learn about all participants and projects in [Catalyst Track](https://we-are-ols.org/openseeds/ols-9-catalyst/) and [DRI-EDRI Track](https://we-are-ols.org/openseeds/ols-9-dra/).
 
 | Week | Topic | YouTube Link | Notes | Zenodo link | Cite this as |
 |:-----|:------|:-------------|:------|:-------------|:----------|
 | Week 1 | Welcome to Open Seeds | [Video Recording](https://www.youtube.com/watch?v=KPaMMHLQk6c&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=1) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-01-onboarding/week-01-welcome-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268483) | Sharan, M., & Community, O. (2024, December 3). Open Seeds OLS-9 Week-1 Content - Introduction to Open Seeds. Zenodo. https://doi.org/10.5281/zenodo.14268483 |
-| Week 2 | Tooling for design | [Video Recording](https://www.youtube.com/watch?v=riBa5faSNIs&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=2) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-02/Week-02-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268572) | OLS Community (2024). Open Seeds OLS-9 Week-2 Content - Tooling for Design (open leadership, open canvas, roadmapping). Zenodo. https://doi.org/10.5281/zenodo.14268572 |
+| Week 2 | Tooling for design | [Video Recording](https://www.youtube.com/watch?v=riBa5faSNIs&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=2) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-02/Week-02-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268572) | OLS Community (2024). Open Seeds OLS-9 Week-2 Content - Tooling for Design (open leadership, open canvas, road mapping). Zenodo. https://doi.org/10.5281/zenodo.14268572 |
 | Week 4 | Tooling for collaboration | [Video Recording](https://www.youtube.com/watch?v=HmhQZ--l5U4&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=4) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-04/Week-04-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268608) | OLS Community (2024). Open Seeds OLS-9 Week-4 Content - Tooling for Collaboration (README, CONTRIBUTION GUIDELINE, CoC). Zenodo. https://doi.org/10.5281/zenodo.14268608 |
 | Week 5 | GitHub for collaboration | [Video Recording](https://www.youtube.com/watch?v=r3skZL5-NVs&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=6) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-05/Week-05-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268644) | OLS Community (2024). Open Seeds OLS-9 Week-5 Content - Version Control and GitHub for Collaboration - Skill Up. Zenodo. https://doi.org/10.5281/zenodo.14268644 |
 | Week 6 | Open Science Module 1 (open science introduction, open data, open education) | [Video Recording](https://www.youtube.com/watch?v=C8ukpzAUKEw&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=7) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-06/Week-06-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268665) | OLS Community (2024). Open Seeds OLS-9 Week-6 Content - Open Science Module 1 (open science introduction, open data, open education). Zenodo. https://doi.org/10.5281/zenodo.14268665 |
