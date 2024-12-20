@@ -25,15 +25,15 @@ Are you an OLS-9 participant but can’t attend this call? The recording from th
 
    1. Review notes and start documentation introduced in the previous call: [https://annuel2.framapad.org/p/ols-9-week-05-dri-edia-15Oct](https://annuel2.framapad.org/p/ols-9-week-05-dri-edia-15Oct)
        1. Open an issue on OLS-9 repo where you will be able to track your progress in this cohort -- Click this to create an issue: [https://github.com/open-life-science/ols-9/issues/new?assignees=\&labels=\&template=project.md](https://github.com/open-life-science/ols-9/issues/new?assignees=\&labels=\&template=project.md)
-       1. **Create a first draft of open canvas for your project: **Copy template to create a personal copy: [https://docs.google.com/presentation/u/1/d/1l0XShyo\_FjXIah3hr95QpOHCDlJKpXDp/copy](https://docs.google.com/presentation/u/1/d/1l0XShyo\_FjXIah3hr95QpOHCDlJKpXDp/copy)
+       1. **Create a first draft of open canvas for your project:** Copy template to create a personal copy: [https://docs.google.com/presentation/u/1/d/1l0XShyo\_FjXIah3hr95QpOHCDlJKpXDp/copy](https://docs.google.com/presentation/u/1/d/1l0XShyo\_FjXIah3hr95QpOHCDlJKpXDp/copy)
        1. Start drafting your project vision: [https://docs.google.com/document/d/1RrraS0C4vZ6cpnbRsu65uoMKJbru5Vun/copy](https://docs.google.com/document/d/1RrraS0C4vZ6cpnbRsu65uoMKJbru5Vun/copy)
        1. **Set some personal and project goals**: [https://docs.google.com/document/d/1\_FhDM7bLvMfJcjm\_2mheNzc8sZPZDJJBgUj5Zka49-8/copy](https://docs.google.com/document/d/1\_FhDM7bLvMfJcjm\_2mheNzc8sZPZDJJBgUj5Zka49-8/copy)
        1. Start creating your roadmap: [https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
 
 **Optional in your time:**
 
-       * Please carry out compare and contrast exercise to improve community interactions in your work: [https://docs.google.com/document/d/13ZqbX3dV3ENfRDBqI\_uW\_qpwMpRQINKGjhPOcsYCQgs/copy](https://docs.google.com/document/d/13ZqbX3dV3ENfRDBqI\_uW\_qpwMpRQINKGjhPOcsYCQgs/copy)
-           * Insights from your self-assessment and compare and contrast should help you improve and prioritise your goals
+* Please carry out compare and contrast exercise to improve community interactions in your work: [https://docs.google.com/document/d/13ZqbX3dV3ENfRDBqI\_uW\_qpwMpRQINKGjhPOcsYCQgs/copy](https://docs.google.com/document/d/13ZqbX3dV3ENfRDBqI\_uW\_qpwMpRQINKGjhPOcsYCQgs/copy)
+* Insights from your self-assessment and compare and contrast should help you improve and prioritise your goals
 
 ---
 
