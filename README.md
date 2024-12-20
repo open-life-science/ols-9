@@ -42,4 +42,4 @@ Please visit notes to find out structure of the programme, notes taken during th
 
 ## Contact
 
-For any questions and information regarding the OLS-9 cohort, please email: 
+For any questions and information regarding the OLS-9 cohort, please email: mirta.dumancic@mail.mcgill.ca
