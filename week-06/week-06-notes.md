@@ -1,10 +1,10 @@
 # Week 06 - Open Science Garden I
-**Date:** 23 October, 2024  
-**Time:** 16:00 UTC  
-**Duration:** 90 min  
-**Call lead:** Malvika Sharan  
-**Co-Facilitator:** Umar Farouk Ahmad, Taj Gwadabe, Seun Olufemi  
----
+
+* Date: 23 October, 2024
+* Time: 16:00 UTC
+* Duration: 90 min
+* Call lead: Malvika Sharan
+* Co-Facilitator: Umar Farouk Ahmad, Taj Gwadabe, Seun Olufemi 
 
 ## 🗣️ Join the Cohort Room and Welcome
 **Malvika (10 min)** [⏰ 10]
