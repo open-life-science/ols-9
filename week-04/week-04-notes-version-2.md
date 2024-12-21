@@ -1,18 +1,17 @@
-
 # Call 03 - Tooling for Collaboration: OLS-9 DRI-EDIA Track!
-Date: 17 October, 2024
-Time: 16:00 UTC, in your timezone: [https://arewemeetingyet.com/UTC/2024-10-17/16:00](https://arewemeetingyet.com/UTC/2024-10-17/16:00)
-Duration: 3 hours
-Call lead: Malvika Sharan, Gracielle Higino
-Co-facilitators: Seun Olufemi
 
+* Date: 17 October, 2024
+* Time: 16:00 UTC, in your timezone: [https://arewemeetingyet.com/UTC/2024-10-17/16:00](https://arewemeetingyet.com/UTC/2024-10-17/16:00)
+* Duration: 3 hours
+* Call lead: Malvika Sharan, Gracielle Higino
+* Co-facilitators: Seun Olufemi
 
 ## Join the Call
 
 Call concluded!
 Are you an OLS-9 participant but can’t attend this call? The recording from this call will be updated on YouTube (OLS-9 playlist): [https://youtube.com/openlifesci](https://youtube.com/openlifesci)
 
-------------------------------------------------------------------
+---
 
 ## During today's call, we will:
 
@@ -26,19 +25,17 @@ Are you an OLS-9 participant but can’t attend this call? The recording from th
 
    1. Review notes and start documentation introduced in the previous call: [https://annuel2.framapad.org/p/ols-9-week-05-dri-edia-15Oct](https://annuel2.framapad.org/p/ols-9-week-05-dri-edia-15Oct)
        1. Open an issue on OLS-9 repo where you will be able to track your progress in this cohort -- Click this to create an issue: [https://github.com/open-life-science/ols-9/issues/new?assignees=\&labels=\&template=project.md](https://github.com/open-life-science/ols-9/issues/new?assignees=\&labels=\&template=project.md)
-       1. **Create a first draft of open canvas for your project: **Copy template to create a personal copy: [https://docs.google.com/presentation/u/1/d/1l0XShyo\_FjXIah3hr95QpOHCDlJKpXDp/copy](https://docs.google.com/presentation/u/1/d/1l0XShyo\_FjXIah3hr95QpOHCDlJKpXDp/copy)
+       1. **Create a first draft of open canvas for your project:** Copy template to create a personal copy: [https://docs.google.com/presentation/u/1/d/1l0XShyo\_FjXIah3hr95QpOHCDlJKpXDp/copy](https://docs.google.com/presentation/u/1/d/1l0XShyo\_FjXIah3hr95QpOHCDlJKpXDp/copy)
        1. Start drafting your project vision: [https://docs.google.com/document/d/1RrraS0C4vZ6cpnbRsu65uoMKJbru5Vun/copy](https://docs.google.com/document/d/1RrraS0C4vZ6cpnbRsu65uoMKJbru5Vun/copy)
        1. **Set some personal and project goals**: [https://docs.google.com/document/d/1\_FhDM7bLvMfJcjm\_2mheNzc8sZPZDJJBgUj5Zka49-8/copy](https://docs.google.com/document/d/1\_FhDM7bLvMfJcjm\_2mheNzc8sZPZDJJBgUj5Zka49-8/copy)
        1. Start creating your roadmap: [https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
 
-
 **Optional in your time:**
 
-       * Please carry out compare and contrast exercise to improve community interactions in your work: [https://docs.google.com/document/d/13ZqbX3dV3ENfRDBqI\_uW\_qpwMpRQINKGjhPOcsYCQgs/copy](https://docs.google.com/document/d/13ZqbX3dV3ENfRDBqI\_uW\_qpwMpRQINKGjhPOcsYCQgs/copy)
-           * Insights from your self assessment and compare and contrast should helpf you improve and prioritise your goals
+* Please carry out compare and contrast exercise to improve community interactions in your work: [https://docs.google.com/document/d/13ZqbX3dV3ENfRDBqI\_uW\_qpwMpRQINKGjhPOcsYCQgs/copy](https://docs.google.com/document/d/13ZqbX3dV3ENfRDBqI\_uW\_qpwMpRQINKGjhPOcsYCQgs/copy)
+* Insights from your self-assessment and compare and contrast should help you improve and prioritise your goals
 
-
-------------------------------------------------------------------
+---
 
 ## 🗣️ Welcome!
 
@@ -46,8 +43,7 @@ Host: Gracielle (10 min) [⏰ 10]
 
 ### Housekeeping 
 
-This call will be recorded and transcribed!
-
+* This call will be recorded and transcribed!
    * The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci)](https://www.youtube.com/c/OpenLifeSci)) in the next days
    * Turn on your webcam if you don't mind sharing your face (or off if you do!)
 **Breakout room: Speaking and Writing preference **- This will help us assign you to the breakout room with the format of your choice
@@ -57,13 +53,10 @@ This call will be recorded and transcribed!
        * **S-Fr- **for spoken discussion in French
        * **S-Fr/En - **for spoken discussion in French or English
        * **S-Es/En- **for spoken discussion in French or Spanish
-
-
-Where to indicate preference? --* In your Zoom name*
-
-       * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one **W** or **S **letters** in front of your name**
-   * Please let us know in the chat **your preference for the breakout room today - a co-host will edit your name to add one these letters:**
-   * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
+  * Where to indicate preference? --* In your Zoom name*
+    * You can edit your Zoom name directly (click on the three dots on the top right of your video) and add one **W** or **S **letters** in front of your name**
+    * Please let us know in the chat **your preference for the breakout room today - a co-host will edit your name to add one these letters:**
+    * If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call
 
 
 **Code of Conduct (CoC) and community participation guidelines**
@@ -77,10 +70,10 @@ The OLS CoC apply to this call and all interactions in Open Seeds: [https://we-a
 
 #### Name / What has been a highlight for you this week?
 
-   * Malvika / Definitely OLS-9 DRI-EDIA Track -- organising various parts of the cohort, coordination with champions and mentors, revisiting training materials - asking myself if I am sharing too much information! All have been both exciting and insightful.
+   * Malvika / Definitely OLS-9 DRI-EDIA Track -- organising various parts of the cohort, coordinating with champions and mentors, revisiting training materials - asking myself if I am sharing too much information! All have been both exciting and insightful.
    * Seun/ Learning and supporting the OLS 
    * Soorena / Learning
-   * Laura / Create my github for the DRI EDIA project :D. Excited to keep making progress.
+   * Laura / Create my GitHub for the DRI EDIA project :D. Excited to keep making progress.
    * Kelly / Learning about Git
    * Fanwang/extremely busy
    * Clotilde /OLS-EDI learning and new model in my research
@@ -90,7 +83,7 @@ The OLS CoC apply to this call and all interactions in Open Seeds: [https://we-a
    * Hamza /learning
    * Gracielle / OLS cohort calls! 
    * Memoona / Work organizational changes 
-   * Emilie / (non-OLS) befriending two stray cats
+   * Emilie / (non-OLS) befriended two stray cats
    * Ameer/ EDIA
    * Chiedozie / Teaching
    * Simplice /Planning my Alliance Project
@@ -118,21 +111,6 @@ Host/speaker: Malvika (5 min)[⏰ 15]
    * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQGAWc8i\_lqAvws2psLf\_pFqby4-PY50pZvzLtNH3C-6Y8ttmANy3vrVQ1oz3SqYw/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vQGAWc8i\_lqAvws2psLf\_pFqby4-PY50pZvzLtNH3C-6Y8ttmANy3vrVQ1oz3SqYw/pub?start=false\&loop=false\&delayms=3000)
 
 
-Notes:
-
-       * 
-       * 
-       * 
-
-
-Questions
-
-       * 
-       * 
-       * 
-
-
-
 ## 👥  Setting up a repository for your project 👥 
 **Activity**: Malvika explains, Gracielle creates breakout rooms (10 mins) [⏰ 25]
 
@@ -141,7 +119,6 @@ Questions
    * Discuss what you need to do to make this repository as open as possible for others
        * You can see example template in The Turing Way here: [https://github.com/the-turing-way/reproducible-project-template](https://github.com/the-turing-way/reproducible-project-template)
 
---------------------------------------------------------------------    
 
 **Take any notes you'd like to share with others not in your breakout room:*** Copy this template for your breakout room:*
    * Names: Person 1, Person 2, ...
@@ -149,7 +126,6 @@ Questions
        * 
        * 
 
---------------------------------------------------------------------
    * Names: Ameer , Renée  ...
    * Insights to share:
        * Plan on using GitHub, DRAC's Wiki, Youtube, Jupyter Notebook, Sharepoint, Magic Castle for Hardware
@@ -165,29 +141,11 @@ Questions
        * Using Github, Google drive
        * 
 
-
    * Names: Ijeoma, Jane, Nadia
    * Insights to share:
        * Use Google Drive, Share Point, Dropbox
        * GitHub may not work best for their team of collaborators or some of their fields
        * 
-
-   * Names: Person 1, Person 2, ...
-   * Insights to share:
-       * 
-       * 
-
-   * Names: Person 1, Person 2, ...
-   * Insights to share:
-       * 
-       * 
-       * 
-
-copy template to take your notes
-
-
-
-
 
 ### Share out
  (5 mins) [⏰ 30]
@@ -200,32 +158,19 @@ copy template to take your notes
            * You need to make a decision about why something can or cannot be shared.
            * [https://www.software.ac.uk/blog/ten-arguments-against-open-science-you-can-win](https://www.software.ac.uk/blog/ten-arguments-against-open-science-you-can-win)
 
---------------------------------------------------------------------    
 ## 🖥 README!
 
 Gracielle (10 min)[⏰ 40]
    * Slides: [https://bit.ly/3zXUAAJ](https://bit.ly/3zXUAAJ)
 
-
-Notes:
-
-       * 
-       * 
-       * 
-
-
-
 Questions
 
-       * Is an abstract a README?
-       * 
-       * 
+* Is an abstract a README?
+  * It depends on what you are trying to convey. For a project that is just starting, you might not need to provide that level of information. 
 
 
-### 🏗️  Self reflection and documentation
+### 🏗️  Self-reflection and documentation
 **Activity:** Gracielle explains (10 mins) [⏰ 50]
-
-
 
 **Start taking notes for your README file**
 
@@ -240,16 +185,6 @@ Questions
            * Team info
    * Step 2: Start a draft for a README file for your project: [https://docs.google.com/document/d/1eTr2ovR7x1YMrF0RQw6SmBfaAxVF07LLE6fvu0sFpLw/copy](https://docs.google.com/document/d/1eTr2ovR7x1YMrF0RQw6SmBfaAxVF07LLE6fvu0sFpLw/copy)
        * It can be in your GitHub repo, or a file in your shared-drive you are setting
-
-
-**Any written insights/thoughts/comments to share**
-
-   * 
-   * 
-   * 
-   * 
-
-
 
 ### Share out
 
@@ -284,7 +219,6 @@ Choose one of the following:
 reproducible-project-template
 
 
---------------------------------------------------------------------    
 **Take any notes you'd like to share with others not in your breakout room:*** Copy this template for your breakout room:*
    * Names: Shay, Soorena, Lanna
    * Insights to share:
@@ -293,7 +227,6 @@ reproducible-project-template
        * Effective collaboration
        * Positive Approach
        * Defining roles and responsibilities
---------------------------------------------------------------------
 
    * Names: Ameer, Renée, Fatou 
    * Insights to share:
@@ -344,7 +277,7 @@ copy template to take your notes
        * Assigning roles is important
        * Poor project management and lack of proper planning can cause chaos
        * 
---------------------------------------------------------------------
+
 
 ## 🖥 Open Licensing!
 
@@ -374,12 +307,6 @@ Questions
    * Can we revoke an open license:
        * [https://scholarlykitchen.sspnet.org/2022/05/11/q-can-you-revoke-a-creative-commons-license-a-no-er-sort-of-maybe/](https://scholarlykitchen.sspnet.org/2022/05/11/q-can-you-revoke-a-creative-commons-license-a-no-er-sort-of-maybe/)
        * It's possible to close the open project and "republish" a closed version
-
-**Any written insights/thoughts/comments to share**
-   * 
-   * 
-   * 
-   * 
 
 ### Self reflections
 
@@ -416,19 +343,19 @@ Questions
 ## ⌛ Break: 10 mins [⏰ 125 - 135]
 
 ------------------------------------
+
 ## 🖥  Community Participation Guideline \& Code of Conduct!
 
 Malvika (20 min)[⏰ 155]
-   * Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQBemDyyC8rP6DzsXiHK4QM70TeRdJL4gGYL4io\_J5uh7evt-27VLAcAhtraSyJ3tHH\_V30Zou1lQyj/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vQBemDyyC8rP6DzsXiHK4QM70TeRdJL4gGYL4io\_J5uh7evt-27VLAcAhtraSyJ3tHH\_V30Zou1lQyj/pub?start=false\&loop=false\&delayms=3000)
+* Slides: [https://docs.google.com/presentation/d/e/2PACX-1vQBemDyyC8rP6DzsXiHK4QM70TeRdJL4gGYL4io\_J5uh7evt-27VLAcAhtraSyJ3tHH\_V30Zou1lQyj/pub?start=false\&loop=false\&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vQBemDyyC8rP6DzsXiHK4QM70TeRdJL4gGYL4io\_J5uh7evt-27VLAcAhtraSyJ3tHH\_V30Zou1lQyj/pub?start=false\&loop=false\&delayms=3000)
 
-Notes:
+  * Notes:
        * A contribution document can be seen as an onboarding document for new people, they structure contributions by providing guidelines to new contributors.
        * No project is done in a void! You'll always have a community around your project, and you can make use of that to "fish" contributors and users.
        * 
        * 
 
-Questions
-
+  * Questions
        * How do you deal with compensation for the contribution? Some people may expect some form of compensation if they contribute
            * Contribution might look different for different people - we'll discuss attribution later in the training!
        * What is the difference between contribution guidelines and a code of conduct (if any)?
@@ -436,9 +363,6 @@ Questions
            * Contribution guidelines are very specific about *how* to contribute content and labour to your project (what are the steps? what's the language? should I open an issue? should I email the leaders?)
        * How to keep people engaged in contribution?
            * We'll have calls about community engagement down the road =D
-       * 
-
-
 
 ## 👥 Discussion on community participation 👥
 
@@ -449,19 +373,7 @@ Gracielle Introduces the activity (10 mins + 5 mins share out) [⏰ 170]
 
    * Based on your plan to engage others in your project, what kind of participation would you like to support in your project?
    * Do you feel prepared to support external engagement? What kinds of resources and skills do you need?
-
-
-**Any insights/thoughts/comments to share from your breakout room?**
-   * 
-   * 
-   * 
-
-
-**Feedback:**
-   * 
-   * 
-   * 
-   * 
+ 
 --------------------------------------------------------------------    
 
 ## 🗣️ Closing \& Q\&A
@@ -472,11 +384,11 @@ Host: Malvika [⏰ 180]
    * Add an open license to your repository as a file called LICENSE.md
 **Select a license: **
 
-   1. Identify ideal open license for your project outputs that can be broadly listed under
+   1. Identify an ideal open license for your project outputs that can be broadly listed under
        1. **Open documentation or creative outputs**: you can select creative commons license: [https://chooser-beta.creativecommons.org/](https://chooser-beta.creativecommons.org/)
        1. **Open code/software**: use the recommender: [https://choosealicense.com/](https://choosealicense.com/)
        1. **Open data**: find recommendations for research data license by F1000: [https://www.f1000.com/researcher\_blog/open-licenses-data/](https://www.f1000.com/researcher\_blog/open-licenses-data/)
-   1. **Add license to your repository:**
+   1. **Add a license to your repository:**
        1. For projects producing multiple kinds of outputs, same LICENSE file can have details about the selected file (see example in the template repo: [https://github.com/the-turing-way/reproducible-project-template/blob/main/LICENSE.md)](https://github.com/the-turing-way/reproducible-project-template/blob/main/LICENSE.md))
 ---
 
@@ -532,7 +444,5 @@ What surprised you?
    * 
    * 
 
-
-Reference : Mozilla Open leadership Framework, Open Life Science
 
 Licence : CC BY 4.0, Open Life Science (OLS-8), 2023
