@@ -16,7 +16,7 @@ Are you an OLS-9 participant but can’t attend this call? The recording from th
 
 ## During today's call, we will:
 
-* Identify tools to help you design your project in a clear way for newcomers to quickly understand what the project is about, who can be involved, and where the work is headed
+* Identify ways for newcomers to quickly understand what the project is about, who can be involved, and where the work is headed
 * Fill the open canvas for your project to think through an open project strategy to develop an MVP
 * Reflect on the roadmap for your project with milestones - start drafting them with descriptions and tasks
 * After this call, develop documentation and resources for your project and share them with others
@@ -192,10 +192,10 @@ Presenter: Malvika (5 min) [⏰ 100]
 Malvika Introduces the activity, Gracielle creates a breakout with 2 people in each room (10 min) [⏰ 110]
 
 ### Instructions for the room:
-   * 5 mins discussion: Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format.
-   * 8 mins drafting a vision statement
+   * 5 mins discussion: Articulate your big idea, vision or dream that you want to achieve by working openly, and experiment with expressing your vision in a short format.
+   * 8 minutes drafting a vision statement
    * 2 mins share what you wrote
-       * You will be able to iterate and improve on this and exchange feedback on each others vision statements in the coming days
+       * You will be able to iterate and improve on this and exchange feedback on each other's vision statements in the coming days
 
 ## Introduce: Setting your goals
 
