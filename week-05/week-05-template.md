@@ -13,9 +13,6 @@ Are you an Open Seeds participant but can't attend this call? The recording from
 ### Before this call
 
 * Please create a GitHub account: [https://github.com](https://github.com)
-* Have a look at the OLS repository for 'project issues': [https://github.com/open-life-science/ols-8/issues](https://github.com/open-life-science/ols-9/issues)
-* Comment on 1-2 project's recent posts (vision, open canvas etc.)
-* Create your 'project issue'
 
 ### During this week's cohort call, we will:
 
@@ -26,6 +23,12 @@ Are you an Open Seeds participant but can't attend this call? The recording from
    * Enable a small website via GitHub
    * Submit changes to a GitHub repository via Pull Request (PR)
    * Set the scene for self-paced learning after this session
+
+### After this call
+
+* Have a look at the OLS repository for 'project issues': [https://github.com/open-life-science/ols-8/issues](https://github.com/open-life-science/ols-9/issues)
+* Comment on 1-2 project's recent posts (vision, open canvas etc.)
+* Create your 'project issue'
 
 ## 🗣️ Welcome!
 
