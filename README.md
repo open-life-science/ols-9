@@ -10,14 +10,6 @@ Learn about all participants and projects in [Catalyst Track](https://we-are-ols
 Open Life Science participants adhere to a [code of conduct](CODE_OF_CONDUCT.md). 
 By participating, you are expected to uphold this code. Please report unacceptable behaviour to [team@we-are-ols.org](mailto:team@we-are-ols.org).
 
-### Graduation guide
-
-To learn about graduation criteria and process, please visit this [Graduation Guide](https://we-are-ols.org/openseeds/cohort-procedures-and-templates/graduation-guide.html).
-
-Please register for the upcoming graduation [rehearsal/feedback session on Week 15](https://annuel2.framapad.org/p/ols-9-week-15) and sign up for [graduation calls on Week 16](https://annuel2.framapad.org/p/ols-9-week-15).
-
-Both documents also provide important steps to follow before your graduation.
-
 ## Important resources
 
 Please visit notes to find out structure of the programme, notes taken during the session as well as assignments shared at the end of the cohort calls.
@@ -42,6 +34,14 @@ Please visit notes to find out structure of the programme, notes taken during th
   * [Click on this link](https://github.com/open-life-science/ols-9/issues/new?assignees=&labels=&projects=&template=project.md&title=) to edit and create an issue for your project.
 * Each issue will provide details for a project currently going through OLS-9: [https://github.com/open-life-science/ols-9/issues](https://github.com/open-life-science/ols-9/issues). 
   * Find out more about each project and comment on the individual issue to share thoughts and provide feedback.
+ 
+### Graduation guide
+
+To learn about graduation criteria and process, please visit this [Graduation Guide](https://we-are-ols.org/openseeds/cohort-procedures-and-templates/graduation-guide.html).
+
+Please register for the upcoming graduation [rehearsal/feedback session on Week 15](https://annuel2.framapad.org/p/ols-9-week-15) and sign up for [graduation calls on Week 16](https://annuel2.framapad.org/p/ols-9-week-15).
+
+Both documents also provide important steps to follow before your graduation, and to publish a blog post about your work after graduation.
 
 ## Contact
 
