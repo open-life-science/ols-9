@@ -45,4 +45,9 @@ Both documents also provide important steps to follow before your graduation, an
 
 ## Contact
 
-For any questions and information regarding the OLS-9 cohort, please email: 
+For any questions and information regarding the OLS-9 cohort, please email: team@we-are-ols.org.
+
+## ♻️ License
+
+All resources used for hosting and delivering cohort calls are shared on Zenodo and licensed under the Creative Commons Attribution 4.0 International license (for documentation). You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use and with no additional restrictions.
+
